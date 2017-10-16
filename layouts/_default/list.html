@@ -1,0 +1,31 @@
+<!-- This is the default list template, e.g., article and author page lists -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>The Reed College Quest</title>
+		<link rel="stylesheet" href="base.css">
+  </head>
+  <body>
+    {{.Content}}
+    {{ range .Pages }}
+    <div class="post">
+			<div>
+				<a href="{{.URL}}">{{.Title}}</a>
+			</div>
+			<div class="post-metadata">
+				<strong>By:</strong> {{ .Params.author }}
+			</div>
+			<div class="post-metadata">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+			<div class="post-metadata">
+				{{ if .Params.categories }}
+				<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+				{{end}}{{end}}
+			</div>
+			<p>{{.Summary}}</p>
+		</div>
+    {{ end }}
+  </body>
+</html>
