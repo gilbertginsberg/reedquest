@@ -1,0 +1,16 @@
+---
+title: West Coast to West Point
+author: John Iselin
+type: post
+date: 2012-01-28T07:01:35+00:00
+url: /2012/01/27/west-coast-to-west-point/
+categories:
+  - Front Page
+  - News
+
+---
+Never let it be said that the military doesn’t have a sense of humor. Outside the West Point Library stands a statue of General George Patton, a powerful figure in World War II and a West Point Graduate. Patton is clasping his binoculars, staring proudly out over the Hudson River, facing defiantly away from the library. The careful choice by the sculptor, as explained to me by a second year cadet, reflects Patton’s distain for book learning and the library. As a Reedie, such an active display of disrespect towards the library was both horrifying and oddly liberating, and it contrasted the cadets’ beliefs with Reedies’. At Reed we pride ourselves on our singular devotion to academics, while West Point’s stated policy is that academics stand with athletics and enhancing the qualities of a good soldier as the three pillars of education.
+
+The statue of Patton illustrates the West Point stance; he is a man near the library, but one who is always looking elsewhere, toward a future every cadet knows is coming. Reedies look inward, focusing on their studies to the exclusion of all else. Bringing a Reedie like me to West Point required the cadets and I to reevaluate some of the basic assumptions about the way we approached our academic experience. The two different perspectives were brought effectively together at the Student Conference on US Affairs, where over a dozen groups of students from multiple different civilian and military institutions met to discuss numerous issues that affect the United States today. These range from trade and globalization and the European debt crisis, to arms control and managing international terrorism. It is worth noting, even given the focus on athletics and the duties of a soldier, that cadets from all branches were more than able to engage in an active discussion on the issues. I had multiple exchanges with a Naval Cadet whose knowledge of the South China Sea and international trade was impressive, and he never stopped reminding me that the US Navy must have 313 ships at all times.
+
+It is always good to encounter a new way of viewing education, and it is healthy for Reedies, including myself, to get kicked out of the library at 10:30 PM and be exposed to a different way of thinking. As Reedies were fighting over a the Doyle Owl, freshmen Naval cadets were engaged in a escalating prank battle with their Air Force counterparts, which involved increasingly impressive displays of engineering prowess and upper body strength that no Reedie possesses. The differing views did extend beyond a different theory on educational priorities. It is worth noting at a political gathering the right-leaning political beliefs of most of the cadets and delegates. However, it represented a refreshing break from the stream of liberal politics common at our college and allowed me to sharpen my wits in arguments and discussions that I far too rarely get to have at Reed. Being exposed to these new ideas both altered my way of thinking and left me better prepared to defend the Reed philosophy of academic motivation and my own personal understanding about the state of the international realm and the United States’s place in it
