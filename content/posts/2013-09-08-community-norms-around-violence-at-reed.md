@@ -1,0 +1,26 @@
+---
+title: 'Letter: Community Norms Around Violence at Reed'
+author: Alberta Bleck
+type: post
+date: 2013-09-08T21:03:49+00:00
+url: /2013/09/08/community-norms-around-violence-at-reed/
+categories:
+  - Left Sidebar
+  - Opinion
+
+---
+Last semester may seem like a time ago, but I want to take a moment to reflect on some things I have continued to think about and that need to be addressed by this community as we approach the new semester and the coming years. In light of events that occurred at Stop Making Sense and the Doyle Owl Fight last April, I want to be unequivocal in stating that violence is not a part of this community’s norms. Beyond this, if we want to be the community we imagine ourselves to be, we must think long and hard about the ways we approach our lives outside of our classes and the atmosphere we are creating through our actions and interactions.
+
+To summarize for the new students and those who were not present for these events last semester, several physical altercations occurred during the Stop Making Sense dance party, held in late April of last semester. During the course of the night several scuffles broke out, thought no serious injuries were reported. Speaking for myself, I observed quite a few small scuffles inside the SU during Stop Making Sense. Though I am not sure how many of these skirmishes involved people from off-campus, it set a tone for the night which was unpleasant, to say the least.
+
+At some point in the night, it was revealed on the large projector screens (where they project the actual “Stop Making Sense” video) that the Doyle Owl was back on the Reed campus and currently outside Kaul. As is typical, many students rushed out and began to tussle over the owl. What was atypical about this owl fight was that when someone drove their car to retrieve the owl, their tire was slashed so the car was immobilized. I do not know whose car this was. I do not know who slashed the tire. What I saw was the car stuck while Gary Granger was called at home to come and address the situation. I heard later that another person’s car tire was slashed after they tried to get the owl. This has not been verified to me. This is a very serious accusation. Clearly, the tradition of fighting over the Doyle Owl in an effort to obtain it for one’s group got out of hand, leading to people harming other people’s (very expensive) property.
+
+The fact that fighting over the Doyle Owl is acceptable, while interpersonal fights are not may seem contradictory, which is why I think it needs to be addressed here. The fight over the Doyle Owl has clear limits. We are fighting for the Owl simply to obtain the Owl. No one wishes anyone to come to harm. It is a good-natured struggle that gives us a chance to touch a piece of Reed’s lore, and allows us a chance to blow off some steam in the process.
+
+In this case, I think the struggle went way too far. Whenever any person or their belongings are harmed (especially highly valuable objects such as a car), it is time to reevaluate the tradition and how we are approaching it. Was this Doyle Owl fight really in good faith? Did it embody the values of previous struggles for the Owl? We must find a way to fight over the Doyle Owl while respecting the Reedies struggling around us. This means that minimal bodily harm should be inflicted on those participating. Ideally, we would all support each other and continue the traditions of respect and open communication as the HP encourages us to do. If the fight cannot occur in an honorable way I believe the tradition should be seriously reconsidered.
+
+But let me back up a few steps. Why exactly is violence outside of our community norms? Violence is a serious violation of the Honor Principle for several reasons. First, it goes directly against the most common interpretation of the HP, which states that, “any action that causes unnecessary pain or discomfort to any member of the Reed community, group within the community, or to the community as a whole, is a violation of the Honor Principle.” Second, in a community that values intellectual inquiry, and seeks to pursue knowledge through a collaborative and inclusive environment, any instance of violence on campus is toxic to this environment and is antithetical to the mission of the college.
+
+As the chair of the Community Rights Subcomittee of Honor Council, and more importantly a student of Reed, I feel that I must speak up about my feelings surrounding these events. I do not wish for what occurred last semester be forgotten or swept under the rug. Rather, I hope that these events become the standard by which we measure ourselves and a catalyst to start a conversation about civility at Reed sponsored events.
+
+If anything, I hope we can bring more of the thoughtfulness we take into our classes every day with us into events that occur over the weekend. I believe as much as anyone that we need a break, as Reed demands a great deal from us, mentally, physically, and emotionally. However, this by no means gives us an excuse to throw any introspection to the wayside when the weekend finally rolls around. To the contrary, we should strive to utilize the tools from conference in the real world. If I may hazard a guess, a little critical thinking and communication would do all of us a lot of good.

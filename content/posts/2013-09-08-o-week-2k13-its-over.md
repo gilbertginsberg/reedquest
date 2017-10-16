@@ -1,0 +1,20 @@
+---
+title: 'O-Week 2k13: It’s Over'
+author: Jenn Lindell
+type: post
+date: 2013-09-08T20:57:57+00:00
+url: /2013/09/08/o-week-2k13-its-over/
+categories:
+  - Left Sidebar
+  - Opinion
+
+---
+First of all, a week-long Orientation for 400 new Reedies is a huge undertaking, so we would like to thank all the staff, faculty, HAs and other students who made O-Week 2013 as great as it was. Thank you! A lot of planning goes into making new students and their parents feel welcome and at ease when they arrive at Reed, so the Quest asked us to reflect on our experience as Orientation Coordinators (OCs), and say a little about the position. Basically, the OCs are responsible for working with student groups to plan student-run events, contacting relevant staff and faculty to ensure that informational sessions go smoothly, and for planning all the fun evening and weekend events. Some of the events we were most proud of include bringing back Critical Hit Burlesque, the late-night Hobbit showing, and the buzz-cut station – suggested by a couple of HAs. (Who knew it would be such a hit? You new students are crazy!)
+
+Coordinators start work in March and spend the first few weeks training, getting to know each other, and discussing the philosophy behind Orientation with Kristin Holmberg, Director of Student Activities. Before the school year ends, the OCs also get to hire two Orientation Assistants (OAs), who will join them two weeks before Orientation for final preparations. After classes are over, planning gets fairly serious. OCs spend their summer in an oddly sunny Portland (with the option of free RCA housing), and work about 350 hours each (including 50+ each during Orientation itself). As an Orientation Coordinator, there are opportunities to interact with a wide variety of staff and faculty members, learn to balance a large budget, negotiate contracts, and, most importantly, be some of new students’ first contacts at Reed. Calming students (and their parents) down over the phone was a surprisingly big part of the job. It’s an enormously satisfying and fulfilling position, but is very demanding in its time and emotional and mental energy commitment.
+
+Most people probably don’t know that by the time the OCs get to work on the Orientation schedule, a lot has already been decided. For example, this year’s Orientation was a day longer than O-weeks have been in recent years – a decision that was the result of three semesters of planning by a separate committee. Most aspects of the GO (generally obligatory) sessions (about honor, academic and AOD policy, inclusivity, consent, etc.) are already figured out before the OCs become involved, which means there is at least a skeleton of an Orientation schedule to work with on day one. On top of that, many well-established student groups can usually be counted on to run an event year after year (the WMD fire show, for example), so as OCs we had a lot to build off of. We tried to come up with good ideas of our own, and accommodate as many ideas suggested by others as possible, but by mid-July it gets harder and harder to fit new events in. (So if you have a great idea, talk to next year’s OCs early!)
+
+Now that Orientation is over and classes have begun, we have a lot of thank-you letters to write! We also have a lot of feedback to think about as we prepare to gather materials and bits of wisdom to pass on to whichever two Reedies will bear the title of Orientation Coordinator next year. If you have any comments or questions about Orientation or this article, feel free to email [&#x6f;&#x72;&#x69;&#x65;&#x6e;&#x74;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x40;<span class="oe_displaynone">null</span>&#x72;&#x65;&#x65;&#x64;&#x2e;&#x65;&#x64;&#x75;][1]. And if you think this position sounds like a pretty sweet gig, you’d be right: consider applying this semester (look for the posters!), and you might get to plan a big welcome for the Class of 2018 next fall.
+
+ [1]: mailto:&#x6f;&#x72;&#x69;&#x65;&#x6e;&#x74;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x40;&#x72;&#x65;&#x65;&#x64;&#x2e;&#x65;&#x64;&#x75;

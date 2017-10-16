@@ -1,0 +1,33 @@
+---
+title: 'Fulbright Scholarships and Reedies: Why You Should Apply'
+author: En-Szu Hu-Van Wright
+type: post
+date: 2011-03-31T19:52:32+00:00
+excerpt: |
+  |
+    <p>So what exactly does one do after graduating from Reed? That seems to be  a question plaguing most rising juniors and underclassmen as each  academic year comes to a close. Internships, jobs, grad school: all of  these options, while exciting and promising for some, might not be  exactly what you’re looking for. Maybe you’re looking for adventure;  maybe you want to travel the world. Reed wants nothing more than for its  students to pursue their dreams as far as they can, and that’s why the  college is eager to expose eligible students to the prestigious  Fulbright Scholarship—among other equally exciting fellowship and  scholarship opportunities—this month.</p>
+url: /2011/03/31/fulbright-scholarships-and-reedies-why-you-should-apply/
+categories:
+  - Front Page
+  - News
+
+---
+So what exactly does one do after graduating from Reed? That seems to be a question plaguing most rising juniors and underclassmen as each academic year comes to a close. Internships, jobs, grad school: all of these options, while exciting and promising for some, might not be exactly what you’re looking for. Maybe you’re looking for adventure; maybe you want to travel the world. Reed wants nothing more than for its students to pursue their dreams as far as they can, and that’s why the college is eager to expose eligible students to the prestigious Fulbright Scholarship—among other equally exciting fellowship and scholarship opportunities—this month.
+
+The Fulbright Scholarship is a world-renowned award and international exchange program that provides students demonstrating academic and leadership potential with the opportunity to study or teach their native language in a foreign country for a year. Founded in 1946, the Fulbright Program has had nearly 300,000 participants since its creation. Funded primarily by the United States Congress, the 2008 Congressional appropriation for the program was $215.4 million. Foreign governments contribute approximately $60 million in funding, and participating host institutions and governments give annual financial contributions to help cover salary supplements, university tuition and housing costs. Numerous Reedies have been Fulbright recipients in the past, and this year, two Reed alums are currently abroad as part of the program.
+
+Jo Cannon, Reed’s Fellowship Coordinator, is enthusiastic about the scholarship. “The Reed student body is in the best position to apply for the Fulbright,” she says.
+
+“The Fulbright is an opportunity to go abroad and teach English or study at a university in a foreign country for a year,” explains Cannon. Students have the option of choosing from over 155 countries as their location for study, research, or teaching conversational English while getting to know the local culture. The Fulbright Scholarship is available to students who have completed their bachelor’s degree, but have not yet received a doctorate, and is perfect for students who are looking to expand their before continuing on with their education or career path.
+
+Cannon is very confident in the ability of Reed students to receive the fellowship and tries to make the application process as engaging as possible. “We reach out to juniors in the spring so they can work on their applications over the summer, and since the deadlines are in September, we offer feedback during the summer months as well,” says Cannon.
+
+Though Reedies are well-equipped to compete for the Fulbright, it’s not easy to be awarded the scholarship. Says Cannon, “It’s a challenging application. Chances are slim. But most people have benefited from simply applying. Not everything is going to be rosy, but a lot of people are glad they did it; it made them question what they really want to do and who they are. That’s a lot harder to do when you spend all day studying something like, say, German literature.”
+
+To prepare students for the application process, Reed is conducting a number of workshops and seminars on writing personal statements and other relevant necessary skills. After applications are completed, Reed’s Fellowships and Awards Committee reviews them and interviews each applicant. These applications are then forwarded to the National Screening Committee, which recommends candidates for further consideration. By the following January, applicants are notified whether or not their applications have reached the next step – review by the host country in which they desire to spend their year as a Fulbright Scholar. After the host country review, the Fulbright Foreign Scholarship Board makes its final decisions and informs recipients of their award.
+
+Because the Fulbright is highly selective, Cannon warns students that they should only apply “if [they] really want to. You must be absolutely passionate about something – it’s got to be something that you’ve shown interest in while here as well – and it’s not an opportunity to learn something entirely new. It’s a chance to extend your experience beyond the United States.”
+
+The Fulbright Scholarship does indeed focus on the passion students demonstrate. “The GPA bar isn’t set very high, because they don’t care about only that,” Cannon says. “They really look at the strength of your application and what, why, and how you’re interested in your subject of choice.”
+
+There are a number of things students should do if they are interested in the Fulbright Scholarship. Before the beginning of summer break, academic advisors should be informed of your interest in applying: Discuss your potential project ideas and determine if you are a solid candidate for the award. Jo Cannon should also be informed of your decision, as she can determine a schedule for application completion. Attend the information sessions Reed is holding to determine if the Fulbright is really for you, and contact potential recommenders as soon as you are sure of your intent to go through with the application (go in person!). Contact on-campus resources, as Jo Cannon and Paul DeYoung, Reed’s Fulbright Program Advisor and liaison to the Fulbright program. Kate Bredeson, Assistant Professor of Theatre and Fulbright liaison member of the Fellowships and Awards Committee, is also a valuable resource, offering feedback on project proposals and drafts. Career Services is more than willing to help and give general advice on other post-Reed opportunities. With all the support offered by Reed, there’s never been a better time for students to apply for the Fulbright Scholarship.
