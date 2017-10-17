@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "The Reed College Quest"
+github = "reedquest"
+twitter = "reedquest"
+shortDescription = "The Reed College Quest is the independently run student newspaper of Reed College."
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    author = "authors"
