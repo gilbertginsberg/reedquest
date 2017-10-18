@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  {{ partial "head.html" . }}
-  <body>
-    {{ partial "header.html" . }}
-    {{ partial "posts.html" . }}
-  </body>
-</html>
+{{ define "main" }}
+  {{ partial "posts.html" . }}
+This is the default list template.
+{{ end }}

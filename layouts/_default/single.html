@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  {{ partial "head.html" . }}
-  <body>
-    {{ partial "header.html" . }}
-    {{.Content}}
-  </body>
-</html>
+{{ define "main" }}
+    This is the default single template.
+    {{ if eq .Type "post" }}
+        {{ partial "post.html" . }}
+    {{ end }}
+{{ end }}

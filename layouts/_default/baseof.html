@@ -1,0 +1,24 @@
+<!-- 
+	* baseof.html acts as your master (outer shell) template for all site pages. 
+		Which means all your pages (list and single) inherit from this baseof.html template, including your homepage.
+
+	* See https://gohugo.io/templates/base/ for details.
+-->
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+		<div id="site-container">
+			{{ partial "header.html" . }}
+
+			<!-- The "main" block is the part of the page that begins to differ between templates-->
+			<main>
+				{{ block "main" . }}
+				
+				{{ end }}
+			</main>
+
+			{{ partial "footer.html" . }}
+		</div>
+  </body>
+</html>
