@@ -1,4 +1,7 @@
 <header>
-	<h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+	<div class="logo">
+		<a href="{{ .Site.BaseURL }}"><img src="quest_logo.png" alt="The Reed College Quest logo"></a>
+		<h1><a href="{{ .Site.BaseURL }}">The Quest</a></h1>
+	</div>
 	{{ partial "nav.html" . }}
 </header>
