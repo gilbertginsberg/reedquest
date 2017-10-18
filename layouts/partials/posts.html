@@ -1,32 +1,32 @@
 <!-- Displays list of articles -->
-
-{{ range .Data.Pages }}
-	{{ if eq .Type  "post" }}
-		<div class="post">
-		<div>
-				<a href="{{.URL}}">{{.Title}}</a>
-		</div>
-		<div class="post-metadata">
-				{{ if .Params.authors }}
-				<strong>By:</strong> {{range .Params.authors}}<a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
-				{{end}}
-				{{end}}
-		</div>
-		<div class="post-metadata">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
-		<div class="post-metadata">
-			{{ if .Params.tags }}
-			<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
-			{{end}}
-			{{end}}
-		</div>
-		<div class="post-metadata">
-			{{ if .Params.categories }}
-			<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
-			{{end}}
-			{{end}}
-		</div>
-		<p>{{.Summary}}</p>
+{{ range (.Paginator 10).Pages }}  
+<div class="post">
+	<div>
+			<a href="{{.URL}}">{{.Title}}</a>
 	</div>
-	{{ end }}
+	<div class="post-metadata">
+			{{ if .Params.authors }}
+			<strong>By:</strong> {{range .Params.authors}}<a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+			{{end}}
+			{{end}}
+	</div>
+	<div class="post-metadata">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+	<div class="post-metadata">
+		{{ if .Params.tags }}
+		<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+		{{end}}
+		{{end}}
+	</div>
+	<div class="post-metadata">
+		{{ if .Params.categories }}
+		<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+		{{end}}
+		{{end}}
+	</div>
+	<p>{{.Summary}}</p>
+</div>
 {{ end }}
 
+{{ template "_internal/pagination.html" . }}
+
+{{ partial "pagination-nav.html" . }}
