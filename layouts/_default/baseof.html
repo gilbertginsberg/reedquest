@@ -13,10 +13,13 @@
 
 			<!-- The "main" block is the part of the page that begins to differ between templates-->
 			<main>
+			
 				{{ block "main" . }}
 				
 				{{ end }}
+				
 			</main>
+			
 
 			{{ partial "footer.html" . }}
 		</div>
