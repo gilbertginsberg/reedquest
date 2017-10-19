@@ -1,6 +1,7 @@
 ---
 title: Letter on Sustainability
-author: Austin Weisgrau
+authors: 
+  - "Austin Weisgrau"
 type: post
 date: 2013-10-12T23:40:48+00:00
 url: /2013/10/12/letter-on-sustainability/

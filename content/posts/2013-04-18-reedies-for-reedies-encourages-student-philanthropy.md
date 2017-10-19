@@ -1,6 +1,7 @@
 ---
 title: Reedies for Reedies Encourages Student Philanthropy
-author: Sydney Scarlata
+authors: 
+  - "Sydney Scarlata"
 type: post
 date: 2013-04-19T05:07:53+00:00
 url: /2013/04/18/reedies-for-reedies-encourages-student-philanthropy/

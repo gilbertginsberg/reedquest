@@ -1,6 +1,7 @@
 ---
 title: Hippie Turns Half-Baked Idea into Americone Dream
-author: Clara Rice
+authors: 
+  - "Clara Rice"
 type: post
 date: 2013-02-15T03:17:58+00:00
 url: /2013/02/14/hippie-turns-half-baked-idea-into-americone-dream/

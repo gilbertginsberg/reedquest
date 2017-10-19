@@ -1,6 +1,7 @@
 ---
 title: KRRC Schedule
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-09-20T21:34:43+00:00
 url: /2013/09/20/krrc-schedule/

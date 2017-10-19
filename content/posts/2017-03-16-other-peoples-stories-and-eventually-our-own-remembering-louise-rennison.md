@@ -1,6 +1,7 @@
 ---
 title: 'Other People’s Stories, And Eventually, Our Own: Remembering Louise Rennison'
-author: Tyler Adams
+authors: 
+  - "Tyler Adams"
 type: post
 date: 2017-03-16T02:39:46+00:00
 url: /2017/03/16/other-peoples-stories-and-eventually-our-own-remembering-louise-rennison/

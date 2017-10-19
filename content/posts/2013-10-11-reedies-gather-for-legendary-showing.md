@@ -1,6 +1,7 @@
 ---
 title: Reedies Gather for Legendary Showing
-author: Ben Williams
+authors: 
+  - "Ben Williams"
 type: post
 date: 2013-10-11T22:17:35+00:00
 url: /2013/10/11/reedies-gather-for-legendary-showing/

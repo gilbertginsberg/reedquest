@@ -1,6 +1,7 @@
 ---
 title: First Biannual Bioinformatics Workshop Provides Insight Into a Booming Field
-author: Michael Song
+authors: 
+  - "Michael Song"
 type: post
 date: 2013-04-26T00:30:47+00:00
 url: /2013/04/25/first-biannual-bioinformatics-workshop-provides-insight-into-a-booming-field/

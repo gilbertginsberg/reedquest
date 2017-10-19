@@ -1,6 +1,7 @@
 ---
 title: Bike Theft Saga
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-10-05T01:13:01+00:00
 url: /2013/10/04/bike-theft-saga/

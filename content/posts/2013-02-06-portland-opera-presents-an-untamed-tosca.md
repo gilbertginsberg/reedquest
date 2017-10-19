@@ -1,6 +1,7 @@
 ---
 title: Portland Opera Presents an Untamed Tosca
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2013-02-07T04:00:56+00:00
 url: /2013/02/06/portland-opera-presents-an-untamed-tosca/

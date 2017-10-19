@@ -1,6 +1,7 @@
 ---
 title: 'Talking about Nüde Reed: Honor Council Forum'
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-09-27T23:32:16+00:00
 url: /2013/09/27/talking-about-nude-reed-honor-council-forum/

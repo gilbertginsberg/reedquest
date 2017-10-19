@@ -1,6 +1,7 @@
 ---
 title: Reed Alumna Brings Stairs to Life
-author: Jaelin Cola
+authors: 
+  - "Jaelin Cola"
 type: post
 date: 2013-09-27T23:09:59+00:00
 url: /2013/09/27/reed-alumna-brings-stairs-to-life/

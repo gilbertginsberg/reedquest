@@ -1,6 +1,7 @@
 ---
 title: Reed Reclaims Facebook Page in Social Media Push
-author: Jordan Yu
+authors: 
+  - "Jordan Yu"
 type: post
 date: 2013-02-27T05:11:14+00:00
 url: /2013/02/26/reed-reclaims-facebook-page-in-social-media-push/

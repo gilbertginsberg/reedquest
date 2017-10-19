@@ -1,6 +1,7 @@
 ---
 title: Dylan, A Well-Loved Dog
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-10-11T23:40:38+00:00
 url: /2013/10/11/dylan-a-well-loved-dog/

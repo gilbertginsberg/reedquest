@@ -1,6 +1,7 @@
 ---
 title: Poetry Night Opens Up
-author: James Curry
+authors: 
+  - "James Curry"
 type: post
 date: 2013-02-07T10:37:55+00:00
 url: /2013/02/07/poetry-night-opens-up/

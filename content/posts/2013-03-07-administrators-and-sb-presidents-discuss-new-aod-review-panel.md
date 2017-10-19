@@ -1,6 +1,7 @@
 ---
 title: Administrators and SB Presidents Discuss New AOD Review Panel
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2013-03-07T23:03:17+00:00
 url: /2013/03/07/administrators-and-sb-presidents-discuss-new-aod-review-panel/

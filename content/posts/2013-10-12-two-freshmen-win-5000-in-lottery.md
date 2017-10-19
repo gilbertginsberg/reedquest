@@ -1,6 +1,7 @@
 ---
 title: Two Freshmen Win $5,000 in Lottery
-author: Daniel Hong
+authors: 
+  - "Daniel Hong"
 type: post
 date: 2013-10-12T23:47:49+00:00
 url: /2013/10/12/two-freshmen-win-5000-in-lottery/

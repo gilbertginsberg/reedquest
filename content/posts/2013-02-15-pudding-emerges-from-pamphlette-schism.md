@@ -1,6 +1,7 @@
 ---
 title: Pudding Emerges from Pamphlette Schism
-author: Drew Garcia
+authors: 
+  - "Drew Garcia"
 type: post
 date: 2013-02-15T08:01:02+00:00
 url: /2013/02/15/pudding-emerges-from-pamphlette-schism/

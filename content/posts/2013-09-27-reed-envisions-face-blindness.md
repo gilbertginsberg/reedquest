@@ -1,6 +1,7 @@
 ---
 title: Reed Envisions Face-Blindness
-author: Charles Nunziato
+authors: 
+  - "Charles Nunziato"
 type: post
 date: 2013-09-27T22:56:24+00:00
 url: /2013/09/27/reed-envisions-face-blindness/

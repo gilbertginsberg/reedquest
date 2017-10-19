@@ -1,6 +1,7 @@
 ---
 title: An Alumna’s Open Letter to the Board of Trustees
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-02-07T06:15:02+00:00
 url: /2013/02/06/an-alumnas-open-letter-to-the-board-of-trustees/

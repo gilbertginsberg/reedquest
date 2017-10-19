@@ -1,6 +1,7 @@
 ---
 title: 'MFNW: Barely Remembered, Barely Reviewed'
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-09-14T05:05:40+00:00
 url: /2013/09/13/mfnw-barely-remembered-barely-reviewed/

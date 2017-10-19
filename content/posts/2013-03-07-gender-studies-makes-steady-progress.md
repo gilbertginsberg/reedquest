@@ -1,6 +1,7 @@
 ---
 title: Gender Studies Makes Steady Progress
-author: Jennifer McNeal
+authors: 
+  - "Jennifer McNeal"
 type: post
 date: 2013-03-07T23:16:24+00:00
 url: /2013/03/07/gender-studies-makes-steady-progress/

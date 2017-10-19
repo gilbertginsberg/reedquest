@@ -1,6 +1,7 @@
 ---
 title: Statement of Purpose; “Spiel”; Our “Schtick”
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-09-08T21:08:35+00:00
 url: /2013/09/08/statement-of-purpose-spiel-our-schtick/

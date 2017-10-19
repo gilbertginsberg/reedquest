@@ -1,6 +1,7 @@
 ---
 title: Arts and Politics Zine Praxis Begins Anew
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-03-14T21:51:59+00:00
 url: /2013/03/14/arts-and-politics-zine-praxis-begins-anew/

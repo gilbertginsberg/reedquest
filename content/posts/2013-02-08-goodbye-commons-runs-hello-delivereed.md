@@ -1,6 +1,7 @@
 ---
 title: Goodbye Commons Runs. Hello DeliveReed.
-author: Elisa Cibils
+authors: 
+  - "Elisa Cibils"
 type: post
 date: 2013-02-09T03:43:04+00:00
 url: /2013/02/08/goodbye-commons-runs-hello-delivereed/

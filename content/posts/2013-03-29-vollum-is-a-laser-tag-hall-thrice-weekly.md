@@ -1,6 +1,7 @@
 ---
 title: Vollum is a Laser Tag Hall Thrice Weekly
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2013-03-30T04:56:42+00:00
 url: /2013/03/29/vollum-is-a-laser-tag-hall-thrice-weekly/

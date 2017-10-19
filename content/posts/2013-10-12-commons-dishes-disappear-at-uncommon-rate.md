@@ -1,6 +1,7 @@
 ---
 title: Commons Dishes Disappear at Uncommon Rate
-author: Clara Rice
+authors: 
+  - "Clara Rice"
 type: post
 date: 2013-10-13T00:17:01+00:00
 url: /2013/10/12/commons-dishes-disappear-at-uncommon-rate/

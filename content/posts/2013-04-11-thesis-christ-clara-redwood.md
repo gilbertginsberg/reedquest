@@ -1,6 +1,7 @@
 ---
 title: 'Thesis Christ: Clara Redwood'
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-04-11T22:52:33+00:00
 url: /2013/04/11/thesis-christ-clara-redwood/

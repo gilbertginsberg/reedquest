@@ -1,6 +1,7 @@
 ---
 title: Neuroscience Major Approaches Official Status
-author: Sydney Scarlata
+authors: 
+  - "Sydney Scarlata"
 type: post
 date: 2013-03-29T18:06:00+00:00
 url: /2013/03/29/neuroscience-major-approaches-official-status/

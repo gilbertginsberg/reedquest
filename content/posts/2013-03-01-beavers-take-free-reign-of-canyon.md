@@ -1,6 +1,7 @@
 ---
 title: Beavers Take Free Reign of Canyon
-author: Jordan Yu
+authors: 
+  - "Jordan Yu"
 type: post
 date: 2013-03-01T22:56:45+00:00
 url: /2013/03/01/beavers-take-free-reign-of-canyon/

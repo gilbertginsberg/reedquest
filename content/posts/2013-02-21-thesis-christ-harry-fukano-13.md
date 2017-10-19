@@ -1,6 +1,7 @@
 ---
 title: 'Thesis Christ: Harry Fukano ‘13'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-02-21T10:09:36+00:00
 url: /2013/02/21/thesis-christ-harry-fukano-13/

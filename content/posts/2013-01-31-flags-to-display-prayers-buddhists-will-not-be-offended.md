@@ -1,6 +1,7 @@
 ---
 title: 'Flags to Display Prayers: Buddhists will not be offended'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-01-31T21:10:58+00:00
 url: /2013/01/31/flags-to-display-prayers-buddhists-will-not-be-offended/

@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Community Norms Around Violence at Reed'
-author: Alberta Bleck
+authors: 
+  - "Alberta Bleck"
 type: post
 date: 2013-09-08T21:03:49+00:00
 url: /2013/09/08/community-norms-around-violence-at-reed/

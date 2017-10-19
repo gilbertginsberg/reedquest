@@ -1,6 +1,7 @@
 ---
 title: Reed Sees More Post-Docs in Past Two Years
-author: Michael Song
+authors: 
+  - "Michael Song"
 type: post
 date: 2013-03-14T08:31:02+00:00
 excerpt: |

@@ -1,6 +1,7 @@
 ---
 title: 'Private: Thesis Christ: Elizabeth Olson'
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-09-13T03:45:53+00:00
 draft: true

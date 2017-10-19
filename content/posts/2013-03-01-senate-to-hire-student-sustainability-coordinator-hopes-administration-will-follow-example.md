@@ -1,6 +1,7 @@
 ---
 title: 'Senate to Hire Student Sustainability Coordinator: Hopes Administration Will Follow Example'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2013-03-01T22:43:09+00:00
 url: /2013/03/01/senate-to-hire-student-sustainability-coordinator-hopes-administration-will-follow-example/

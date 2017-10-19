@@ -1,6 +1,7 @@
 ---
 title: Lena Lencek’s GEOCHROMES Shows in Vollum
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-04-19T04:41:16+00:00
 url: /2013/04/18/lena-lenceks-geochromes-shows-in-vollum/

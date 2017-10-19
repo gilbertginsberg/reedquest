@@ -1,6 +1,7 @@
 ---
 title: Communism, Atheism, and Daycare
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-04-19T05:31:03+00:00
 url: /2013/04/18/communism-atheism-and-daycare/

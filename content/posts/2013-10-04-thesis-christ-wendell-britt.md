@@ -1,6 +1,7 @@
 ---
 title: 'Thesis Christ: Wendell Britt'
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-10-05T00:52:33+00:00
 url: /2013/10/04/thesis-christ-wendell-britt/

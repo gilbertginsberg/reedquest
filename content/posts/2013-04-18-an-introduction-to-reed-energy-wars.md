@@ -1,6 +1,7 @@
 ---
 title: An Introduction to Reed Energy Wars
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-19T04:43:45+00:00
 excerpt: During the 2011-2012 school year, Reed spent $1,389,150 on energy alone, that’s $1,029 per student! Not only does this take money away from many of the wonderful programs we love at Reed, it is also harmful to our planet. Let’s do something about it.

@@ -1,6 +1,7 @@
 ---
 title: 'Sustainability: Honor that Endures'
-author: Austin Weisgrau
+authors: 
+  - "Austin Weisgrau"
 type: post
 date: 2013-10-05T01:18:08+00:00
 url: /2013/10/04/sustainability-honor-that-endures-2/

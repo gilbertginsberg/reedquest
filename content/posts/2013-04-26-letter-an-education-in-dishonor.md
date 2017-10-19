@@ -1,6 +1,7 @@
 ---
 title: 'Letter: An Education in Dishonor?'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-26T17:42:13+00:00
 excerpt: 'I want to share some thoughts I have about honor and how it applies to my attendance at Reed in a broad sense. Because everyone has a different interpretation of the honor principle, I speak only for myself - but for the sake of encouraging others to have new thoughts because I have benefited from others doing so for me. I hear and think much about honor’s role in more specific issues on campus, but for me, the most profound and complex engagement with the honor principle has thus far presented itself in one of the biggest and most constant questions that I wrestle with at this school: Why am I at Reed, and why should I continue attending?'

@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Beyond “Fucking Shit Up”'
-author: Paul Messick
+authors: 
+  - "Paul Messick"
 type: post
 date: 2013-10-05T00:37:20+00:00
 url: /2013/10/04/beyond-fucking-shit-up/

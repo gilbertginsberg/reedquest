@@ -1,6 +1,7 @@
 ---
 title: 'You Have a Package at Reed Mail Services: An Interview with Ben Lund'
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-02-21T10:06:50+00:00
 excerpt: "Every time a student receives cookies from home, a book from Amazon, or new shoes, they receive an email from a mysterious man who spells his name with no capital letters. Who is the man of mystery working in the GCC's basement? Why the cummings-esque lack of capitalization? Can the Postal Service help you convey a coconut across the country? Staff reporter Isabel Meigs found out in in this slightly edited and condensed interview."

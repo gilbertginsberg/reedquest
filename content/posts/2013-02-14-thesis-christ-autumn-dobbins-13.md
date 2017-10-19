@@ -1,6 +1,7 @@
 ---
 title: 'Thesis Christ: Autumn Dobbins ‘13'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-02-15T03:33:33+00:00
 excerpt: |

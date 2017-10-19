@@ -1,6 +1,7 @@
 ---
 title: Funding Poll Results
-author: Danielle Juncal
+authors: 
+  - "Danielle Juncal"
 type: post
 date: 2013-02-23T01:49:04+00:00
 excerpt: "The results from this semester's Funding Poll in infographic form."

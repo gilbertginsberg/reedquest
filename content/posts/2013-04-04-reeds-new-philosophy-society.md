@@ -1,6 +1,7 @@
 ---
 title: Reed’s New Philosophy Society
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-04-04T17:47:48+00:00
 url: /2013/04/04/reeds-new-philosophy-society/

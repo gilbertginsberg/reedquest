@@ -1,6 +1,7 @@
 ---
 title: Paradox Plagued by Theft
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2015-11-07T07:29:51+00:00
 url: /2015/11/07/paradox-plagued-by-theft/

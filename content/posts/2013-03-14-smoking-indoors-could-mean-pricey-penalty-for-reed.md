@@ -1,6 +1,7 @@
 ---
 title: Smoking Indoors Could Mean Pricey Penalty for Reed
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-03-14T09:20:16+00:00
 url: /2013/03/14/smoking-indoors-could-mean-pricey-penalty-for-reed/

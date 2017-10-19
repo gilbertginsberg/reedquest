@@ -1,6 +1,7 @@
 ---
 title: 'Letter: New Worlds For Whom? Cautionary Notes on Colonial Fantasies'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-19T04:57:21+00:00
 excerpt: Taken alone, there is nothing problematic about the phrase “New World,” and to dismiss the Renn Fayre Theme out of a sense of naïve political correctness would be in error. Rather, as a community of critically engaged students and scholars, I believe it is our responsibility to attend to the larger histories and contexts in which words are embedded so that by invoking something like a “New World” we do not affirm and reinscribe the latent colonial and neocolonial fantasies that such a phrase inevitably dredges up. Engaging such a line of inquiry, it is crucial to ask ourselves for whom are such New Worlds for and what these fantasies erase.

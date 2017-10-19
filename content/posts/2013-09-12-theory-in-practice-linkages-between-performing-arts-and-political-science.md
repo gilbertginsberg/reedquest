@@ -1,6 +1,7 @@
 ---
 title: 'Theory in Practice: Linkages Between Performing Arts and Political Science'
-author: Cristina Cambianica
+authors: 
+  - "Cristina Cambianica"
 type: post
 date: 2013-09-13T03:59:49+00:00
 url: /2013/09/12/theory-in-practice-linkages-between-performing-arts-and-political-science/

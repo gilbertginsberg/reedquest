@@ -1,6 +1,7 @@
 ---
 title: The Unregulated Depressant Manifesto
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-11T22:38:21+00:00
 excerpt: |

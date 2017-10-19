@@ -1,6 +1,7 @@
 ---
 title: “The Boatman’s Call,” Nearly Twenty Years On
-author: Tyler Adams
+authors: 
+  - "Tyler Adams"
 type: post
 date: 2017-03-16T02:50:39+00:00
 url: /2017/03/16/the-boatmans-call-nearly-twenty-years-on/

@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Medical Amnesty Policy Disenfranchises Students, Promotes Unsafe Environment'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-11T19:55:31+00:00
 excerpt: "In mid-March of this year, I received an email containing a surprising letter from Bruce Smith, Associate Dean of Students for Students and Campus Life, in regards to an incident that had occurred the previous week. The letter briefly stated that I had received an AOD violation for drinking alcohol while not of legal age. It went on to list potential disciplinary actions for future violations and included a thoughtful reminder that consuming alcohol while under 21 years of age was, indeed, a violation of Reed's AOD policy."

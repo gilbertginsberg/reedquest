@@ -1,6 +1,7 @@
 ---
 title: English Ivy Still Dominates Canyon
-author: Jordan Yu
+authors: 
+  - "Jordan Yu"
 type: post
 date: 2013-04-05T00:29:43+00:00
 url: /2013/04/04/english-ivy-still-dominates-canyon/

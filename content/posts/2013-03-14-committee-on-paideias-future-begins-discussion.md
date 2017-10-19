@@ -1,6 +1,7 @@
 ---
 title: Committee on Paideia’s Future Begins Discussion
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-03-14T17:07:04+00:00
 url: /2013/03/14/committee-on-paideias-future-begins-discussion/

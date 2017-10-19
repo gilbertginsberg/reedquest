@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Making Good Citizens'
-author: August Wissmath
+authors: 
+  - "August Wissmath"
 type: post
 date: 2014-02-28T17:58:45+00:00
 excerpt: 'At the strategic planning committee meeting, Professor Nathalia King voiced a compelling and heartfelt claim: that the goal of a Reed education is to produce good citizens, who are prepared to adapt and face whatever new challenges exist in our changing world. As a believer in the power of education and as a child of two public school teachers, I am compelled to believe her claim: that the value of our Reed education has been to transform us, students, into better human beings.'

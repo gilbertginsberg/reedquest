@@ -1,6 +1,7 @@
 ---
 title: Alumni Gain Access to JSTOR
-author: Cristina Cambianica
+authors: 
+  - "Cristina Cambianica"
 type: post
 date: 2013-10-06T22:17:25+00:00
 url: /2013/10/06/alumni-gain-access-to-jstor/

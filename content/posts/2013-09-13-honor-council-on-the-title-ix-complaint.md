@@ -1,6 +1,7 @@
 ---
 title: Honor Council on the Title IX Complaint
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-09-14T04:44:38+00:00
 url: /2013/09/13/honor-council-on-the-title-ix-complaint/

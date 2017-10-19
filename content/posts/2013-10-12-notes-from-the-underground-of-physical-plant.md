@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Notes from the Underground — of Physical Plant'
-author: August Wissmath
+authors: 
+  - "August Wissmath"
 type: post
 date: 2013-10-12T23:27:24+00:00
 url: /2013/10/12/notes-from-the-underground-of-physical-plant/

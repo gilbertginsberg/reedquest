@@ -1,6 +1,7 @@
 ---
 title: 'Thesis Christ: Shantanu Chatterjee'
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-10-12T23:43:10+00:00
 url: /2013/10/12/thesis-christ-shantanu-chatterjee/

@@ -1,6 +1,7 @@
 ---
 title: Shaffer’s Departure Leaves ADSAPR Position Under Review
-author: Jordan Yu
+authors: 
+  - "Jordan Yu"
 type: post
 date: 2013-09-14T05:10:42+00:00
 url: /2013/09/13/shaffers-departure-leaves-adsapr-position-under-review/

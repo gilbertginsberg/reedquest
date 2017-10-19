@@ -1,6 +1,7 @@
 ---
 title: Health Center Offers Acupuncture to Curb Cravings
-author: Clara Rice
+authors: 
+  - "Clara Rice"
 type: post
 date: 2013-03-07T23:12:18+00:00
 url: /2013/03/07/health-center-acupuncture-to-curb-cravings/

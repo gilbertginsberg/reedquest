@@ -1,6 +1,7 @@
 ---
 title: Title IX Complaint Filed Against Nude Revelers
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-09-14T05:18:19+00:00
 url: /2013/09/13/title-ix-complaint-filed-against-nude-revelers/

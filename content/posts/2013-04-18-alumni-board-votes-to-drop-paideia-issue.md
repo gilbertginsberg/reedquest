@@ -1,6 +1,7 @@
 ---
 title: Alumni Board Votes to Drop Paideia Issue
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2013-04-18T08:30:40+00:00
 url: /2013/04/18/alumni-board-votes-to-drop-paideia-issue/

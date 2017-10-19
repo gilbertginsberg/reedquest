@@ -1,6 +1,7 @@
 ---
 title: 'Bear Wilner-Nugent ‘95  Challenges Kroger to Debate Over Paideia Controversy'
-author: Jennifer McNeal
+authors: 
+  - "Jennifer McNeal"
 type: post
 date: 2013-02-15T08:04:14+00:00
 url: /2013/02/15/bear-wilner-nugent-95-challenges-kroger-to-debate-over-paideia-controversy/

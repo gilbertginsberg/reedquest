@@ -1,6 +1,7 @@
 ---
 title: A Reedie – and an Officer-in-Training
-author: Alan Montecillo
+authors: 
+  - "Alan Montecillo"
 type: post
 date: 2013-03-15T22:05:32+00:00
 url: /2013/03/15/a-reedie-and-an-officer-in-training/

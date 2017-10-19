@@ -1,6 +1,7 @@
 ---
 title: Honor Council Announcement
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-10-06T22:38:52+00:00
 url: /2013/10/06/honor-council-announcement/

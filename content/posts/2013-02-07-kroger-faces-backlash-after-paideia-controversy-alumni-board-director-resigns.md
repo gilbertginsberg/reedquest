@@ -1,6 +1,7 @@
 ---
 title: 'Kroger Faces Backlash after Paideia Controversy: Alumni Board Director resigns'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-02-07T09:38:02+00:00
 url: /2013/02/07/kroger-faces-backlash-after-paideia-controversy-alumni-board-director-resigns/

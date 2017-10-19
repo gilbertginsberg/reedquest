@@ -1,6 +1,7 @@
 ---
 title: 'Alumna’s Letter to the Editor: Kroger Means Well, But Falls Flat'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-02-07T09:13:53+00:00
 url: /2013/02/07/alumnas-letter-to-the-editor-kroger-means-well-but-falls-flat/

@@ -1,6 +1,7 @@
 ---
 title: Alternative Renn Fayres Give Students an Option
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-05-02T01:05:37+00:00
 url: /2013/05/01/alternative-renn-fayres-give-students-an-option/

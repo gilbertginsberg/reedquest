@@ -1,6 +1,7 @@
 ---
 title: The Pool Hall Cleans Up
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-04-19T05:15:50+00:00
 url: /2013/04/18/the-pool-hall-cleans-up/

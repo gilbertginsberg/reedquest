@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Another Punny “Bathroom” Title'
-author: Kate Hilts
+authors: 
+  - "Kate Hilts"
 type: post
 date: 2013-09-27T19:28:19+00:00
 url: /2013/09/27/another-punny-bathroom-title/

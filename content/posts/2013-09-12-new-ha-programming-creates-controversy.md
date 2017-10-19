@@ -1,6 +1,7 @@
 ---
 title: New HA Programming Creates Controversy
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-09-13T04:06:57+00:00
 url: /2013/09/12/new-ha-programming-creates-controversy/

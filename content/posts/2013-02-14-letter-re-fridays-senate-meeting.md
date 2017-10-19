@@ -1,6 +1,7 @@
 ---
 title: 'Letter: RE: Friday’s Senate Meeting'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-02-15T04:12:35+00:00
 excerpt: "Though I would be insane to disagree, I always feel somewhat uneasy when important community discussions end with extended remarks about how great it is that we can discuss these sorts of issues as a community. I suppose it's because this is precisely the sort of conclusion one applauds when there is an overall sense that nobody can change what happened or what will likely happen again..."

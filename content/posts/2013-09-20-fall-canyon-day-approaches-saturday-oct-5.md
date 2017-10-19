@@ -1,6 +1,7 @@
 ---
 title: Fall Canyon Day Approaches – Saturday, Oct. 5
-author: Dove Henry
+authors: 
+  - "Dove Henry"
 type: post
 date: 2013-09-20T20:56:37+00:00
 url: /2013/09/20/fall-canyon-day-approaches-saturday-oct-5/

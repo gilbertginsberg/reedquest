@@ -1,6 +1,7 @@
 ---
 title: 'Two Math Professors Hired: A Look Inside the Professor Selection Process'
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-04-26T00:12:35+00:00
 url: /2013/04/25/two-math-professors-hired-a-look-inside-the-professor-selection-process/

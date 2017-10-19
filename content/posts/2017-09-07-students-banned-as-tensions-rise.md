@@ -1,6 +1,7 @@
 ---
 title: Students Banned as Tensions Rise
-author: David James
+authors: 
+  - "David James"
 type: post
 date: 2017-09-06T02:50:39+00:00
 url: /2017/09/06/students-banned-as-tensions-rise/

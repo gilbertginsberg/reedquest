@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Carl Bernstein Talk Squandered?'
-author: Staff
+authors: 
+  - "Staff"
 type: post
 date: 2013-10-18T19:50:30+00:00
 url: /2013/10/18/letter-carl-bernstein-talk-squandered/

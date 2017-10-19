@@ -1,6 +1,7 @@
 ---
 title: Reed Partners with Switchboard
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-09-27T23:34:46+00:00
 url: /2013/09/27/reed-partners-with-switchboard/

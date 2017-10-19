@@ -1,6 +1,7 @@
 ---
 title: Minds For Revolution Reunites Psychology and Humanities
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-04-04T17:51:43+00:00
 url: /2013/04/04/minds-for-revolution-reunites-psychology-and-humanities/

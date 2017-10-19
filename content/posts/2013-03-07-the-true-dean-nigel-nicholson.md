@@ -1,6 +1,7 @@
 ---
 title: The True Dean, Nigel Nicholson
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-03-07T23:10:11+00:00
 url: /2013/03/07/the-true-dean-nigel-nicholson/

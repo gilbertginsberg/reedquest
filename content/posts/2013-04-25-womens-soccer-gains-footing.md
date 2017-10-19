@@ -1,6 +1,7 @@
 ---
 title: Women’s Soccer Gains Footing
-author: Jordan Yu
+authors: 
+  - "Jordan Yu"
 type: post
 date: 2013-04-26T00:10:44+00:00
 url: /2013/04/25/womens-soccer-gains-footing/

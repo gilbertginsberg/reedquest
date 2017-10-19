@@ -1,6 +1,7 @@
 ---
 title: An Interview with the Brand-Spanking New Student Body President
-author: Lauren Cooper
+authors: 
+  - "Lauren Cooper"
 type: post
 date: 2013-02-08T02:13:35+00:00
 excerpt: Once one enters Ari Galper’s room on Bragdon 2, the floor where he is currently HA, it becomes immediately obvious how he was elected student body president. The room is spotless, everything in its place without a hint of excess, full of calming colors and dried flowers. Now that the scene has been set, here’s what he had to say about his new responsibilities.

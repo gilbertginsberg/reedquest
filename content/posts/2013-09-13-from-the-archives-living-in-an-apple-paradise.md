@@ -1,6 +1,7 @@
 ---
 title: 'From the Archives: Living in an Apple Paradise'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-09-14T05:00:52+00:00
 url: /2013/09/13/from-the-archives-living-in-an-apple-paradise/

@@ -1,6 +1,7 @@
 ---
 title: Biological Perspective on Gender Identity in Babies
-author: Jaelin Cola
+authors: 
+  - "Jaelin Cola"
 type: post
 date: 2013-10-05T01:11:15+00:00
 url: /2013/10/04/biological-perspective-on-gender-identity-in-babies/

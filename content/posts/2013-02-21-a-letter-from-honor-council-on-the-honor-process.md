@@ -1,6 +1,7 @@
 ---
 title: A Letter from Honor Council on the Honor Process
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-02-22T03:55:12+00:00
 url: /2013/02/21/a-letter-from-honor-council-on-the-honor-process/

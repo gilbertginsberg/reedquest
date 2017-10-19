@@ -1,6 +1,7 @@
 ---
 title: CRS Case Summary
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-09-08T20:07:18+00:00
 url: /2013/09/08/crs-case-summary/

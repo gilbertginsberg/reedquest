@@ -1,6 +1,7 @@
 ---
 title: SU Piano – The Piano Technician’s Verdict
-author: Denise VanLeuven
+authors: 
+  - "Denise VanLeuven"
 type: post
 date: 2013-10-05T01:08:10+00:00
 url: /2013/10/04/su-piano-the-piano-technicians-verdict/

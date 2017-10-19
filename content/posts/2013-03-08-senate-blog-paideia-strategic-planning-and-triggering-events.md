@@ -1,6 +1,7 @@
 ---
 title: 'Senate Blog: Paideia, Strategic Planning, and Triggering Events'
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-03-09T05:43:40+00:00
 url: /2013/03/08/senate-blog-paideia-strategic-planning-and-triggering-events/

@@ -1,6 +1,7 @@
 ---
 title: Eurydice Mixes the Tragic, the Comic, and the Shamelessly Greek
-author: Drew Garcia
+authors: 
+  - "Drew Garcia"
 type: post
 date: 2013-04-04T17:21:21+00:00
 url: /2013/04/04/eurydice-mixes-the-tragic-the-comic-and-the-shamelessly-greek/

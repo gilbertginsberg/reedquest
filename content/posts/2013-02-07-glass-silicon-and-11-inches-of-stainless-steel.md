@@ -1,6 +1,7 @@
 ---
 title: Glass, Silicone, and 11 Inches of Stainless Steel
-author: Lauren Nelson
+authors: 
+  - "Lauren Nelson"
 type: post
 date: 2013-02-07T10:30:37+00:00
 url: /2013/02/07/glass-silicon-and-11-inches-of-stainless-steel/

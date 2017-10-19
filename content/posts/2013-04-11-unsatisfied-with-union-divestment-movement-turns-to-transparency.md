@@ -1,6 +1,7 @@
 ---
 title: Unsatisfied with Union, Divestment Movement Turns to Transparency
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2013-04-11T23:14:19+00:00
 url: /2013/04/11/unsatisfied-with-union-divestment-movement-turns-to-transparency/

@@ -1,6 +1,7 @@
 ---
 title: Carl Phillips Opens Silverchest
-author: Charles Nunziato
+authors: 
+  - "Charles Nunziato"
 type: post
 date: 2013-10-05T01:14:56+00:00
 url: /2013/10/04/carl-phillips-opens-silverchest/

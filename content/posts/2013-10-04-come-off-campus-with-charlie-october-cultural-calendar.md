@@ -1,6 +1,7 @@
 ---
 title: 'Come off Campus with Charlie: October Cultural Calendar'
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-10-05T01:20:38+00:00
 url: /2013/10/04/come-off-campus-with-charlie-october-cultural-calendar/

@@ -1,6 +1,7 @@
 ---
 title: Hum Play 2K13 Has Some Novel Concepts
-author: Michael Song
+authors: 
+  - "Michael Song"
 type: post
 date: 2013-04-11T22:58:44+00:00
 url: /2013/04/11/hum-play-2k13-has-some-novel-concepts/

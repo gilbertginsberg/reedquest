@@ -1,6 +1,7 @@
 ---
 title: Seniors Let It Ride on a Spot in Their Bibliographies
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-02-21T10:12:26+00:00
 url: /2013/02/21/seniors-let-it-ride-on-a-spot-in-their-bibliographies/

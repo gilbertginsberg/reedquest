@@ -1,6 +1,7 @@
 ---
 title: Ivy, Fiddle, and Pressed Cider Marks Canyon Day 2013
-author: Daniel Hong
+authors: 
+  - "Daniel Hong"
 type: post
 date: 2013-10-12T23:35:54+00:00
 url: /2013/10/12/ivy-fiddle-and-pressed-cider-marks-canyon-day-2013/

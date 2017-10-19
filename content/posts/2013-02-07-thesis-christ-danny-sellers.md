@@ -1,6 +1,7 @@
 ---
 title: 'Thesis Christ: Danny Sellers'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-02-07T10:20:30+00:00
 excerpt: In the 1990s, development economist Amartya Sen formulated a controversial theory. He postulated that countries that have a free press and competitive elections are better at averting famines, and he used events in Ethiopia, Sudan, Botsawana, and Zimbabwe to prove his point. Using the same countries as Sen, and incorporating three additional African countries, Political Science major Danny Sellers ’13 will seek to challenge this theory.

@@ -1,6 +1,7 @@
 ---
 title: Reed Students Burrow into Bowels of Bins for Fashion Tumblr
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-04-11T23:06:14+00:00
 url: /2013/04/11/reed-students-burrow-into-bowels-of-bins-for-fashion-tumblr/

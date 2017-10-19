@@ -1,6 +1,7 @@
 ---
 title: Strategic Planning Begins
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-10-06T22:12:41+00:00
 url: /2013/10/06/strategic-planning-begins/

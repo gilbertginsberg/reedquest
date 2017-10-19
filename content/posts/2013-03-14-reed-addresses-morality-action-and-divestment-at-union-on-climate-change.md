@@ -1,6 +1,7 @@
 ---
 title: Reed Tackles Morality, Action, and Divestment at Union on Climate Change
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-03-14T09:34:54+00:00
 url: /2013/03/14/reed-addresses-morality-action-and-divestment-at-union-on-climate-change/

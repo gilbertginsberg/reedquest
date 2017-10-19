@@ -1,6 +1,7 @@
 ---
 title: Kroger, Reedies Discuss Paideia Censorship at Community Forum
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-02-10T00:49:35+00:00
 url: /2013/02/09/kroger-reedies-discuss-paideia-censorship-at-community-forum/

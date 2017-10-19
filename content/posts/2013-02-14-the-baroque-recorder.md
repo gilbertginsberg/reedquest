@@ -1,6 +1,7 @@
 ---
 title: The Baroque Recorder
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-02-15T03:10:07+00:00
 url: /2013/02/14/the-baroque-recorder/

@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Unexpected Celebration of My Birthday for the First Time'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-26T17:46:41+00:00
 excerpt: I knew nothing about birthday celebrations in my childhood, nor even of the concept of “birthday” itself. I only have one name, which is དཔའ་རྩེ་རྒྱལ in Tibetan, no middle name, and no last name. In fact, most of the ordinary Tibetans only have one name, and we don’t have a tradition of celebrating birthdays as many people do in other parts of the world, although we have a tradition of celebrating birthdays for high Lamas or Rinpoches.

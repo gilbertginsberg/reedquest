@@ -1,6 +1,7 @@
 ---
 title: 'Math Column: Seven 8 Nine'
-author: Joshua Gancher
+authors: 
+  - "Joshua Gancher"
 type: post
 date: 2013-09-08T20:47:49+00:00
 url: /2013/09/08/math-column-seven-8-nine/

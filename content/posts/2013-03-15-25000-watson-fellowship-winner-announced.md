@@ -1,6 +1,7 @@
 ---
 title: $25,000 Watson Fellowship Winner Announced
-author: Lauren Cooper
+authors: 
+  - "Lauren Cooper"
 type: post
 date: 2013-03-15T22:41:40+00:00
 url: /2013/03/15/25000-watson-fellowship-winner-announced/

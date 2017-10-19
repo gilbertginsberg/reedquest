@@ -1,6 +1,7 @@
 ---
 title: Humans of Reed Tumbls into Existence
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-03-01T22:45:19+00:00
 url: /2013/03/01/humans-of-reed-tumbls-into-existence/

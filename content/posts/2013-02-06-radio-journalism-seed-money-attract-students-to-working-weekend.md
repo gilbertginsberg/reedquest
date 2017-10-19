@@ -1,6 +1,7 @@
 ---
 title: Radio Journalism, Seed Money Attract Students to Working Weekend
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-02-06T13:00:53+00:00
 url: /2013/02/06/radio-journalism-seed-money-attract-students-to-working-weekend/

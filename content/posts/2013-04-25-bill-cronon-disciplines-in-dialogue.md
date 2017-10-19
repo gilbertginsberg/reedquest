@@ -1,6 +1,7 @@
 ---
 title: 'Bill Cronon: Disciplines in Dialogue'
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-04-25T23:47:48+00:00
 url: /2013/04/25/bill-cronon-disciplines-in-dialogue/

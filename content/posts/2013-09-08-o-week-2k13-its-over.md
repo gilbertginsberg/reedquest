@@ -1,6 +1,7 @@
 ---
 title: 'O-Week 2k13: It’s Over'
-author: Jenn Lindell
+authors: 
+  - "Jenn Lindell"
 type: post
 date: 2013-09-08T20:57:57+00:00
 url: /2013/09/08/o-week-2k13-its-over/

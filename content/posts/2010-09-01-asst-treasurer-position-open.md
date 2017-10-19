@@ -1,6 +1,7 @@
 ---
 title: Ass’t Treasurer Position Open
-author: Ethan Knudson
+authors: 
+  - "Ethan Knudson"
 type: post
 date: 2010-09-01T02:32:47+00:00
 url: /2010/09/01/asst-treasurer-position-open/

@@ -1,6 +1,7 @@
 ---
 title: Reed Leads with Nation’s First Tango Music Institute
-author: Elisa Cibils
+authors: 
+  - "Elisa Cibils"
 type: post
 date: 2013-03-07T23:24:16+00:00
 url: /2013/03/07/reed-leads-with-nations-first-tango-music-institute/

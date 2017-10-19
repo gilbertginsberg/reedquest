@@ -1,6 +1,7 @@
 ---
 title: Time Travel Expert Wins Vollum Award
-author: Phil Jahelka
+authors: 
+  - "Phil Jahelka"
 type: post
 date: 2013-09-08T20:35:27+00:00
 url: /2013/09/08/time-travel-expert-wins-vollum-award/

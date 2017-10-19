@@ -1,6 +1,7 @@
 ---
 title: Reed Welcomes Most International Class
-author: Ki Choi
+authors: 
+  - "Ki Choi"
 type: post
 date: 2013-09-14T04:57:47+00:00
 url: /2013/09/13/reed-welcomes-most-international-class/

@@ -1,6 +1,7 @@
 ---
 title: 'Eileen Myles: Laughter and Short Poems'
-author: Brendan Sorrell
+authors: 
+    - "Brendan Sorrell"
 type: post
 date: 2013-04-11T22:47:18+00:00
 url: /2013/04/11/eileen-myles-laughter-and-short-poems/

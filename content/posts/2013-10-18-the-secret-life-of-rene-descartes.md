@@ -1,6 +1,7 @@
 ---
 title: The Secret Life of Rene Descartes
-author: Jaelin Cola
+authors: 
+  - "Jaelin Cola"
 type: post
 date: 2013-10-18T19:43:14+00:00
 url: /2013/10/18/the-secret-life-of-rene-descartes/

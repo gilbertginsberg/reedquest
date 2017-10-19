@@ -1,6 +1,7 @@
 ---
 title: Professors Brush up on Teaching Skills with Center for Teaching and Learning
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-03-07T23:14:45+00:00
 url: /2013/03/07/professors-brush-up-on-teaching-skills-with-center-for-teaching-and-learning/

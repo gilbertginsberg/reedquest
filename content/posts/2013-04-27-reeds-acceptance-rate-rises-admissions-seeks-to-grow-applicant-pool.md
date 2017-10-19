@@ -1,6 +1,7 @@
 ---
 title: 'Reed’s Acceptance Rate Rises: Admissions Seeks to Grow Applicant Pool'
-author: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2013-04-27T17:58:13+00:00
 url: /2013/04/27/reeds-acceptance-rate-rises-admissions-seeks-to-grow-applicant-pool/

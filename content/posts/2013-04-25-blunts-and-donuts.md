@@ -1,6 +1,7 @@
 ---
 title: Blunts and Donuts
-author: Sydney Scarlata
+authors: 
+  - "Sydney Scarlata"
 type: post
 date: 2013-04-26T00:40:02+00:00
 url: /2013/04/25/blunts-and-donuts/

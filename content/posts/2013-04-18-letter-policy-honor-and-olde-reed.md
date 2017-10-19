@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Policy, Honor, and Olde Reed'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-19T05:01:13+00:00
 excerpt: "I found last Thursday's Reed Union quite frustrating, as I often do with these kinds of discussions, though not for exactly the same reasons as I have in the past. During the pre-discussion statements by the panel, we were told repeatedly by several panel members, SB President Ari Galper included, that the reason for the erosion of student body autonomy over the last 10-15 years is the collective failure of the student body to govern itself responsibly. The 50% attrition rate of the 1980's, the heroin deaths, the suicides, all have been at the heart of the constant, incremental expansion of policy and bureaucracy. We should be thankful for these changes, we were told; early adulthood is a dangerous time of transition, and part of the College's job is to hold our hands through this transition."

@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Bathroom Confessional'
-author: Elaina Ransford
+authors: 
+  - "Elaina Ransford"
 type: post
 date: 2013-09-20T18:16:02+00:00
 url: /2013/09/20/bathroom-confessional/

@@ -1,6 +1,6 @@
 ---
 title: 'The Masses Seethed Forward: A Vision of Nu Reed'
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-09-01T02:18:50+00:00
 url: /2010/09/01/the-masses-seethed-forward-a-vision-of-nu-reed/

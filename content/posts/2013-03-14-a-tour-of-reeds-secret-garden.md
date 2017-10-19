@@ -1,6 +1,7 @@
 ---
 title: A Tour of Reed’s Secret Garden
-author: Jordan Yu
+authors: 
+  - "Jordan Yu"
 type: post
 date: 2013-03-14T08:50:00+00:00
 excerpt: Behind an innocuous door on the top floor of the Biology building is a state-of-the-art, 1,000 square foot, climate-controlled greenhouse. The greenhouse is warm and humid, with sliding tables on which small plants are beginning to grow, and orange lights illuminate the rooms day and night. Biology Professor David Dalton has been working at Reed since 1987 and has born witness to many of the changes to the greenhouse over the years. He says the greenhouse was originally just a “south-facing room” with cement benches that was built along with the Biology building in the 1950’s. The structure stayed the same until more additions were made in 1990. In 2001, with the renovation of the Biology building came a further expansion of the greenhouse and the “state-of-the-art” setup students enjoy today. The greenhouse now has four main rooms, and the lighting, temperature, and cooling are all controlled by a central computer.

@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Goings-on in “Green” Town'
-author: Maya Jarrad
+authors: 
+  - "Maya Jarrad"
 type: post
 date: 2013-10-13T00:19:59+00:00
 url: /2013/10/12/goings-on-in-green-town/

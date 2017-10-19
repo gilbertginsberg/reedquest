@@ -1,6 +1,7 @@
 ---
 title: 'Thesis Christ: Frank Sosa'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-04-04T14:00:58+00:00
 url: /2013/04/04/thesis-christ-frank-sosa/

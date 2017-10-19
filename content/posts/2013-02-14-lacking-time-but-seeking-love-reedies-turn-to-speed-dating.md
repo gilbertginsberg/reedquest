@@ -1,6 +1,7 @@
 ---
 title: Lacking Time, But Seeking Love, Reedies Speed Date
-author: Alan Montecillo
+authors: 
+  - "Alan Montecillo"
 type: post
 date: 2013-02-15T03:34:16+00:00
 url: /2013/02/14/lacking-time-but-seeking-love-reedies-turn-to-speed-dating/

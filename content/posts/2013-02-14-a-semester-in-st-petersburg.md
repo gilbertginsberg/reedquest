@@ -1,6 +1,7 @@
 ---
 title: A Semester in St. Petersburg
-author: Madeline Kinkel
+authors: 
+  - "Madeline Kinkel"
 type: post
 date: 2013-02-15T03:18:47+00:00
 excerpt: Picture eleven at night. Except “night” has become an arbitrary, meaningless word. The sun hangs by the horizon’s edge, dangling the false promise of darkness over the head of the city. In a few hours it will dip below the edge of the world and rise back up, the sky deepening to a blue without ever surrendering into the embrace of black night. It has been weeks since there has been any sort of true darkness, since you could go to sleep under a blanket of stars. The White Nights steal your sleep like a mischievous imp, begging you to come out and play before the eternal darkness of winter takes over. Staring out of a window on the eighth floor of a sixteen story monolithic concrete block, from a room that always smells faintly of dill, you can see the edge of the Gulf of Finland. You have forgotten what it means to feel comfortable. Living in someone else’s house, in someone else’s country, your tongue stumbling over someone else’s language, your body is your only home. Comfort is cage; you learn to do things that make you uncomfortable. You will never know the ways your body can move if you never try to stretch.

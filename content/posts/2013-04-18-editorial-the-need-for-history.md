@@ -1,6 +1,7 @@
 ---
 title: 'Editorial: The Need for History'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-19T05:05:15+00:00
 url: /2013/04/18/editorial-the-need-for-history/

@@ -1,6 +1,7 @@
 ---
 title: Improved Band Practice Room Fosters Resurgence of Reed Bands
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-04-19T05:25:59+00:00
 url: /2013/04/18/improved-band-practice-room-fosters-resurgence-of-reed-bands/

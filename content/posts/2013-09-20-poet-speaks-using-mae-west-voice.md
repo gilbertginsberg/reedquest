@@ -1,6 +1,7 @@
 ---
 title: Poet Speaks Using Mae West Voice
-author: Charles Nunziato
+authors: 
+  - "Charles Nunziato"
 type: post
 date: 2013-09-20T20:40:31+00:00
 url: /2013/09/20/poet-speaks-using-mae-west-voice/

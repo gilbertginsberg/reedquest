@@ -1,6 +1,7 @@
 ---
 title: Honor Council Case Opinion
-author: Adrian Dannis
+authors: 
+  - "Adrian Dannis"
 type: post
 date: 2013-10-06T22:34:46+00:00
 url: /2013/10/06/honor-council-case-opinion/

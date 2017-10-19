@@ -1,6 +1,7 @@
 ---
 title: Hum 110 to Begin with Gilgamesh Instead of Homer
-author: Michael Song
+authors: 
+  - "Michael Song"
 type: post
 date: 2013-03-28T07:45:56+00:00
 url: /2013/03/28/hum-110-to-begin-with-gilgamesh-instead-of-homer/

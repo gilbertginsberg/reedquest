@@ -1,6 +1,7 @@
 ---
 title: 'Letter: What Kind of Awareness Does Nicholas Kristof’s Talk Raise?'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-04T17:20:22+00:00
 url: /2013/04/04/letter-what-kind-of-awareness-does-nicholas-kristofs-talk-raise/

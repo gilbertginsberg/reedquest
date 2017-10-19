@@ -1,6 +1,7 @@
 ---
 title: Response from the Teacher of a Canceled Paideia Class
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-02-02T00:12:20+00:00
 url: /2013/02/01/response-from-the-teacher-of-a-canceled-paideia-class/

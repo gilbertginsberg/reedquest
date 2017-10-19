@@ -1,6 +1,7 @@
 ---
 title: Want SB Funds? Come to Signators’ Training!
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-01-15T16:59:18+00:00
 excerpt: "If you've ever sat and looked at some perplexing student-built structure, listened to a band in Winch, graced the MLLL with your presence, eaten free BBQ on the Quad, and/or gone to Renn Fayre, you have witnessed what preposterously cool shit can take place when students get motivated and make things happen."

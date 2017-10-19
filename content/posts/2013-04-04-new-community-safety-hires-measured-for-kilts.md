@@ -1,6 +1,7 @@
 ---
 title: New Community Safety Hires Measured for Kilts
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2013-04-05T00:37:02+00:00
 url: /2013/04/04/new-community-safety-hires-measured-for-kilts/

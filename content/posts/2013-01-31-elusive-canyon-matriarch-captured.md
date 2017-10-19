@@ -1,6 +1,7 @@
 ---
 title: Elusive Canyon Matriarch Captured
-author: Drew Garcia
+authors: 
+  - "Drew Garcia"
 type: post
 date: 2013-01-31T09:01:04+00:00
 url: /2013/01/31/elusive-canyon-matriarch-captured/

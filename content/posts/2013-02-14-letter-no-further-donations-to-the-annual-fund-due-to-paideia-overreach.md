@@ -1,6 +1,7 @@
 ---
 title: 'Letter: No Further Donations to the Annual Fund Due to Paideia Overreach'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-02-15T03:17:08+00:00
 url: /2013/02/14/letter-no-further-donations-to-the-annual-fund-due-to-paideia-overreach/

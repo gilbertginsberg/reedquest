@@ -1,6 +1,7 @@
 ---
 title: 'A Portrait of the Idiot as a Younger Idiot: Grunks, Skunks, and Brunks'
-author: Michael Song
+authors: 
+  - "Michael Song"
 type: post
 date: 2013-04-04T08:36:59+00:00
 url: /2013/04/04/a-portrait-of-the-idiot-as-a-younger-idiot-grunks-skunks-and-brunks/

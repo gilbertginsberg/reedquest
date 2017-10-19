@@ -1,6 +1,7 @@
 ---
 title: Paideia Classes Censored at Kroger’s Request
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-01-31T10:33:43+00:00
 url: /2013/01/31/paideia-classes-censored-at-krogers-request/

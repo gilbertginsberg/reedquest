@@ -1,6 +1,7 @@
 ---
 title: DHSM Passes
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-09-14T05:20:59+00:00
 url: /2013/09/13/dhsm-passes/

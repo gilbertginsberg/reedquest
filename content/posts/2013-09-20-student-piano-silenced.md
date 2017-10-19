@@ -1,6 +1,7 @@
 ---
 title: Student Piano Silenced
-author: Michael Song
+authors: 
+  - "Michael Song"
 type: post
 date: 2013-09-20T21:14:38+00:00
 url: /2013/09/20/student-piano-silenced/

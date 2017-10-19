@@ -1,6 +1,7 @@
 ---
 title: Department Associate Gives Physics A Different Slant of Light
-author: Michael Song
+authors: 
+  - "Michael Song"
 type: post
 date: 2013-03-14T08:30:17+00:00
 url: /2013/03/14/department-associate-gives-physics-a-different-slant-of-light/

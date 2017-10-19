@@ -1,6 +1,7 @@
 ---
 title: 'Thoughts About Thoughts: Convocation 2013'
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-09-08T21:21:16+00:00
 url: /2013/09/08/thoughts-about-thoughts-convocation-2013/

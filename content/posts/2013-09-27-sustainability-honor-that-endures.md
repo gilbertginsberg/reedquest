@@ -1,6 +1,7 @@
 ---
 title: 'Sustainability: Honor that Endures'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-09-28T05:57:19+00:00
 url: /2013/09/27/sustainability-honor-that-endures/

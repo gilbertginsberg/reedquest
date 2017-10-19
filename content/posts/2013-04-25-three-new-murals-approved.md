@@ -1,6 +1,7 @@
 ---
 title: Three New Murals Approved
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-26T00:47:39+00:00
 excerpt: Earlier this semester, Senate approved a proposal from the Art Collection Management Committee (ACMC, chaired by Dean of Faculty Pat McDougal and comprised of students, faculty, and staff) to change the on-campus murals process such that it is a more collaborative endeavor between the ACMC and the Senate mural reps. At the Senate meeting on Friday, April 5th, Senators David Azrael and Mathew Olson announced the approval of three new murals on campus—two new murals that will replace long-standing works, and one new mural in a previously unutilized space. These developments deserve a clear articulation of the new process, the new murals (and the artists behind them) and a description of what the new process means for on-campus murals in years to come. The new murals guidelines are posted on the Student Activities website.

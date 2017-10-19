@@ -1,6 +1,7 @@
 ---
 title: Times Columnist Kristof Lectures on Empowering Women
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2013-04-04T17:31:22+00:00
 url: /2013/04/04/times-columnist-kristof-lectures-on-empowering-women/

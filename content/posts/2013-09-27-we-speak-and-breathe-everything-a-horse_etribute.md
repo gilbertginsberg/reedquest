@@ -1,6 +1,7 @@
 ---
 title: '“We speak and breathe everything”: A Horse_etribute'
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2013-09-27T23:17:53+00:00
 url: /2013/09/27/we-speak-and-breathe-everything-a-horse_etribute/

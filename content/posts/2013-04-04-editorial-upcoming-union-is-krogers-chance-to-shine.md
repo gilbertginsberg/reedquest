@@ -1,6 +1,7 @@
 ---
 title: 'Editorial: Upcoming Union is Kroger’s Chance to Shine'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-04-05T00:43:47+00:00
 url: /2013/04/04/editorial-upcoming-union-is-krogers-chance-to-shine/

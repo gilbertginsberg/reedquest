@@ -1,6 +1,7 @@
 ---
 title: A Crash Landing Into the New World
-author: Lauren Cooper
+authors: 
+  - "Lauren Cooper"
 type: post
 date: 2013-04-26T00:26:31+00:00
 url: /2013/04/25/a-crash-landing-into-the-new-world/

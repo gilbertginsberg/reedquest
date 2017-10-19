@@ -1,6 +1,7 @@
 ---
 title: Bookworm Awarded $1,000
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2013-04-26T00:20:44+00:00
 url: /2013/04/25/bookworm-awarded-1000/

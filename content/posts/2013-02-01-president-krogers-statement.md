@@ -1,6 +1,7 @@
 ---
 title: President Kroger’s Statement
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-02-01T20:14:56+00:00
 url: /2013/02/01/president-krogers-statement/

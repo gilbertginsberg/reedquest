@@ -1,6 +1,7 @@
 ---
 title: Small Fish Story Shows Human Failure
-author: Jaelin Cola
+authors: 
+  - "Jaelin Cola"
 type: post
 date: 2013-10-12T23:38:26+00:00
 url: /2013/10/12/small-fish-story-shows-human-failure/

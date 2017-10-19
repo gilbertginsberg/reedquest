@@ -1,6 +1,7 @@
 ---
 title: Dr Demento Reminisces on Reed, Radio
-author: Tyler Adams
+authors: 
+  - "Tyler Adams"
 type: post
 date: 2017-03-16T02:33:35+00:00
 url: /2017/03/16/dr-demento-reminisces-on-reed-radio/

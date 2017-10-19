@@ -1,6 +1,7 @@
 ---
 title: Amelia Jones Waxes on Male Artistic Expression
-author: Brendan Sorrell
+authors: 
+  - "Brendan Sorrell"
 type: post
 date: 2013-09-27T22:53:29+00:00
 url: /2013/09/27/amelia-jones-waxes-on-male-artistic-expression/

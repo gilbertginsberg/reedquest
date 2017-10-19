@@ -1,6 +1,7 @@
 ---
 title: KRRC Applies to Get Back on Air
-author: Isabel Lyndon
+authors: 
+  - "Isabel Lyndon"
 type: post
 date: 2013-10-05T01:24:23+00:00
 url: /2013/10/04/krrc-applies-to-get-back-on-air/

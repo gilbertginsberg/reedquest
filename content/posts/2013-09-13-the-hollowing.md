@@ -1,6 +1,7 @@
 ---
 title: 'Letter: The Hollowing'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2013-09-14T04:34:05+00:00
 url: /2013/09/13/the-hollowing/
