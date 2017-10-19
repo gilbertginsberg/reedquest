@@ -2,8 +2,11 @@
     <a href="{{.URL}}">{{.Title}}</a>
   </div>
   <div class="post-metadata">
-    <strong>By</strong> {{ .Params.author }}
-  </div>
+			{{ if .Params.authors }}
+			<strong>By:</strong> {{range .Params.authors}}<a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+			{{end}}
+			{{end}}
+	</div>
   <div>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
     <article>
       {{.Content}}
