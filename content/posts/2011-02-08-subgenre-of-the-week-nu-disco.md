@@ -1,6 +1,7 @@
 ---
 title: 'Subgenre of the Week: Nu-disco'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-02-08T20:13:32+00:00
 url: /2011/02/08/subgenre-of-the-week-nu-disco/

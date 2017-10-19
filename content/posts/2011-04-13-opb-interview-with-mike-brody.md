@@ -1,6 +1,7 @@
 ---
 title: OPB Interview with Mike Brody
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-04-13T18:35:30+00:00
 url: /2011/04/13/opb-interview-with-mike-brody/

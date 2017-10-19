@@ -1,6 +1,7 @@
 ---
 title: Commons Announces Marked Drop in Dish Expenditures
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2010-11-18T18:55:29+00:00
 url: /2010/11/18/commons-announces-marked-drop-in-dish-expenditures/

@@ -1,6 +1,7 @@
 ---
 title: 'Subgenre of the Week: Electrofunk'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2010-12-02T18:41:41+00:00
 url: /2010/12/02/subgenre-of-the-week-electrofunk/

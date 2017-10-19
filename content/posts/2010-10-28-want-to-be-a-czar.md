@@ -1,6 +1,7 @@
 ---
 title: Want to Be a Czar?
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-28T18:07:08+00:00
 url: /2010/10/28/want-to-be-a-czar/

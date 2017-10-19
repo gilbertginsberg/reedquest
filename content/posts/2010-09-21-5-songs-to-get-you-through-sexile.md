@@ -1,6 +1,7 @@
 ---
 title: 5 Songs to Get You Through Sexile
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2010-09-21T13:30:36+00:00
 url: /2010/09/21/5-songs-to-get-you-through-sexile/

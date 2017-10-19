@@ -1,6 +1,7 @@
 ---
 title: Trustees Approve Plans for New Performing Art Bldg.
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2011-02-11T21:04:44+00:00
 url: /2011/02/11/trustees-approve-plans-for-new-performing-art-bldg/

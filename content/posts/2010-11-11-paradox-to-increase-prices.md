@@ -1,6 +1,7 @@
 ---
 title: Paradox To Increase Prices
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2010-11-11T19:14:12+00:00
 url: /2010/11/11/paradox-to-increase-prices/

@@ -1,6 +1,7 @@
 ---
 title: Reed Adopts Statement of Diversity
-authors: Katy Joseph
+authors: 
+  - "Katy Joseph"
 type: post
 date: 2010-10-07T18:17:51+00:00
 url: /2010/10/07/reed-adopts-statement-of-diversity/

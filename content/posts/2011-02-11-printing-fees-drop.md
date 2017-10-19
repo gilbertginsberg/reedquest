@@ -1,6 +1,7 @@
 ---
 title: Printing Fees Drop
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-02-11T20:47:59+00:00
 url: /2011/02/11/printing-fees-drop/

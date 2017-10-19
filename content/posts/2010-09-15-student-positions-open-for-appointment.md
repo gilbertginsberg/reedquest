@@ -1,6 +1,7 @@
 ---
 title: Student Positions Open for Appointment
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-15T18:44:23+00:00
 url: /2010/09/15/student-positions-open-for-appointment/

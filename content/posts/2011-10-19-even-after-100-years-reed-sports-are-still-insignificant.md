@@ -1,6 +1,7 @@
 ---
 title: Even After 100 Years, Reed Sports Are Still Insignificant
-authors: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2011-10-20T03:39:57+00:00
 url: /2011/10/19/even-after-100-years-reed-sports-are-still-insignificant/

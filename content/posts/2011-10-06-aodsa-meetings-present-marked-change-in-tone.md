@@ -1,6 +1,7 @@
 ---
 title: AOD/SA Meetings Present Marked Change In Tone
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-10-06T09:02:53+00:00
 url: /2011/10/06/aodsa-meetings-present-marked-change-in-tone/

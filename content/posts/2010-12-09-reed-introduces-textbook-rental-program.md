@@ -1,6 +1,7 @@
 ---
 title: Reed Introduces Textbook Rental Program
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-12-09T22:41:19+00:00
 excerpt: |

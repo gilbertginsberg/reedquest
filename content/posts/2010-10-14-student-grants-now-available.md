@@ -1,6 +1,7 @@
 ---
 title: Student Grants Now Available
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-14T18:18:45+00:00
 url: /2010/10/14/student-grants-now-available/

@@ -1,6 +1,7 @@
 ---
 title: 'Events Calendar: Week of September 15th'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-15T18:53:15+00:00
 excerpt: |

@@ -1,6 +1,7 @@
 ---
 title: Blue Heron Zine Review
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-14T19:08:27+00:00
 url: /2011/04/14/blue-heron-zine-review/

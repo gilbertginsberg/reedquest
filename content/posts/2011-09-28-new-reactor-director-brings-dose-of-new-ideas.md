@@ -1,6 +1,7 @@
 ---
 title: New Reactor Director Brings Dose of New Ideas
-authors: Ryn Linthicum
+authors: 
+  - "Ryn Linthicum"
 type: post
 date: 2011-09-28T22:45:12+00:00
 url: /2011/09/28/new-reactor-director-brings-dose-of-new-ideas/

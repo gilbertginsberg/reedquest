@@ -1,6 +1,7 @@
 ---
 title: Harvard Says “Farewell” to Final Exams
-authors: Katy Joseph
+authors: 
+  - "Katy Joseph"
 type: post
 date: 2010-09-15T19:00:14+00:00
 url: /2010/09/15/harvard-says-farewell-to-final-exams/

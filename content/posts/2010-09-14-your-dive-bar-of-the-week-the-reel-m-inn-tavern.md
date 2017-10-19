@@ -1,6 +1,7 @@
 ---
 title: 'Your Dive-Bar of the Week:  The Reel ‘m’ Inn Tavern'
-authors: Alice Newton
+authors: 
+  - "Alice Newton"
 type: post
 date: 2010-09-14T21:30:43+00:00
 excerpt: |

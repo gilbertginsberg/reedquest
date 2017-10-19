@@ -1,6 +1,7 @@
 ---
 title: Reedies Protest at Occupy Portland
-authors: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2011-10-20T23:33:40+00:00
 url: /2011/10/20/reedies-protest-at-occupy-portland/

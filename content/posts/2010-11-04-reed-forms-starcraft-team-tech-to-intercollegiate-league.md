@@ -1,6 +1,7 @@
 ---
 title: Reed Forms StarCraft Team, Techs to Intercollegiate League
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2010-11-04T20:18:13+00:00
 url: /2010/11/04/reed-forms-starcraft-team-tech-to-intercollegiate-league/

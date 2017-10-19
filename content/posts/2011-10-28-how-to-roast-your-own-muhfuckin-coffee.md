@@ -1,6 +1,7 @@
 ---
 title: How to Roast Your Own Muh’fuckin’ Coffee
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-10-28T20:46:07+00:00
 url: /2011/10/28/how-to-roast-your-own-muhfuckin-coffee/

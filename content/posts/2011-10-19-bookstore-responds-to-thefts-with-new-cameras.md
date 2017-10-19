@@ -1,6 +1,7 @@
 ---
 title: Bookstore Responds to Thefts With New Cameras
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-10-20T03:32:06+00:00
 url: /2011/10/19/bookstore-responds-to-thefts-with-new-cameras/

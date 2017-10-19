@@ -1,6 +1,7 @@
 ---
 title: Bursting the Bubble
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2011-03-31T19:48:51+00:00
 url: /2011/03/31/bursting-the-bubble-5/

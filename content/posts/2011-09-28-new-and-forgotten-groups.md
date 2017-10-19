@@ -1,6 +1,7 @@
 ---
 title: New and Forgotten Groups
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-09-28T22:42:51+00:00
 url: /2011/09/28/new-and-forgotten-groups/
@@ -14,7 +15,7 @@ Some student groups hang around so long they become synonymous with Reed: DOTU, 
 
 _Hunt and cultivate mushrooms._
 
-Like  mushrooms? No, not the trippy kind. The delicious kind. Fungus among us “Breaks the mold”, hunting and cultivating mushrooms, and educating people on their health benefits, as well as the potential dangers of certain mushrooms. If you think mushrooms are mediocre, Fungus Among Us will prove you wrong! Or at least prevent you from eating the poisonous ones. Contact Julia Selker at [&#x6a;&#x73;&#x65;&#x6c;&#x6b;&#x65;&#x72;&#x40;<span class="oe_displaynone">null</span>&#x72;&#x65;&#x65;&#x64;&#x2e;&#x65;&#x64;&#x75;][1] if you are interested.
+Like  mushrooms? No, not the trippy kind. The delicious kind. Fungus among us “Breaks the mold”, hunting and cultivating mushrooms, and educating people on their health benefits, as well as the potential dangers of certain mushrooms. If you think mushrooms are mediocre, Fungus Among Us will prove you wrong! Or at least prevent you from eating the poisonous ones. Contact Julia Selker at [&#x6a;&#x73;&#x65;&#x6c;&#x6b;&#x65;&#x72;&#x40;<span class="oe_displaynone">null</span>&#x72;&#x65;&#x65;&#x64;&#x2e;&#x65;&#x64;&#x75;][1] if you are interested.
 
 **Reed College Publishing Kollectiv (RCPK)**
 

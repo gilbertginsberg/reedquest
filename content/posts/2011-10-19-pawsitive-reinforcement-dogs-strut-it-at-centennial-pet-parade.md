@@ -1,6 +1,7 @@
 ---
 title: 'Pawsitive Reinforcement: Dogs Strut It at Centennial Pet Parade'
-authors: Jeremy Melloul
+authors: 
+  - "Jeremy Melloul"
 type: post
 date: 2011-10-20T03:25:14+00:00
 url: /2011/10/19/pawsitive-reinforcement-dogs-strut-it-at-centennial-pet-parade/

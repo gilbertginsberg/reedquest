@@ -1,6 +1,7 @@
 ---
 title: Students Cast Their Internets Wide, Pirate Copyrighted Material
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2010-09-30T18:19:54+00:00
 url: /2010/09/30/students-cast-their-internets-wide-pirate-copyrighted-material/

@@ -1,6 +1,7 @@
 ---
 title: 'President’s Message: Honorable Student Governance'
-authors: Brian Moore
+authors: 
+  - "Brian Moore"
 type: post
 date: 2012-02-03T21:54:58+00:00
 url: /2012/02/03/presidents-message-honorable-student-governance/

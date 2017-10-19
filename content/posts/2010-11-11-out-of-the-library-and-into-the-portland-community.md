@@ -1,6 +1,7 @@
 ---
 title: Out of the Library and Into the Portland Community
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-11-11T18:55:27+00:00
 excerpt: |

@@ -1,6 +1,7 @@
 ---
 title: Granger Responds to Recent Jabs, Increase in AODs
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-02-08T20:29:36+00:00
 url: /2011/02/08/granger-responds-to-recent-jabs-increase-in-aods/

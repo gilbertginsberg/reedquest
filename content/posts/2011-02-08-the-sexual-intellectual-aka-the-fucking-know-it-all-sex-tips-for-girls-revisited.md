@@ -1,6 +1,7 @@
 ---
 title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: Sex Tips for Girls Revisited'
-authors: Tristan Nieto
+authors: 
+  - "Tristan Nieto"
 type: post
 date: 2011-02-08T20:17:01+00:00
 url: /2011/02/08/the-sexual-intellectual-aka-the-fucking-know-it-all-sex-tips-for-girls-revisited/

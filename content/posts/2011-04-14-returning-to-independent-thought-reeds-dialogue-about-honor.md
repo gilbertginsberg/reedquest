@@ -1,6 +1,7 @@
 ---
 title: 'Returning to Independent Thought: Reed’s Dialogue About Honor'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-14T23:32:43+00:00
 url: /2011/04/14/returning-to-independent-thought-reeds-dialogue-about-honor/

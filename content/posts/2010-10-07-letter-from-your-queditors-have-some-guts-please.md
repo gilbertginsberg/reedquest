@@ -1,6 +1,7 @@
 ---
 title: 'Letter from Your Queditors: Have Some Guts, Please'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-07T18:14:42+00:00
 url: /2010/10/07/letter-from-your-queditors-have-some-guts-please/

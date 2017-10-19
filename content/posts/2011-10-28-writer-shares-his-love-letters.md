@@ -1,6 +1,7 @@
 ---
 title: Writer Shares His Love Letters
-authors: Lyle Daniel
+authors: 
+  - "Lyle Daniel"
 type: post
 date: 2011-10-28T20:28:21+00:00
 url: /2011/10/28/writer-shares-his-love-letters/

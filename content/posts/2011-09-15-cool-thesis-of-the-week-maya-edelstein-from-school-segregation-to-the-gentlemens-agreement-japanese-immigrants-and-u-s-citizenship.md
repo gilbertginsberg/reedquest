@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Maya Edelstein: “From School Segregation to the Gentlemen’s Agreement: Japanese Immigrants and U.S. Citizenship”'
-authors: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2011-09-15T17:58:51+00:00
 url: /2011/09/15/cool-thesis-of-the-week-maya-edelstein-from-school-segregation-to-the-gentlemens-agreement-japanese-immigrants-and-u-s-citizenship/

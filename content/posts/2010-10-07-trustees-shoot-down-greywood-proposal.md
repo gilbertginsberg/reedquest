@@ -1,6 +1,7 @@
 ---
 title: Trustees Shoot Down Greywood Proposal
-authors: Martha Janicki
+authors: 
+  - "Martha Janicki"
 type: post
 date: 2010-10-07T18:19:23+00:00
 url: /2010/10/07/trustees-shoot-down-greywood-proposal/

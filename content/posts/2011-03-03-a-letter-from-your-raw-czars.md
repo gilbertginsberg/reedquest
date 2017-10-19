@@ -1,6 +1,7 @@
 ---
 title: A Letter from Your RAW Czars
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-03-03T20:33:46+00:00
 url: /2011/03/03/a-letter-from-your-raw-czars/

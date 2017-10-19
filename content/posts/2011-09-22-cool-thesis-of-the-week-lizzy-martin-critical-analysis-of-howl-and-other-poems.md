@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Lizzy Martin: Critical Analysis of “Howl and Other Poems”'
-authors: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2011-09-22T18:04:38+00:00
 url: /2011/09/22/cool-thesis-of-the-week-lizzy-martin-critical-analysis-of-howl-and-other-poems/

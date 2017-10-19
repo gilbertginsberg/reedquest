@@ -1,6 +1,7 @@
 ---
 title: 'Sexy Desperate Senior: Todd Garon'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-30T17:55:42+00:00
 url: /2010/09/30/sexy-desperate-senior-todd-garon/

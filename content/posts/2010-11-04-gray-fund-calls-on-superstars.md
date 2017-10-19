@@ -1,6 +1,7 @@
 ---
 title: Gray Fund Calls On Superstars
-authors: Shruti Korada
+authors: 
+  - "Shruti Korada"
 type: post
 date: 2010-11-04T20:39:44+00:00
 url: /2010/11/04/gray-fund-calls-on-superstars/

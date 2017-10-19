@@ -1,6 +1,7 @@
 ---
 title: 'Stress Culture at Reed: An Excerpt from the Student Handbook'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-01T01:02:38+00:00
 url: /2010/09/30/stress-culture-at-reed-an-excerpt-from-the-student-handbook/

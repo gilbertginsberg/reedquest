@@ -1,6 +1,7 @@
 ---
 title: Sustainability is Dead
-authors: Ethan Knudson
+authors: 
+  - "Ethan Knudson"
 type: post
 date: 2011-02-25T22:30:25+00:00
 url: /2011/02/25/sustainability-is-dead/

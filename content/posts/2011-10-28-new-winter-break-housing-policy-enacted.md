@@ -1,6 +1,7 @@
 ---
 title: New Winter Break Housing Policy Enacted
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-10-28T20:35:34+00:00
 url: /2011/10/28/new-winter-break-housing-policy-enacted/

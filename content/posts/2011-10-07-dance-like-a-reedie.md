@@ -1,6 +1,7 @@
 ---
 title: Dance Like a Reedie
-authors: Kiri Strack-Grose
+authors: 
+  - "Kiri Strack-Grose"
 type: post
 date: 2011-10-07T20:30:01+00:00
 url: /2011/10/07/dance-like-a-reedie/

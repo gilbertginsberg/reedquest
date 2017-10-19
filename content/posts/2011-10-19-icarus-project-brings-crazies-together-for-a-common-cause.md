@@ -1,6 +1,7 @@
 ---
 title: Icarus Project brings “Crazies” Together for a Common Cause
-authors: Elizabeth Crisman
+authors: 
+  - "Elizabeth Crisman"
 type: post
 date: 2011-10-20T03:38:44+00:00
 url: /2011/10/19/icarus-project-brings-crazies-together-for-a-common-cause/

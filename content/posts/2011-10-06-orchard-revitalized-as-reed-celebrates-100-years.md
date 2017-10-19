@@ -1,6 +1,7 @@
 ---
 title: Orchard Revitalized as Reed Celebrates 100 Years
-authors: Katelyn Best
+authors: 
+  - "Katelyn Best"
 type: post
 date: 2011-10-06T09:00:39+00:00
 url: /2011/10/06/orchard-revitalized-as-reed-celebrates-100-years/

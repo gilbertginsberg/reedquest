@@ -1,6 +1,7 @@
 ---
 title: 'On Campus Events & Announcements'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-11-18T18:50:41+00:00
 url: /2010/11/18/on-campus-events-announcements-2/

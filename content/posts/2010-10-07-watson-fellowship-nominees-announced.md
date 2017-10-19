@@ -1,6 +1,7 @@
 ---
 title: WATSON FELLOWSHIP NOMINEES ANNOUNCED
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-07T18:08:23+00:00
 url: /2010/10/07/watson-fellowship-nominees-announced/

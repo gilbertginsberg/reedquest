@@ -1,6 +1,7 @@
 ---
 title: En-Szu Takes a Trip to the Cinema and Writes about Her Findings
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2010-12-02T18:53:55+00:00
 url: /2010/12/02/en-szu-takes-a-trip-to-the-cinema-and-writes-about-her-findings/

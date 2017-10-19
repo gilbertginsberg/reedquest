@@ -1,6 +1,7 @@
 ---
 title: 'Marijuana Law Reform on the West Coast: Prop 19 and Measure 74'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-07T17:54:40+00:00
 url: /2010/10/07/marijuana-law-reform-on-the-west-coast-prop-19-and-measure-74/

@@ -1,6 +1,7 @@
 ---
 title: Blue Like Jazz Crew Shoots on Campus
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-02-08T20:31:41+00:00
 excerpt: |

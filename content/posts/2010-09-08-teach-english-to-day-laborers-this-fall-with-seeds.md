@@ -1,6 +1,7 @@
 ---
 title: Teach English to day laborers this fall with SEEDS
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-08T04:39:37+00:00
 url: /2010/09/08/teach-english-to-day-laborers-this-fall-with-seeds/

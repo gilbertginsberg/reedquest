@@ -1,6 +1,7 @@
 ---
 title: 'Travel Diary: SEEDS New Orleans Trip 2011'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-28T18:39:47+00:00
 url: /2011/04/28/travel-diary-seeds-new-orleans-trip-2011/

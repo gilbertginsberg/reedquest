@@ -1,6 +1,7 @@
 ---
 title: Greywood to Be Rebuilt, Unify Admin Offices
-authors: Martha Janicki
+authors: 
+  - "Martha Janicki"
 type: post
 date: 2010-09-30T18:26:15+00:00
 url: /2010/09/30/greywood-to-be-rebuilt-unify-admin-offices/

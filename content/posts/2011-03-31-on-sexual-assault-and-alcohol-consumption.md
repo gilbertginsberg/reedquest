@@ -1,6 +1,7 @@
 ---
 title: On Sexual Assault and Alcohol Consumption
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-01T05:33:32+00:00
 url: /2011/03/31/on-sexual-assault-and-alcohol-consumption/

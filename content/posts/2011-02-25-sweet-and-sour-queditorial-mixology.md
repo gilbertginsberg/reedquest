@@ -1,6 +1,7 @@
 ---
 title: 'Sweet and Sour: Queditorial Mixology'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-02-25T22:29:32+00:00
 url: /2011/02/25/sweet-and-sour-queditorial-mixology/

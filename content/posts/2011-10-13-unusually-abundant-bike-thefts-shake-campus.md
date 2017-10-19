@@ -1,6 +1,7 @@
 ---
 title: Unusually Abundant Bike Thefts Shake Campus
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-10-13T22:17:23+00:00
 url: /2011/10/13/unusually-abundant-bike-thefts-shake-campus/

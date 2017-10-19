@@ -1,6 +1,7 @@
 ---
 title: 'The future of academics right at your fingertips: Reed faculty test-drive Apple iPads'
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2010-12-02T19:03:08+00:00
 url: /2010/12/02/the-future-of-academics-right-at-your-fingertips-reed-faculty-test-drive-apple-ipads/

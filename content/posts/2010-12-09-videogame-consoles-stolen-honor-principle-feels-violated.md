@@ -1,6 +1,7 @@
 ---
 title: Videogame Consoles Stolen, Honor Principle feels Violated
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2010-12-09T22:55:19+00:00
 url: /2010/12/09/videogame-consoles-stolen-honor-principle-feels-violated/

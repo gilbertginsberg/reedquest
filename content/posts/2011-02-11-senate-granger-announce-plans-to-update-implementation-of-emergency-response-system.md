@@ -1,6 +1,7 @@
 ---
 title: 'Senate, Granger Announce Plans to Update  Implementation of Emergency Response System'
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-02-11T20:56:41+00:00
 url: /2011/02/11/senate-granger-announce-plans-to-update-implementation-of-emergency-response-system/

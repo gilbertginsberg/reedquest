@@ -1,6 +1,7 @@
 ---
 title: Reed Faculty and Staff Bring It On Bikes
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2010-11-04T20:22:56+00:00
 excerpt: |

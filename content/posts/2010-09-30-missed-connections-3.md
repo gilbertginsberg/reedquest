@@ -1,6 +1,7 @@
 ---
 title: Missed Connections
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-30T18:17:07+00:00
 url: /2010/09/30/missed-connections-3/

@@ -1,6 +1,7 @@
 ---
 title: Home Made Dreams Big, But Falls Short
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2010-10-28T18:00:40+00:00
 url: /2010/10/28/home-made-dreams-big-but-falls-short/

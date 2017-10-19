@@ -1,6 +1,7 @@
 ---
 title: Doing The Most Honorable Thing
-authors: Gary Granger
+authors: 
+  - "Gary Granger"
 type: post
 date: 2011-10-07T20:33:44+00:00
 url: /2011/10/07/doing-the-most-honorable-thing/

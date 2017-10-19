@@ -1,6 +1,7 @@
 ---
 title: Senate Takes Stock
-authors: Ethan Knudson
+authors: 
+  - "Ethan Knudson"
 type: post
 date: 2010-09-15T18:57:59+00:00
 excerpt: |

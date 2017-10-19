@@ -1,6 +1,7 @@
 ---
 title: Senate Beat
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-02-18T20:02:21+00:00
 url: /2011/02/18/senate-beat-3/

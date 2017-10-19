@@ -1,6 +1,7 @@
 ---
 title: Chris Cahill is No Revolutionary
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-07T17:50:40+00:00
 url: /2010/10/07/chris-cahill-is-no-revolutionary/

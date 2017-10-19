@@ -1,6 +1,7 @@
 ---
 title: Commons to Host ‘Eat Local Challenge’
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-22T18:42:15+00:00
 excerpt: |

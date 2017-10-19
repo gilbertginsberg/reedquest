@@ -1,6 +1,7 @@
 ---
 title: Serious Advice from a Sober Freshman
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-14T21:17:20+00:00
 url: /2010/09/14/serious-advice-from-a-sober-freshman/

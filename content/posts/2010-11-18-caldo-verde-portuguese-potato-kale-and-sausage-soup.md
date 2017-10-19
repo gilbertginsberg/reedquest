@@ -1,6 +1,7 @@
 ---
 title: 'Caldo Verde: Portuguese Potato, Kale and Sausage Soup'
-authors: Alice Newton
+authors: 
+  - "Alice Newton"
 type: post
 date: 2010-11-18T18:48:02+00:00
 url: /2010/11/18/caldo-verde-portuguese-potato-kale-and-sausage-soup/

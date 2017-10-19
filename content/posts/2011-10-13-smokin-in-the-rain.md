@@ -1,6 +1,7 @@
 ---
 title: Smokin’ In The Rain
-authors: Rachel Fox
+authors: 
+  - "Rachel Fox"
 type: post
 date: 2011-10-13T22:43:43+00:00
 url: /2011/10/13/smokin-in-the-rain/

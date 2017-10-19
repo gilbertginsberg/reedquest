@@ -1,6 +1,7 @@
 ---
 title: Shira Tarrant Addresses Men, Feminism, Sexual Assault Debate
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-04-15T00:33:34+00:00
 excerpt: |

@@ -1,6 +1,7 @@
 ---
 title: 'Events & Announcements'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-02-18T20:10:57+00:00
 url: /2011/02/18/events-announcements-3/

@@ -1,6 +1,7 @@
 ---
 title: “It was intercourse without pleasure”
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-01T00:23:20+00:00
 excerpt: |

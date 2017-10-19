@@ -1,6 +1,7 @@
 ---
 title: Dawn Thompson Begins Transition to Executive Assistant Position
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-14T18:27:45+00:00
 url: /2010/10/14/dawn-thompson-begins-transition-to-executive-assistant-position/

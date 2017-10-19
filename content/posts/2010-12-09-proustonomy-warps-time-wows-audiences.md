@@ -1,6 +1,7 @@
 ---
 title: Proustonomy Warps Time, Wows Audiences
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2010-12-09T22:45:15+00:00
 excerpt: |

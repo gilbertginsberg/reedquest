@@ -1,6 +1,7 @@
 ---
 title: Many Ways to Communicate with CSOs, One Result
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2010-12-08T23:07:53+00:00
 url: /2010/12/08/many-ways-to-communicate-with-csos-one-result/

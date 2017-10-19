@@ -1,6 +1,7 @@
 ---
 title: Interview with Vanessa “New Dax” White
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-28T18:44:32+00:00
 url: /2011/04/28/interview-with-vanessa-new-dax-white/

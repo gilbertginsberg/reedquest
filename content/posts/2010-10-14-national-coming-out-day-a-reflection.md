@@ -1,6 +1,7 @@
 ---
 title: 'National Coming Out Day: A Reflection'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-14T17:45:51+00:00
 url: /2010/10/14/national-coming-out-day-a-reflection/

@@ -1,6 +1,7 @@
 ---
 title: A Response to Administrative Responses
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-21T23:12:10+00:00
 url: /2011/04/21/a-response-to-administrative-responses/

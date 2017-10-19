@@ -1,6 +1,7 @@
 ---
 title: 'Subgenre of the Week: Chillwave'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2010-10-28T17:40:42+00:00
 url: /2010/10/28/obscure-subgenre-of-the-week-chillwave/

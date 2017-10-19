@@ -1,6 +1,7 @@
 ---
 title: 'Subgenre of the Week: “Disney Shit”'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-04-14T19:07:16+00:00
 url: /2011/04/14/subgenre-of-the-week-disney-shit/

@@ -1,6 +1,7 @@
 ---
 title: Can you find the Health Center?
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2010-09-01T02:27:34+00:00
 url: /2010/09/01/can-you-find-the-health-center/

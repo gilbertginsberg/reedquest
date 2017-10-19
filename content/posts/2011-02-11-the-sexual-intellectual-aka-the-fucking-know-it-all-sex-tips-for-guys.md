@@ -1,6 +1,7 @@
 ---
 title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: Sex Tips for Guys'
-authors: Tristan Nieto
+authors: 
+  - "Tristan Nieto"
 type: post
 date: 2011-02-11T20:42:07+00:00
 excerpt: I’m not out to teach you the ultimate secret to sex like some kung-fu sex master or a Men’s Health magazine will promise to. After speaking to some close and sexually active female friends, though, I have devised some guidelines for men in approaching sex.

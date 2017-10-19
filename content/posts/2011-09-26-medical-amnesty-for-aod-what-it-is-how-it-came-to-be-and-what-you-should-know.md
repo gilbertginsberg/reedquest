@@ -1,6 +1,7 @@
 ---
 title: 'Medical Amnesty for AOD: What It Is, How It Came To Be, and What You Should Know'
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-09-26T21:33:23+00:00
 url: /2011/09/26/medical-amnesty-for-aod-what-it-is-how-it-came-to-be-and-what-you-should-know/

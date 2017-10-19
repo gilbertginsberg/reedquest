@@ -1,6 +1,7 @@
 ---
 title: 'Sexy Desperate Senior:  Jamie Perkins'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-14T21:20:37+00:00
 excerpt: |

@@ -1,6 +1,7 @@
 ---
 title: 'Piggies Find a Home: Food, Friends Rolled Up into a Dorm'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-03-03T20:16:38+00:00
 url: /2011/03/03/piggies-find-a-home-food-friends-rolled-up-into-a-dorm/

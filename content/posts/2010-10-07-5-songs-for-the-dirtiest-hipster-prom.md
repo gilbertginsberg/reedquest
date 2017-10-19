@@ -1,6 +1,7 @@
 ---
 title: 5 Songs for the Dirtiest Hipster Prom
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2010-10-07T17:58:01+00:00
 url: /2010/10/07/5-songs-for-the-dirtiest-hipster-prom/

@@ -1,6 +1,7 @@
 ---
 title: Two “Important, Overlooked Entities”
-authors: Shabab Mirza
+authors: 
+  - "Shabab Mirza"
 type: post
 date: 2011-09-26T21:07:07+00:00
 url: /2011/09/26/two-important-overlooked-entities/

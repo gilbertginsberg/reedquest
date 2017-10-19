@@ -1,6 +1,7 @@
 ---
 title: Centennial Planning Underway as Reed Turns 100
-authors: Ethan Knudson
+authors: 
+  - "Ethan Knudson"
 type: post
 date: 2010-09-30T18:21:48+00:00
 url: /2010/09/30/centennial-planning-underway-as-reed-turns-100/

@@ -1,6 +1,7 @@
 ---
 title: 'Subgenre of the Week: Dutch house'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-04-22T02:18:22+00:00
 url: /2011/04/21/subgenre-of-the-week-dutch-house/

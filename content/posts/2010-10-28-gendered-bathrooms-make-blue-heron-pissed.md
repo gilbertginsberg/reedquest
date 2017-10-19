@@ -1,6 +1,7 @@
 ---
 title: Gendered Bathrooms Make Blue Heron “Pissed”
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-28T17:50:28+00:00
 excerpt: |

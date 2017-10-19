@@ -1,6 +1,7 @@
 ---
 title: Bursting the Bubble
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-02-18T20:12:59+00:00
 url: /2011/02/18/bursting-the-bubble-2/

@@ -1,6 +1,7 @@
 ---
 title: Be a Part of Reed Arts Week 2011
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-08T04:42:20+00:00
 url: /2010/09/08/be-a-part-of-reed-arts-week-2011/

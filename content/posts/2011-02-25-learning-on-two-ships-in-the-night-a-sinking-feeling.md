@@ -1,6 +1,7 @@
 ---
 title: 'Learning on Two Ships in the Night: A Sinking Feeling'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-02-26T01:20:19+00:00
 excerpt: |

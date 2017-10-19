@@ -1,6 +1,7 @@
 ---
 title: Arizona State Scrounges $6 Million in Uranium Fuel, Reed Reactor Benefits
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2011-02-11T21:08:19+00:00
 excerpt: |

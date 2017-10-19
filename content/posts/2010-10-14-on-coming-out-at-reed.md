@@ -1,6 +1,7 @@
 ---
 title: On Coming Out at Reed
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-14T17:44:03+00:00
 url: /2010/10/14/on-coming-out-at-reed/

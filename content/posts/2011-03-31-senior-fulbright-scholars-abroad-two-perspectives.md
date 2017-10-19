@@ -1,6 +1,7 @@
 ---
 title: 'Senior Fulbright Scholars Abroad: Two Perspectives'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-01T05:37:35+00:00
 url: /2011/03/31/senior-fulbright-scholars-abroad-two-perspectives/

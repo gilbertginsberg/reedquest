@@ -1,6 +1,7 @@
 ---
 title: 5 Songs to Bone To
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-15T18:14:25+00:00
 url: /2010/09/15/5-songs-to-bone-to/

@@ -1,6 +1,7 @@
 ---
 title: 'This Year’s Hum Play: Different, but the Same'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-28T18:34:18+00:00
 url: /2011/04/28/this-years-hum-play-different-but-the-same/

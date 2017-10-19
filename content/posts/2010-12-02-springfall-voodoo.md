@@ -1,6 +1,7 @@
 ---
 title: 'SPRING/FALL: VOODOO'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-12-02T18:59:07+00:00
 excerpt: |

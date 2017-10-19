@@ -1,6 +1,7 @@
 ---
 title: MusicfestNW comes to Portland
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-08T04:23:52+00:00
 url: /2010/09/08/musicfestnw-comes-to-portland/

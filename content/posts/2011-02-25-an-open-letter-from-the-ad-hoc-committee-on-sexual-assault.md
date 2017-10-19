@@ -1,6 +1,7 @@
 ---
 title: An Open Letter from the Ad-hoc Committee on Sexual Assault
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-02-26T01:16:02+00:00
 url: /2011/02/25/an-open-letter-from-the-ad-hoc-committee-on-sexual-assault/

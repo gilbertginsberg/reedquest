@@ -1,6 +1,7 @@
 ---
 title: 'Setting Boundaries: Obtaining a No-Contact Order from Community Safety'
-authors: Ethan Knudson
+authors: 
+  - "Ethan Knudson"
 type: post
 date: 2011-04-14T23:35:30+00:00
 url: /2011/04/14/setting-boundaries-obtaining-a-no-contact-order-from-community-safety/

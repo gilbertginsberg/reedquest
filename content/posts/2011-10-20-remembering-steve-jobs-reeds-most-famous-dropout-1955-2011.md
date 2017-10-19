@@ -1,6 +1,7 @@
 ---
 title: 'Remembering Steve Jobs, Reed’s Most Famous Dropout: 1955-2011'
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-10-20T23:11:27+00:00
 url: /2011/10/20/remembering-steve-jobs-reeds-most-famous-dropout-1955-2011/

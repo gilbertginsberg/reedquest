@@ -1,6 +1,7 @@
 ---
 title: 'Private: Sexy Desperate Senior: Sam Shemitz'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-11-11T19:35:43+00:00
 draft: true

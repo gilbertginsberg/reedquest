@@ -1,6 +1,7 @@
 ---
 title: 'Dissecting “Barbra Streisand” : A Highly Specific Sub-Genre'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-03-31T19:04:54+00:00
 url: /2011/03/31/dissecting-barbra-streisand-a-highly-specific-sub-genre/

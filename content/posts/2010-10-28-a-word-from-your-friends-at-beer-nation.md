@@ -1,6 +1,7 @@
 ---
 title: A Word from Your Friends at Beer Nation
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-28T17:57:45+00:00
 excerpt: |

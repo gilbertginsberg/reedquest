@@ -1,6 +1,7 @@
 ---
 title: “To indiscriminately report on the news”?
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-14T21:26:40+00:00
 excerpt: |

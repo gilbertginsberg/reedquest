@@ -1,6 +1,7 @@
 ---
 title: Snacks You Should Eat, Even Though You’re Not Ten Years Old
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-11-18T18:46:08+00:00
 url: /2010/11/18/snacks-you-should-eat-even-though-youre-not-ten-years-old/

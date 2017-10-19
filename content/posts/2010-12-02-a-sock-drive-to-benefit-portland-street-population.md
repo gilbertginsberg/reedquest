@@ -1,6 +1,7 @@
 ---
 title: A Sock Drive to Benefit Portland Street Population
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-12-02T19:13:49+00:00
 excerpt: |

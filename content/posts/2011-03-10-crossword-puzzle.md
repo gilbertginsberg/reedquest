@@ -1,6 +1,7 @@
 ---
 title: Crossword Puzzle
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-03-10T20:05:57+00:00
 excerpt: |

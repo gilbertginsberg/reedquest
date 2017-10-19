@@ -1,6 +1,7 @@
 ---
 title: 'An Experiment in Production: “Uncanny Valley” Collaboration Inspirational for Students, Company'
-authors: Ethan Knudson
+authors: 
+  - "Ethan Knudson"
 type: post
 date: 2010-09-15T19:07:00+00:00
 url: /2010/09/15/an-experiment-in-production-uncanny-valley-collaboration-inspirational-for-students-company/

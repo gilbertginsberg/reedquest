@@ -1,6 +1,7 @@
 ---
 title: Election Blurbs
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-15T00:09:34+00:00
 url: /2011/04/14/election-blurbs/

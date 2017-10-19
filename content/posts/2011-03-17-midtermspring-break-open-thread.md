@@ -1,6 +1,7 @@
 ---
 title: Midterm/Spring Break Open Thread
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-03-18T04:06:06+00:00
 url: /2011/03/17/midtermspring-break-open-thread/

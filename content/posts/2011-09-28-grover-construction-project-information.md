@@ -1,6 +1,7 @@
 ---
 title: Grover Construction Project Information
-authors: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2011-09-28T22:32:58+00:00
 url: /2011/09/28/grover-construction-project-information/

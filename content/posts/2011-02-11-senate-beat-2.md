@@ -1,6 +1,7 @@
 ---
 title: Senate Beat
-authors: Cori Savaiano
+authors: 
+  - "Cori Savaiano"
 type: post
 date: 2011-02-11T20:46:53+00:00
 excerpt: |

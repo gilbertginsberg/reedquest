@@ -1,6 +1,7 @@
 ---
 title: Portland Juggling Festival Returns to Campus
-authors: Jeremy Melloul
+authors: 
+  - "Jeremy Melloul"
 type: post
 date: 2011-10-13T22:33:49+00:00
 url: /2011/10/13/portland-juggling-festival-returns-to-campus/

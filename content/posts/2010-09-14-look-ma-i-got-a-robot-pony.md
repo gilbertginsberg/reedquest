@@ -1,6 +1,7 @@
 ---
 title: Look, Ma, I Got a Robot Pony
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-14T21:22:35+00:00
 excerpt: |

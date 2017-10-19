@@ -1,6 +1,7 @@
 ---
 title: For a Stress-Lesser Finals Week
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2010-12-09T22:39:26+00:00
 url: /2010/12/09/for-a-stress-lesser-finals-week/

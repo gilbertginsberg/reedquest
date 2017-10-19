@@ -1,6 +1,7 @@
 ---
 title: Senate Liaisons/Committee Appointments
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-15T18:41:17+00:00
 excerpt: |

@@ -1,6 +1,7 @@
 ---
 title: Trustees to Talk Greywood at Fall Meeting
-authors: Katy Joseph
+authors: 
+  - "Katy Joseph"
 type: post
 date: 2010-09-30T18:10:00+00:00
 url: /2010/09/30/trustees-to-talk-greywood-at-fall-meeting/

@@ -1,6 +1,7 @@
 ---
 title: 'CSO Of The Week: George Ebner'
-authors: Maha Pasha
+authors: 
+  - "Maha Pasha"
 type: post
 date: 2011-10-07T20:46:50+00:00
 url: /2011/10/07/cso-of-the-week-george-ebner/

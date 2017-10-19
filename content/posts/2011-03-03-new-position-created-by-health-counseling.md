@@ -1,6 +1,7 @@
 ---
 title: 'New Position Created By Health & Counseling'
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-03-03T20:35:39+00:00
 excerpt: |

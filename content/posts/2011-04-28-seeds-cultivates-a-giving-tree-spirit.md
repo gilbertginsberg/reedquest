@@ -1,6 +1,7 @@
 ---
 title: SEEDS Cultivates a “Giving Tree” Spirit
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-28T18:37:55+00:00
 url: /2011/04/28/seeds-cultivates-a-giving-tree-spirit/

@@ -1,6 +1,7 @@
 ---
 title: 'Subgenre of the Week: Moombahton'
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2011-03-10T20:00:34+00:00
 url: /2011/03/10/subgenre-of-the-week-moombahton/

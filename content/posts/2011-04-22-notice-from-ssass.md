@@ -1,6 +1,7 @@
 ---
 title: Notice from SSASS
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-04-22T20:28:44+00:00
 url: /2011/04/22/notice-from-ssass/

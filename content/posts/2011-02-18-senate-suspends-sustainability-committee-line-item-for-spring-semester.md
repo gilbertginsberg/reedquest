@@ -1,6 +1,7 @@
 ---
 title: Senate Suspends Sustainability Committee Line Item for Spring Semester
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-02-18T20:14:00+00:00
 url: /2011/02/18/senate-suspends-sustainability-committee-line-item-for-spring-semester/

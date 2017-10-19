@@ -1,6 +1,7 @@
 ---
 title: 'Bursting the Bubble: Middle East Edition'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-03-03T20:30:49+00:00
 excerpt: |

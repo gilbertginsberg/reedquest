@@ -1,6 +1,7 @@
 ---
 title: A Response to Manley’s Open Resignation Letter
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-02-18T20:07:11+00:00
 url: /2011/02/18/a-response-to-manleys-open-resignation-letter/

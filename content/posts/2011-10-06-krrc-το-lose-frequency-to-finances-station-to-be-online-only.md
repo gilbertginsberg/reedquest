@@ -1,6 +1,7 @@
 ---
 title: 'KRRC Το Lose Frequency To Finances: Station To Be Online Only'
-authors: Aaron Smith
+authors: 
+  - "Aaron Smith"
 type: post
 date: 2011-10-06T08:59:16+00:00
 url: /2011/10/06/krrc-το-lose-frequency-to-finances-station-to-be-online-only/

@@ -1,6 +1,7 @@
 ---
 title: 'Beyond Bollywood: RASA brings Indian culture to life at Reed'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-28T18:30:13+00:00
 url: /2011/04/28/beyond-bollywood-rasa-brings-indian-culture-to-life-at-reed/

@@ -1,6 +1,7 @@
 ---
 title: Reed’s First Statement of Diversity
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-10-14T18:10:12+00:00
 url: /2010/10/14/reeds-first-statement-of-diversity/

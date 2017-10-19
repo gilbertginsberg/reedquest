@@ -1,6 +1,7 @@
 ---
 title: Putting the “Rad” in RAD
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-17T02:42:08+00:00
 url: /2011/04/16/putting-the-rad-in-rad/

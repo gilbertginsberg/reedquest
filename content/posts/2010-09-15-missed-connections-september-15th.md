@@ -1,6 +1,7 @@
 ---
 title: 'Missed Connections: September 15th'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-15T18:55:50+00:00
 excerpt: |

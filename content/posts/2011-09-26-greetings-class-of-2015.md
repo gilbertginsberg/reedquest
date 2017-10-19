@@ -1,6 +1,7 @@
 ---
 title: Greetings, Class of 2015!
-authors: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2011-09-26T20:54:46+00:00
 url: /2011/09/26/greetings-class-of-2015/

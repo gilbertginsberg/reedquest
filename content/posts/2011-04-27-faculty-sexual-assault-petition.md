@@ -1,6 +1,7 @@
 ---
 title: Faculty Sexual Assault Petition
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-27T18:28:51+00:00
 url: /2011/04/27/faculty-sexual-assault-petition/

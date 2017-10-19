@@ -1,6 +1,7 @@
 ---
 title: 'Computers, Equipment Stolen from Physics: Second Large-Scale Tech Theft This Semester'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-04-15T00:26:06+00:00
 url: /2011/04/14/computers-equipment-stolen-from-physic-second-large-scale-tech-theft-this-semester/

@@ -1,6 +1,7 @@
 ---
 title: 'Dive Bar of the Week:  Pub at the  End of the Universe'
-authors: Alice Newton
+authors: 
+  - "Alice Newton"
 type: post
 date: 2010-10-14T17:50:37+00:00
 url: /2010/10/14/dive-bar-of-the-week-pub-at-the-end-of-the-universe/

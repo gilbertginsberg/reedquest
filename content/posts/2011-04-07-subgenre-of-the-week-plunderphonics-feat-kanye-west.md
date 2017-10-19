@@ -1,6 +1,7 @@
 ---
 title: 'Subgenre of the Week: Plunderphonics (feat. Kanye West)'
-authors: questadmin
+authors: 
+  - questadmin
 type: post
 date: 2011-04-07T19:07:21+00:00
 url: /2011/04/07/subgenre-of-the-week-plunderphonics-feat-kanye-west/

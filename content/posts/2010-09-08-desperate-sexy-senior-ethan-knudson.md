@@ -1,6 +1,7 @@
 ---
 title: 'Desperate Sexy Senior:  Ethan Knudson'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-08T04:22:57+00:00
 excerpt: |

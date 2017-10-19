@@ -1,6 +1,7 @@
 ---
 title: Restaurant Review
-authors: Katelyn Best
+authors: 
+  - "Katelyn Best"
 type: post
 date: 2011-09-26T21:31:18+00:00
 url: /2011/09/26/restaurant-review/

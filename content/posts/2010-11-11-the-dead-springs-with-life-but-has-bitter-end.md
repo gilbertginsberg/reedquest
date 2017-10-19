@@ -1,6 +1,7 @@
 ---
 title: The Dead Springs with Life, But Has Bitter End
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2010-11-11T18:48:35+00:00
 url: /2010/11/11/the-dead-springs-with-life-but-has-bitter-end/

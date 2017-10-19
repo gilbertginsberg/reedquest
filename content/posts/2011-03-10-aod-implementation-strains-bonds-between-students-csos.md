@@ -1,6 +1,7 @@
 ---
 title: AOD Implementation Strains Bonds between Students, CSOs
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-03-10T20:33:34+00:00
 excerpt: |

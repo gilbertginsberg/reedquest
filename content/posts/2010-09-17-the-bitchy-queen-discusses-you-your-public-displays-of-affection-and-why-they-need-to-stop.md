@@ -1,6 +1,7 @@
 ---
 title: 'The Bitchy Queen  Discusses You, Your Public  Displays of Affection, and  Why They Need to Stop'
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2010-09-17T21:24:44+00:00
 excerpt: |

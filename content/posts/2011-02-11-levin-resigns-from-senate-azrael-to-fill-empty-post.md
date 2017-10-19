@@ -1,6 +1,7 @@
 ---
 title: Levin Resigns from Senate, Azrael to Fill Empty Post
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2011-02-11T21:05:22+00:00
 url: /2011/02/11/levin-resigns-from-senate-azrael-to-fill-empty-post/

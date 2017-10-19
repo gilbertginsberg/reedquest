@@ -1,6 +1,7 @@
 ---
 title: Reed’s Resident Underground Celebrity Pens Tell-All Book
-authors: En-Szu Hu-Van Wright
+authors: 
+  - "En-Szu Hu-Van Wright"
 type: post
 date: 2011-04-07T19:28:50+00:00
 url: /2011/04/07/reeds-resident-underground-celebrity-pens-tell-all-book/

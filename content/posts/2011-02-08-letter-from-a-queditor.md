@@ -1,6 +1,7 @@
 ---
 title: Letter from a Queditor
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2011-02-08T20:09:17+00:00
 url: /2011/02/08/letter-from-a-queditor/

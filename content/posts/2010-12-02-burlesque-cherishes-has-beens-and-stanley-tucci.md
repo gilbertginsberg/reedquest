@@ -1,6 +1,7 @@
 ---
 title: Burlesque CHERishes Has-Beens and Stanley Tucci
-authors: Johnny Flores
+authors: 
+  - "Johnny Flores"
 type: post
 date: 2010-12-02T18:51:56+00:00
 url: /2010/12/02/burlesque-cherishes-has-beens-and-stanley-tucci/

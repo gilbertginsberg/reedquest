@@ -1,6 +1,7 @@
 ---
 title: Hang in There, Bitches. It’s Almost Renn Fayre, Ya’ Hear?
-authors: Staff
+authors: 
+  - Staff
 type: post
 date: 2011-04-22T02:06:04+00:00
 url: /2011/04/21/hang-in-there-bitches-its-almost-renn-fayre-ya-hear/
