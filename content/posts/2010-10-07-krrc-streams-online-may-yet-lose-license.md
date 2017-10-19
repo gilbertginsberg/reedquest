@@ -1,6 +1,6 @@
 ---
 title: KRRC Streams Online, May Yet Lose License
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-10-07T18:16:42+00:00
 url: /2010/10/07/krrc-streams-online-may-yet-lose-license/

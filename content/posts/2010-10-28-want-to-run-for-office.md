@@ -1,6 +1,6 @@
 ---
 title: Want to Run for Office?
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-28T18:11:37+00:00
 url: /2010/10/28/want-to-run-for-office/

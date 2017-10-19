@@ -1,6 +1,7 @@
 ---
 title: New Theme Dorms, PIG Appeals Cancellation
-author: Emmeline Hill
+authors: 
+  - "Emmeline Hill"
 type: post
 date: 2012-02-18T04:54:49+00:00
 url: /2012/02/17/new-theme-dorms-pig-appeals-cancellation/

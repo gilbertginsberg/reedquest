@@ -1,6 +1,6 @@
 ---
 title: 'Senate Beat: Special Snarky Edition'
-author: Alex Walker
+authors: Alex Walker
 type: post
 date: 2011-12-09T06:14:33+00:00
 url: /2011/12/08/senate-beat-special-snarky-edition/

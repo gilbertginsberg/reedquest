@@ -1,6 +1,6 @@
 ---
 title: From Controversy to Constructive Action
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:27:44+00:00
 url: /2011/04/28/from-controversy-to-constructive-action/

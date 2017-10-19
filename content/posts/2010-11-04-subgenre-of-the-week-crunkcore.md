@@ -1,6 +1,6 @@
 ---
 title: 'Subgenre of the Week: Crunkcore'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-11-04T19:51:15+00:00
 url: /2010/11/04/subgenre-of-the-week-crunkcore/

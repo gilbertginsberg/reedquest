@@ -1,6 +1,7 @@
 ---
 title: 'Chez Commons: Deconstructing Physical Metaphors'
-author: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2012-01-28T06:27:03+00:00
 url: /2012/01/27/chez-commons-deconstructing-physical-metaphors/

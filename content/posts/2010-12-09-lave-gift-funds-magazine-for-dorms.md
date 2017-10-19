@@ -1,6 +1,6 @@
 ---
 title: Lave Gift Funds Magazine for Dorms
-author: Staff
+authors: Staff
 type: post
 date: 2010-12-09T22:37:21+00:00
 excerpt: |

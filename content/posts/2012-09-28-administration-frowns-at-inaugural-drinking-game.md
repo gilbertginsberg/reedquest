@@ -1,6 +1,7 @@
 ---
 title: Administration Frowns at Inaugural Drinking Game
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2012-09-28T17:00:53+00:00
 url: /2012/09/28/administration-frowns-at-inaugural-drinking-game/

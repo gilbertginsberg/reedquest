@@ -1,6 +1,7 @@
 ---
 title: Kony Comes to Reed
-author: Sammie Massey
+authors: 
+  - "Sammie Massey"
 type: post
 date: 2012-03-23T23:17:54+00:00
 url: /2012/03/23/kony-comes-to-reed/

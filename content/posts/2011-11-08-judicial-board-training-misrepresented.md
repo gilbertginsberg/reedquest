@@ -1,6 +1,6 @@
 ---
 title: Judicial Board Training Misrepresented
-author: Maha Pasha
+authors: Maha Pasha
 type: post
 date: 2011-11-09T02:15:30+00:00
 url: /2011/11/08/judicial-board-training-misrepresented/

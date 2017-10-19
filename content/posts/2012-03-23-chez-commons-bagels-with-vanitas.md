@@ -1,6 +1,7 @@
 ---
 title: 'Chez Commons: Bagels with Vanitas'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-03-23T23:20:04+00:00
 url: /2012/03/23/chez-commons-bagels-with-vanitas/

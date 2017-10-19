@@ -1,6 +1,6 @@
 ---
 title: 'Subgenre of the Week: Post-rock'
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-11-18T18:38:24+00:00
 url: /2010/11/18/subgenre-of-the-week-post-rock/

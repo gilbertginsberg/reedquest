@@ -1,6 +1,7 @@
 ---
 title: 'John Kroger: Leading from Within'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-09-07T19:38:54+00:00
 url: /2012/09/07/john-kroger-leading-from-within/

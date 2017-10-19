@@ -1,6 +1,6 @@
 ---
 title: Bursting the Bubble
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:42:45+00:00
 url: /2011/04/28/bursting-the-bubble-8/

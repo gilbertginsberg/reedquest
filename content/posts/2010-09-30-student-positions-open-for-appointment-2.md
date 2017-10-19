@@ -1,6 +1,6 @@
 ---
 title: 'Student  Positions Open for Appointment'
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-30T18:17:56+00:00
 url: /2010/09/30/student-positions-open-for-appointment-2/

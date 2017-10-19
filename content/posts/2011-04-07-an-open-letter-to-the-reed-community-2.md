@@ -1,6 +1,6 @@
 ---
 title: “An Open Letter to the Reed Community”
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-07T19:16:34+00:00
 url: /2011/04/07/an-open-letter-to-the-reed-community-2/

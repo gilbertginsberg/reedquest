@@ -1,6 +1,7 @@
 ---
 title: 'Senate Beat: Nitrogen Day, Academic Advisers, and Sexual Harassment Policy'
-author: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2012-03-23T04:59:03+00:00
 url: /2012/03/22/senate-beat-nitrogen-day-academic-advisers-and-sexual-harassment-policy/

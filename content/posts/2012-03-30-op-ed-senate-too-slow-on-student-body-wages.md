@@ -1,6 +1,7 @@
 ---
 title: 'Op-Ed: Senate Too Slow on Student Body Wages'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-03-30T22:03:16+00:00
 url: /2012/03/30/op-ed-senate-too-slow-on-student-body-wages/

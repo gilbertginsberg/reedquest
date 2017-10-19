@@ -1,6 +1,6 @@
 ---
 title: 'Midterm Election Results: GOP Takes Control of House Majority, Gains Significantly in Senate, Gubernatorial Seats in Most Expensive Midterm Election in American History'
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-04T20:03:57+00:00
 excerpt: |

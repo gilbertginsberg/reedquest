@@ -1,6 +1,6 @@
 ---
 title: Conservative Bloggers Attack Reed Alumna, Congressional Candidate Suzan DelBene
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-10-28T18:24:38+00:00
 excerpt: |

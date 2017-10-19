@@ -1,6 +1,7 @@
 ---
 title: 'Op-Ed: Why The Quest Needs to be Elections-Free'
-author: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2012-04-12T18:05:21+00:00
 url: /2012/04/12/op-ed-why-the-quest-needs-to-be-elections-free/

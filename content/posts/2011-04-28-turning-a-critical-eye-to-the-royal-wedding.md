@@ -1,6 +1,6 @@
 ---
 title: Turning a Critical Eye to the Royal Wedding
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:18:10+00:00
 url: /2011/04/28/turning-a-critical-eye-to-the-royal-wedding/

@@ -1,6 +1,6 @@
 ---
 title: 'Finding Diver’s Replacement: Student Participation Vital In Search Process'
-author: Rachel Fox
+authors: Rachel Fox
 type: post
 date: 2011-11-04T21:03:27+00:00
 url: /2011/11/04/finding-divers-replacement-student-participation-vital-in-search-process/

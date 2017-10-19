@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Tristan Nieto'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-10-05T16:59:30+00:00
 url: /2012/10/05/cool-thesis-of-the-week-tristan-nieto/

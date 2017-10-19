@@ -1,6 +1,6 @@
 ---
 title: MRC Gives $2000 In Grants
-author: Shabab Mirza
+authors: Shabab Mirza
 type: post
 date: 2011-10-28T20:43:27+00:00
 url: /2011/10/28/mrc-gives-2000-in-grants/

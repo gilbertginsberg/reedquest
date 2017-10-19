@@ -1,6 +1,6 @@
 ---
 title: Crossword Solution
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-31T19:21:08+00:00
 excerpt: |

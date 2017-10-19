@@ -1,6 +1,7 @@
 ---
 title: 'Editorial: An End to Senate Beat, But a New Beginning'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-08T08:06:23+00:00
 url: /2012/11/08/editorial-an-end-to-senate-beat-but-a-new-beginning/

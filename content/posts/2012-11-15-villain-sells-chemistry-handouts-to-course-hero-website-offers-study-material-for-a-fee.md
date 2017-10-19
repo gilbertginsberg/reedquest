@@ -1,6 +1,7 @@
 ---
 title: 'Villain Sells Chemistry Handouts to Course Hero: Website Offers Study Material, for a Fee'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-15T20:17:04+00:00
 url: /2012/11/15/villain-sells-chemistry-handouts-to-course-hero-website-offers-study-material-for-a-fee/

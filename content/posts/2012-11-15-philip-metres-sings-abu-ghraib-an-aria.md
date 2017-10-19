@@ -1,6 +1,7 @@
 ---
 title: Philip Metres Sings Abu Ghraib an Aria
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-15T20:12:31+00:00
 url: /2012/11/15/philip-metres-sings-abu-ghraib-an-aria/

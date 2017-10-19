@@ -1,6 +1,6 @@
 ---
 title: 'Pink Toenails and Toddlers: Tuesday Talks Tackle the Issues'
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:31:15+00:00
 url: /2011/04/28/pink-toenails-and-toddlers-tuesday-talks-tackle-the-issues/

@@ -1,6 +1,6 @@
 ---
 title: 'Recipe from The Co-Op: Chocolate Chocolate Truffles'
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-08T11:18:08+00:00
 excerpt: |

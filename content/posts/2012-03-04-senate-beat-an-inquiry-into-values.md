@@ -1,6 +1,7 @@
 ---
 title: 'Senate Beat: An Inquiry into Values'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-03-05T06:51:01+00:00
 url: /2012/03/04/senate-beat-an-inquiry-into-values/

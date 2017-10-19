@@ -1,6 +1,7 @@
 ---
 title: ODB Fumigates for Bed Bugs
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2012-09-21T17:35:39+00:00
 url: /2012/09/21/odb-fumigates-for-bed-bugs/

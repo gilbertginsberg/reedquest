@@ -1,6 +1,7 @@
 ---
 title: Bookstore Cameras Spot Alleged Thief
-author: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2012-01-28T06:12:53+00:00
 url: /2012/01/27/bookstore-cameras-spot-alleged-thief/

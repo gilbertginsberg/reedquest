@@ -1,6 +1,6 @@
 ---
 title: 'Jamie’s Soap Box: Quit Hatin’ on Groups that Promote Diversity'
-author: questadmin
+authors: questadmin
 type: post
 date: 2010-09-14T21:28:22+00:00
 excerpt: |

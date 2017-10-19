@@ -1,6 +1,7 @@
 ---
 title: 'Editorial: Reform Needed to Maintain Quest Quality'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-03-30T22:15:39+00:00
 url: /2012/03/30/editorial-reform-needed-to-maintain-quest-quality/

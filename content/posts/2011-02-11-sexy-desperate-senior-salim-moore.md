@@ -1,6 +1,6 @@
 ---
 title: 'Sexy Senior: Salim Moore'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2011-02-11T20:27:56+00:00
 excerpt: |

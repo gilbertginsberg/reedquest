@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Max Maller'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-11-08T10:30:33+00:00
 excerpt: "Much of the material academics study is the product of the elite. But Max Maller '13 seeks to study an art form that rose out of the lower echelons of 19th Century China. His Chinese thesis, which he is working on with Professor Hyong Rhew, explores the art and evolution of Xiangsheng, a popular form of comedy in China that originated in the markets and temple fairs of Beijing during the Qing Dynasty. "

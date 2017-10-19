@@ -1,6 +1,6 @@
 ---
 title: 'Postcards from Thesis Hell: The Big T'
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-10T20:02:23+00:00
 url: /2011/03/10/postcards-from-thesis-hell-the-big-t/

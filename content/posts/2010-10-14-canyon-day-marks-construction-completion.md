@@ -1,6 +1,6 @@
 ---
 title: Canyon Day Marks Construction Completion
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-14T18:33:44+00:00
 excerpt: |

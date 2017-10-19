@@ -1,6 +1,7 @@
 ---
 title: Hate Speech Cause of GCC Bathroom Erasure
-author: Cristina Cambianica
+authors: 
+  - "Cristina Cambianica"
 type: post
 date: 2012-09-14T20:38:31+00:00
 url: /2012/09/14/hate-speech-cause-of-gcc-bathroom-erasure/

@@ -1,6 +1,6 @@
 ---
 title: 'Reed Votes: Win For Community Constitution Amendment, Social Sciences Majors'
-author: Alex Walker
+authors: Alex Walker
 type: post
 date: 2011-12-03T22:05:41+00:00
 url: /2011/12/03/reed-votes-win-for-community-constitution-amendment-social-sciences-majors/

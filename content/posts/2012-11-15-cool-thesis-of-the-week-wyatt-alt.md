@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Wyatt Alt'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-15T20:20:39+00:00
 url: /2012/11/15/cool-thesis-of-the-week-wyatt-alt/

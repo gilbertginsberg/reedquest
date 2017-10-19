@@ -1,6 +1,7 @@
 ---
 title: 'Senate Beat: Share No More'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-09-20T15:47:40+00:00
 url: /2012/09/20/senate-beat-share-no-more/

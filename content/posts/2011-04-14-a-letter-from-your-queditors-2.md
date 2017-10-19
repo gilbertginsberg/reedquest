@@ -1,6 +1,6 @@
 ---
 title: A Letter from Your Queditors
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-15T00:23:13+00:00
 url: /2011/04/14/a-letter-from-your-queditors-2/

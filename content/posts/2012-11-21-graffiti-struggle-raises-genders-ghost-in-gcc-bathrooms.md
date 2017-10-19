@@ -1,6 +1,7 @@
 ---
 title: Graffiti Struggle Raises Gender’s Ghost in GCC Bathrooms
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-22T07:14:55+00:00
 url: /2012/11/21/graffiti-struggle-raises-genders-ghost-in-gcc-bathrooms/

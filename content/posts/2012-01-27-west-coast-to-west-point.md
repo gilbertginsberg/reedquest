@@ -1,6 +1,7 @@
 ---
 title: West Coast to West Point
-author: John Iselin
+authors: 
+  - "John Iselin"
 type: post
 date: 2012-01-28T07:01:35+00:00
 url: /2012/01/27/west-coast-to-west-point/

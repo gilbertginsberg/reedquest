@@ -1,6 +1,6 @@
 ---
 title: Being Old(e) at Reed
-author: Lillian Karabaic
+authors: Lillian Karabaic
 type: post
 date: 2011-09-28T22:36:15+00:00
 url: /2011/09/28/being-olde-at-reed/

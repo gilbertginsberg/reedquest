@@ -1,6 +1,7 @@
 ---
 title: 'Senate Beat: Honor Class and Renn Fayre Funding'
-author: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2012-04-19T05:27:54+00:00
 url: /2012/04/18/senate-beat-honor-class-and-renn-fayre-funding/

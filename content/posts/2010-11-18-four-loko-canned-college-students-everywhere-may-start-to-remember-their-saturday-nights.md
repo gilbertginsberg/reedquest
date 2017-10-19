@@ -1,6 +1,6 @@
 ---
 title: 'Four Loko Canned: College Students Everywhere May Start to Remember Their Saturday Nights'
-author: Katy Joseph
+authors: Katy Joseph
 type: post
 date: 2010-11-18T19:00:08+00:00
 url: /2010/11/18/four-loko-canned-college-students-everywhere-may-start-to-remember-their-saturday-nights/

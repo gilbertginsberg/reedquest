@@ -1,6 +1,7 @@
 ---
 title: 'From the Archives: Cat Gets Tongue of Lutz Patron'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-03-30T22:10:03+00:00
 url: /2012/03/30/from-the-archives-cat-gets-tongue-of-lutz-patron/

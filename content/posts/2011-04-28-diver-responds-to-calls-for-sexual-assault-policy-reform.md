@@ -1,6 +1,6 @@
 ---
 title: 'Diver Responds to Calls for Sexual Assault Policy Reform [Updated]'
-author: questadmin
+authors: questadmin
 type: post
 date: 2011-04-28T18:47:19+00:00
 excerpt: |

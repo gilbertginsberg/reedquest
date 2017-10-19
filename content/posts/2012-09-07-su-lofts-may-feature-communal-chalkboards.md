@@ -1,6 +1,7 @@
 ---
 title: SU Lofts May Feature Communal Chalkboards
-author: Marina Moro
+authors: 
+  - "Marina Moro"
 type: post
 date: 2012-09-07T18:10:14+00:00
 excerpt: Plans to cover the newly painted Student Union lofts entirely in student murals have changed, and the lofts are now planned to display chalkboards in addition to murals. Members of the SU Student Committee raised concerns after an email sent to the student body in August said that the lofts were to be devoted solely to murals. The current proposal is to dedicate a small section of the loft walls to student murals and cover the remainder with chalkboards. This, says SU manager Emily Zhang, is in response to concerns that devoting the walls to murals would stifle widespread student expression.

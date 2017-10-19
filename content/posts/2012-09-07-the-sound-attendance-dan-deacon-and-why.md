@@ -1,6 +1,7 @@
 ---
 title: 'The Sound Attendance: Dan Deacon and WHY?'
-author: Dorothy Howard
+authors: 
+  - "Dorothy Howard"
 type: post
 date: 2012-09-07T18:05:08+00:00
 excerpt: |

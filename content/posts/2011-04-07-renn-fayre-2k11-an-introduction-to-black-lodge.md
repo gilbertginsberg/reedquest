@@ -1,6 +1,6 @@
 ---
 title: 'Renn Fayre 2K11: An Introduction to Black Lodge'
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-07T19:18:20+00:00
 url: /2011/04/07/renn-fayre-2k11-an-introduction-to-black-lodge/

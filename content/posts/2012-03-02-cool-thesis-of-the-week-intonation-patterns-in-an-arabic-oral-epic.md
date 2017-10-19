@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Intonation Patterns in an Arabic Oral Epic'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-03-03T00:29:08+00:00
 url: /2012/03/02/cool-thesis-of-the-week-intonation-patterns-in-an-arabic-oral-epic/

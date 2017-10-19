@@ -1,6 +1,7 @@
 ---
 title: 'Working for the Timé: Student body work falls between volunteering, academics, and wage labor'
-author: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2012-02-24T22:31:39+00:00
 url: /2012/02/24/working-for-the-time-student-body-work-falls-between-volunteering-academics-and-wage-labor/

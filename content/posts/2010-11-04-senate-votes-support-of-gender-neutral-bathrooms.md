@@ -1,6 +1,6 @@
 ---
 title: Senate Votes Support of Gender-Neutral Bathrooms
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-11-04T20:36:11+00:00
 excerpt: |

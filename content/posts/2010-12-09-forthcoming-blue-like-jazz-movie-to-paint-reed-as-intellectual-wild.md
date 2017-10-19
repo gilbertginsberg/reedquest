@@ -1,6 +1,6 @@
 ---
 title: Forthcoming Blue Like Jazz Movie to Paint Reed as Intellectual, Wild
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-12-09T23:18:39+00:00
 url: /2010/12/09/forthcoming-blue-like-jazz-movie-to-paint-reed-as-intellectual-wild/

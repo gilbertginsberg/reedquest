@@ -1,6 +1,6 @@
 ---
 title: 'Things You Should Know About ReedQuest.org (Updated: Submit articles online!)'
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-17T21:52:05+00:00
 excerpt: |

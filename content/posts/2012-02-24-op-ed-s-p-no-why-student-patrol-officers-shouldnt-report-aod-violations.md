@@ -1,6 +1,7 @@
 ---
 title: 'Op-Ed: SP-NO, Why student patrol officers shouldn’t report AOD violations'
-author: Members of the Blue Heron Collective
+authors: 
+  - "Members of the Blue Heron Collective"
 type: post
 date: 2012-02-24T22:06:05+00:00
 url: /2012/02/24/op-ed-s-p-no-why-student-patrol-officers-shouldnt-report-aod-violations/

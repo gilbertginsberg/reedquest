@@ -1,6 +1,6 @@
 ---
 title: 5k Odyssey Commemorates Centennial
-author: Alex Krafcik
+authors: Alex Krafcik
 type: post
 date: 2011-10-20T03:28:21+00:00
 url: /2011/10/19/5k-odyssey-commemorates-centennial/

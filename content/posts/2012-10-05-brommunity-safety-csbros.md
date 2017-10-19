@@ -1,6 +1,7 @@
 ---
 title: 'Brommunity Safety: CSBros'
-author: Cristina Cambianica
+authors: 
+  - "Cristina Cambianica"
 type: post
 date: 2012-10-05T17:00:43+00:00
 url: /2012/10/05/brommunity-safety-csbros/

@@ -1,6 +1,7 @@
 ---
 title: Curbside Composting Comes to Reed
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-16T18:53:41+00:00
 url: /2012/11/16/curbside-composting-comes-to-reed/

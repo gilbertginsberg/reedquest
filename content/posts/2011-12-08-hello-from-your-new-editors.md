@@ -1,6 +1,6 @@
 ---
 title: Hello From Your New Editors
-author: Alex Blum
+authors: Alex Blum
 type: post
 date: 2011-12-09T06:03:07+00:00
 url: /2011/12/08/hello-from-your-new-editors/

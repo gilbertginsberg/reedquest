@@ -1,6 +1,6 @@
 ---
 title: New Photos Add Credence to Reed Car Myth
-author: Aaron Smith
+authors: Aaron Smith
 type: post
 date: 2011-09-29T03:18:08+00:00
 url: /2011/09/28/new-photos-add-credence-to-reed-car-myth/

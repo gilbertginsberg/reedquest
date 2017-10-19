@@ -1,6 +1,7 @@
 ---
 title: Yearlong Leadership Academy to Partner Students with Local Leaders
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2012-09-14T16:58:00+00:00
 excerpt: The Student Activities Office is adding a yearlong curriculum to its leadership and involvement series. The new program, dubbed the Reed Leadership Academy, or ReLAy, is set to begin in January. Twenty students will be partnered with mentors in the greater Portland community, some of whom will be alumni, and attend weekly one-and-one-half-hour-long discussion-based classes.

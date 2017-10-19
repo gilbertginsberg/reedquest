@@ -1,6 +1,6 @@
 ---
 title: Five Qualities a Student Body President Should Have
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-04T20:02:10+00:00
 url: /2010/11/04/five-qualities-a-student-body-president-should-have/

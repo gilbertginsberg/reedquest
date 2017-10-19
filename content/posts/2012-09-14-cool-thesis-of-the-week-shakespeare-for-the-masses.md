@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Shakespeare for the Masses'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-09-14T16:55:20+00:00
 url: /2012/09/14/cool-thesis-of-the-week-shakespeare-for-the-masses/

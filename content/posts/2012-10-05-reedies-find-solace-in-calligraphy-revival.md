@@ -1,6 +1,7 @@
 ---
 title: Reedies Find Solace in Calligraphy Revival
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-10-05T19:20:04+00:00
 excerpt: Over thirty Reed community members sat shoulder to shoulder in Vollum 120 last Thursday afternoon, carefully writing and rewriting the alphabet. Their instructor, Inga Dubay, projected her own handwriting onto a screen while she described how to form the lowercase letter “l.” “It’s like an ‘i,’ but longer. I always like to exhale when I do the down stroke,” she advised.

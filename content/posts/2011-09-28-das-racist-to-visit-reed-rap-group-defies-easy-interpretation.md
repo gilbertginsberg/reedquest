@@ -1,6 +1,6 @@
 ---
 title: 'Das Racist to Visit Reed: Rap Group Defies Easy Interpretation'
-author: Lyle Daniel
+authors: Lyle Daniel
 type: post
 date: 2011-09-28T22:25:04+00:00
 url: /2011/09/28/das-racist-to-visit-reed-rap-group-defies-easy-interpretation/

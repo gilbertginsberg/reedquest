@@ -1,6 +1,7 @@
 ---
 title: After Absence, Student Handbook Makes Online Debut
-author: Jordan Yu
+authors: 
+  - "Jordan Yu"
 type: post
 date: 2012-09-14T17:00:50+00:00
 excerpt: 'At a school as overwhelming as Reed, many wish there was a guide for it. Such students need despair no longer: After a yearlong hiatus, Reed’s missing Student Body Handbook is back.'

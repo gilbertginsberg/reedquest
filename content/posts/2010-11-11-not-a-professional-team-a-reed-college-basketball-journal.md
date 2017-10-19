@@ -1,6 +1,6 @@
 ---
 title: 'Not a Professional Team: A Reed College Basketball Journal'
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-11T18:50:38+00:00
 excerpt: It’s three o’clock and the assistant coach is late. The van to the game isn’t full because three players couldn’t come, but mood among the players is high.

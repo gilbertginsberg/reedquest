@@ -1,6 +1,7 @@
 ---
 title: 'The Sound Attendance: Kanye West'
-author: Dorothy Howard
+authors: 
+  - "Dorothy Howard"
 type: post
 date: 2012-10-04T06:10:35+00:00
 excerpt: If you’re in need of a conversation starter this week, you’re in luck because a new Kanye West release just came out.

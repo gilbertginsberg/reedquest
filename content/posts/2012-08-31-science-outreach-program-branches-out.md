@@ -1,6 +1,7 @@
 ---
 title: Science Outreach Program Branches Out
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-08-31T17:02:42+00:00
 url: /2012/08/31/science-outreach-program-branches-out/

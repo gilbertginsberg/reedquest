@@ -1,6 +1,7 @@
 ---
 title: Senate Proposes AOD Policy Changes
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-05-02T04:39:45+00:00
 url: /2012/05/01/senate-proposes-aod-policy-changes/

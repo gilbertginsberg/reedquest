@@ -1,6 +1,6 @@
 ---
 title: 'Cool Thesis of the Week: Cherenkov Radiation to Characterize a Reactor'
-author: Alex Blum
+authors: Alex Blum
 type: post
 date: 2011-10-13T19:22:21+00:00
 url: /2011/10/13/cool-thesis-of-the-week-cherenkov-radiation-to-characterize-a-reactor/

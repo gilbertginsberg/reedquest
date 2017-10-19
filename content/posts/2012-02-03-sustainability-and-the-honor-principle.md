@@ -1,6 +1,7 @@
 ---
 title: 'Op-Ed: Sustainability and the Honor Principle'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-02-03T22:25:47+00:00
 url: /2012/02/03/sustainability-and-the-honor-principle/

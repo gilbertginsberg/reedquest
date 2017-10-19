@@ -1,6 +1,7 @@
 ---
 title: Senate Searches for Graffiti Wars Solution
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2012-10-31T20:38:42+00:00
 url: /2012/10/31/senate-searches-for-graffiti-wars-solution/

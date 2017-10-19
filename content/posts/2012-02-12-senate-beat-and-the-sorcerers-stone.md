@@ -1,6 +1,7 @@
 ---
 title: Senate Beat and the Sorcerer’s Stone
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-02-13T00:15:18+00:00
 url: /2012/02/12/senate-beat-and-the-sorcerers-stone/

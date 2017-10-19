@@ -1,6 +1,6 @@
 ---
 title: Honor Council Reevaluates, Looks to Take Action
-author: Staff
+authors: Staff
 type: post
 date: 2011-02-26T01:21:51+00:00
 excerpt: |

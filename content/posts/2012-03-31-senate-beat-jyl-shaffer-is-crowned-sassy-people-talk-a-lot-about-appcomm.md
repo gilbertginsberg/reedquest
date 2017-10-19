@@ -1,6 +1,7 @@
 ---
 title: 'Senate Beat: Jyl Shaffer is crowned “Sassy,” People Talk a Lot About AppComm'
-author: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2012-03-31T20:13:34+00:00
 url: /2012/03/31/senate-beat-jyl-shaffer-is-crowned-sassy-people-talk-a-lot-about-appcomm/

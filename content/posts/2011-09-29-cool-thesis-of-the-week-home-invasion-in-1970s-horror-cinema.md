@@ -1,6 +1,6 @@
 ---
 title: 'Cool Thesis of the Week: Home Invasion in 1970’s Horror Cinema'
-author: Alex Blum
+authors: Alex Blum
 type: post
 date: 2011-09-29T18:47:05+00:00
 url: /2011/09/29/cool-thesis-of-the-week-home-invasion-in-1970s-horror-cinema/

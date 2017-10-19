@@ -1,6 +1,7 @@
 ---
 title: Students Dunk Kroger at Activities Fair
-author: Blake Stewart
+authors: 
+  - "Blake Stewart"
 type: post
 date: 2012-09-07T17:00:06+00:00
 excerpt: John Kroger sat awaiting his fate as students tried their aim at the target that would plunge the new president into the water below. It wasn’t long before they succeeded.

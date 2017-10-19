@@ -1,6 +1,7 @@
 ---
 title: Prognosis? Still Demented
-author: Sammie Massey
+authors: 
+  - "Sammie Massey"
 type: post
 date: 2012-01-28T05:47:53+00:00
 url: /2012/01/27/prognosis-still-demented/

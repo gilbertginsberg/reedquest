@@ -1,6 +1,6 @@
 ---
 title: 'Rally to Restore Sanity: A Johnny Flores Editorial'
-author: Johnny Flores
+authors: Johnny Flores
 type: post
 date: 2010-11-04T19:56:59+00:00
 url: /2010/11/04/rally-to-restore-sanity-a-johnny-flores-editorial/

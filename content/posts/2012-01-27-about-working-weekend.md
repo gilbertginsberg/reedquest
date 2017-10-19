@@ -1,6 +1,7 @@
 ---
 title: About Working Weekend
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-01-28T07:55:24+00:00
 url: /2012/01/27/about-working-weekend/

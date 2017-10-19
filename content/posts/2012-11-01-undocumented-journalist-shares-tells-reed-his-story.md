@@ -1,6 +1,7 @@
 ---
 title: Undocumented Journalist Tells Reed His Story
-author: Jorge Rodriguez
+authors: 
+  - "Jorge Rodriguez"
 type: post
 date: 2012-11-01T20:30:05+00:00
 url: /2012/11/01/undocumented-journalist-shares-tells-reed-his-story/

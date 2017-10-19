@@ -1,6 +1,6 @@
 ---
 title: Candidate Blurbs
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-11T19:03:03+00:00
 url: /2010/11/11/candidate-blurbs/

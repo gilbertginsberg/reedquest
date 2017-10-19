@@ -1,6 +1,7 @@
 ---
 title: 'History Gets a Slap on the Buttocks: Reed Theatre Does the Plague'
-author: Tristan Nieto
+authors: 
+  - "Tristan Nieto"
 type: post
 date: 2012-04-05T06:59:51+00:00
 url: /2012/04/04/history-gets-a-slap-on-the-buttocks-reed-theatre-does-the-plague/

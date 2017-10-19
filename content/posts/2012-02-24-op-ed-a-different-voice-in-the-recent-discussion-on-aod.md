@@ -1,6 +1,7 @@
 ---
 title: 'Op-Ed: A Different Voice in the Recent Discussion on AOD'
-author: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2012-02-24T21:54:33+00:00
 url: /2012/02/24/op-ed-a-different-voice-in-the-recent-discussion-on-aod/

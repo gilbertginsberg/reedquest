@@ -1,6 +1,6 @@
 ---
 title: New and Forgotten Groups
-author: Rob Shryock
+authors: Rob Shryock
 type: post
 date: 2011-09-28T22:42:51+00:00
 url: /2011/09/28/new-and-forgotten-groups/

@@ -1,6 +1,7 @@
 ---
 title: 'A Firsthand Account of the Demise of the Toaster in Commons, or: What Really Happened'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-15T20:11:37+00:00
 url: /2012/11/15/a-firsthand-account-of-the-demise-of-the-toaster-in-commons-or-what-really-happened/

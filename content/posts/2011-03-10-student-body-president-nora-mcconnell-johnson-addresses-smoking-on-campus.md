@@ -1,6 +1,6 @@
 ---
 title: 'Student Body President  Nora McConnell-Johnson Addresses Smoking on Campus'
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-10T20:11:35+00:00
 url: /2011/03/10/student-body-president-nora-mcconnell-johnson-addresses-smoking-on-campus/

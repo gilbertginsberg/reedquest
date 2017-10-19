@@ -1,6 +1,6 @@
 ---
 title: Reed welcomes new Community Safety Director
-author: Katy Joseph
+authors: Katy Joseph
 type: post
 date: 2010-09-01T19:45:03+00:00
 excerpt: |

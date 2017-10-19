@@ -1,6 +1,7 @@
 ---
 title: Reedies Find Runaway Kickstarter Success
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-09-21T18:27:27+00:00
 url: /2012/09/21/reedies-find-runaway-kickstarter-success/

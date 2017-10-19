@@ -1,6 +1,6 @@
 ---
 title: Response to Last Issue’s Article on Sustainability at Reed
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-11T01:20:40+00:00
 url: /2011/03/10/response-to-last-issues-article-on-sustainability-at-reed/

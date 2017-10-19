@@ -1,6 +1,7 @@
 ---
 title: “Border safety” Project Provokes Controversy
-author: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2012-03-09T21:26:50+00:00
 url: /2012/03/09/border-safety-project-provokes-controversy/

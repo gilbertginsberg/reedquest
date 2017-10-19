@@ -1,6 +1,7 @@
 ---
 title: The Sexual Intellectual Does Cosmo
-author: Tristan Nieto
+authors: 
+  - "Tristan Nieto"
 type: post
 date: 2012-02-18T04:47:51+00:00
 url: /2012/02/17/the-sexual-intellectual-does-cosmo/

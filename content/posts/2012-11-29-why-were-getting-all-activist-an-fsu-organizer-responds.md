@@ -1,6 +1,7 @@
 ---
 title: 'Why We’re Getting “All Activist”: An FSU Organizer Responds'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-29T21:11:05+00:00
 excerpt: This article addresses the closing question, posed by Sal Rodriguez, in the Quest article about his performance on Nov. 17. As a member of FSU, I immediately mobilized around Sal’s act because his words caused immediate and dire harm to survivors and allies at Reed by triggering many people who both saw and heard about the show.

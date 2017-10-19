@@ -1,6 +1,7 @@
 ---
 title: Administration Backs TEDxReed
-author: Rachel Fox
+authors: 
+  - "Rachel Fox"
 type: post
 date: 2012-02-10T17:31:01+00:00
 url: /2012/02/10/administration-backs-tedxreed/

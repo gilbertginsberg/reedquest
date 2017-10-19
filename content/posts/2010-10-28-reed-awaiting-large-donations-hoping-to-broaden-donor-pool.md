@@ -1,6 +1,6 @@
 ---
 title: Reed Awaiting Large Donations, Hoping to Broaden Donor Pool
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-28T18:19:57+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: Ex-Nun Waxes Poetic
-author: Sammie Massey
+authors: Sammie Massey
 type: post
 date: 2011-10-23T20:48:33+00:00
 url: /2011/10/23/ex-nun-waxes-poetic/

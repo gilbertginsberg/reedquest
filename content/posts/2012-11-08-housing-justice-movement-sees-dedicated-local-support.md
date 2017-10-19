@@ -1,6 +1,7 @@
 ---
 title: Housing Justice Movement Sees Dedicated Local Support
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2012-11-09T01:13:11+00:00
 url: /2012/11/08/housing-justice-movement-sees-dedicated-local-support/

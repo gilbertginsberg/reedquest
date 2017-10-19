@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Transforming Russian Graves into Artists’ Books'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-10-25T17:00:18+00:00
 url: /2012/10/25/cool-thesis-of-the-week-transforming-russian-graves-into-artists-books/

@@ -1,6 +1,7 @@
 ---
 title: Meet Your Renn Fayre Czars
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-29T20:48:20+00:00
 url: /2012/11/29/meet-your-renn-fayre-czars/

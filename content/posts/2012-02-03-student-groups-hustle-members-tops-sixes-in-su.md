@@ -1,6 +1,7 @@
 ---
 title: Student Groups Hustle Members, Tops Sixes in SU
-author: Jeremy Melloul
+authors: 
+  - "Jeremy Melloul"
 type: post
 date: 2012-02-03T20:45:26+00:00
 url: /2012/02/03/student-groups-hustle-members-tops-sixes-in-su/

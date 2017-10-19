@@ -1,6 +1,7 @@
 ---
 title: Isabel Wilkerson Declares Great Migration a Success
-author: Drew Garcia
+authors: 
+  - "Drew Garcia"
 type: post
 date: 2012-03-02T23:02:13+00:00
 url: /2012/03/02/isabel-wilkerson-declares-great-migration-a-success/

@@ -1,6 +1,6 @@
 ---
 title: 'The Missing Pieces: A Review'
-author: Johnny Flores
+authors: Johnny Flores
 type: post
 date: 2011-01-29T19:38:09+00:00
 url: /2011/01/29/the-missing-pieces-a-review/

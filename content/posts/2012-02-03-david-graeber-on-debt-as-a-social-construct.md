@@ -1,6 +1,7 @@
 ---
 title: David Graeber on Debt as a Social Construct
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2012-02-03T22:14:31+00:00
 url: /2012/02/03/david-graeber-on-debt-as-a-social-construct/

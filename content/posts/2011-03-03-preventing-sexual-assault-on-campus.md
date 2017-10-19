@@ -1,6 +1,6 @@
 ---
 title: Preventing Sexual Assault on Campus
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-03T20:09:17+00:00
 url: /2011/03/03/preventing-sexual-assault-on-campus/

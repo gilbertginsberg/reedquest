@@ -1,6 +1,6 @@
 ---
 title: Volunteer with LASER
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-08T04:36:41+00:00
 url: /2010/09/08/volunteer-with-laser/

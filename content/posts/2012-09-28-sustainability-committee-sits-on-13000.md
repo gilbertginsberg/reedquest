@@ -1,6 +1,7 @@
 ---
 title: Sustainability Committee Sits on $13,000
-author: Cristina Cambianica
+authors: 
+  - "Cristina Cambianica"
 type: post
 date: 2012-09-28T19:50:39+00:00
 url: /2012/09/28/sustainability-committee-sits-on-13000/

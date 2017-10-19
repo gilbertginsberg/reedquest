@@ -1,6 +1,7 @@
 ---
 title: 'Science Savvy: The Science Behind the Sides'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-24T23:47:48+00:00
 url: /2012/11/24/science-savvy-the-science-behind-the-sides/

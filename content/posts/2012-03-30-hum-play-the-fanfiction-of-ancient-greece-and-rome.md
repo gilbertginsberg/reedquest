@@ -1,6 +1,7 @@
 ---
 title: 'Hum Play: The Fanfiction of Ancient Greece and Rome'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-03-30T22:25:48+00:00
 url: /2012/03/30/hum-play-the-fanfiction-of-ancient-greece-and-rome/

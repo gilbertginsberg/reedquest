@@ -1,6 +1,7 @@
 ---
 title: 'Colin Diver: Champion of the Honor Principle?'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-09-07T17:53:30+00:00
 url: /2012/09/07/colin-diver-champion-of-the-honor-principle/

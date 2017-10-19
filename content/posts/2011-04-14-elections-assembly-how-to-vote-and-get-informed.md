@@ -1,6 +1,6 @@
 ---
 title: 'Elections Assembly: How to Vote and Get Informed'
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-15T00:16:13+00:00
 url: /2011/04/14/elections-assembly-how-to-vote-and-get-informed/

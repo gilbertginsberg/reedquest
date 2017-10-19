@@ -1,6 +1,7 @@
 ---
 title: Prospies Flown to Reed
-author: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2012-04-06T20:10:33+00:00
 url: /2012/04/06/prospies-flown-to-reed/

@@ -1,6 +1,7 @@
 ---
 title: 'Elections Postponed One Week: Shortage of Senatorial Candidates'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-04-19T04:17:09+00:00
 url: /2012/04/18/elections-postponed-one-week-shortage-of-senatorial-candidates/

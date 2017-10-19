@@ -1,6 +1,7 @@
 ---
 title: Confidential Help For Sexual Assault Survivors at Reed
-author: Jyl Shaffer
+authors: 
+  - "Jyl Shaffer"
 type: post
 date: 2012-02-18T05:05:21+00:00
 url: /2012/02/17/confidential-help-for-sexual-assault-survivors-at-reed/

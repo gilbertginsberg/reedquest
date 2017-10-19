@@ -1,6 +1,7 @@
 ---
 title: PDX Opera Presents Magnificent Don Giovanni
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2012-11-08T22:02:33+00:00
 url: /2012/11/08/pdx-opera-presents-magnificent-don-giovanni/

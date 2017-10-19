@@ -1,6 +1,7 @@
 ---
 title: Remembering Reed’s Presidents’ Areté
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2012-10-01T04:18:51+00:00
 url: /2012/09/30/remembering-reeds-presidents-arete/

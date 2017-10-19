@@ -1,6 +1,6 @@
 ---
 title: Reed Graduation Rate Surges
-author: Maha Pasha
+authors: Maha Pasha
 type: post
 date: 2011-12-08T08:00:16+00:00
 url: /2011/12/08/reed-graduation-rates-on-the-rise/

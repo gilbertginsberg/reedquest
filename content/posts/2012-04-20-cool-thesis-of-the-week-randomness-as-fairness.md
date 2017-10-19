@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Randomness as Fairness'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-04-20T15:54:48+00:00
 url: /2012/04/20/cool-thesis-of-the-week-randomness-as-fairness/

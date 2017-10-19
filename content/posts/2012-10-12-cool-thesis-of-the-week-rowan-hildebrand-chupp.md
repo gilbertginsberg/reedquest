@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Rowan Hildebrand-Chupp'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-10-12T16:00:08+00:00
 url: /2012/10/12/cool-thesis-of-the-week-rowan-hildebrand-chupp/

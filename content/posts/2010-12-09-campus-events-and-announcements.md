@@ -1,6 +1,6 @@
 ---
 title: Campus Events And Announcements
-author: Staff
+authors: Staff
 type: post
 date: 2010-12-09T22:50:49+00:00
 url: /2010/12/09/campus-events-and-announcements/

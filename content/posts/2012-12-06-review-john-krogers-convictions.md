@@ -1,6 +1,7 @@
 ---
 title: 'Review: John Kroger’s Convictions'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-12-06T19:40:45+00:00
 excerpt: 'John Kroger: Reed College President. Ultimate Prospie. Diehard white shirt wearer. Iron-willed mafia prosecutor.'

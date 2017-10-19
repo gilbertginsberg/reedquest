@@ -1,6 +1,7 @@
 ---
 title: Multilcultural Resource Center Announces Racial Profiling Listening Project
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-03-23T23:20:22+00:00
 url: /2012/03/23/multilcultural-resource-center-announces-racial-profiling-listening-project/

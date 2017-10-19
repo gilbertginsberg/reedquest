@@ -1,6 +1,6 @@
 ---
 title: 'Queditorial: Babies, Be Nice'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-11-18T18:52:24+00:00
 url: /2010/11/18/queditorial-babies-be-nice/

@@ -1,6 +1,6 @@
 ---
 title: 'Winter Break: Whooooo!'
-author: Staff
+authors: Staff
 type: post
 date: 2010-12-09T22:47:25+00:00
 url: /2010/12/09/winter-break-whooooo/

@@ -1,6 +1,7 @@
 ---
 title: KRRC Rises from the Ashes
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-02-17T22:19:35+00:00
 url: /2012/02/17/krrc-rises-from-the-ashes/

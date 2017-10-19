@@ -1,6 +1,6 @@
 ---
 title: Postcard from Thesis Hell
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-14T19:13:15+00:00
 url: /2011/04/14/postcard-from-thesis-hell-2/

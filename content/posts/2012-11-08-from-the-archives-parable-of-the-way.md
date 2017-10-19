@@ -1,6 +1,7 @@
 ---
 title: 'From the Archives: “Parable of the Way”'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-09T01:16:18+00:00
 excerpt: "At Reed, we worship The Way. We have all the Committees and Boards and Petitions and Senates and Caucuses and Reed Unions you could ever want, and as soon as you try to Get Something Done you'll be gridlocked into the biggest administrative logjam this side of Immigration and Naturalization."

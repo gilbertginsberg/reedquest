@@ -1,6 +1,6 @@
 ---
 title: 'Au Revoir, My Darling Lutz: Eulogies by Reedies'
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-30T18:02:54+00:00
 url: /2010/09/30/au-revoir-my-darling-lutz-eulogies-by-reedies/

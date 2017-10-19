@@ -1,6 +1,7 @@
 ---
 title: Student Patrol Officers Will Not Report AODs
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-03-09T21:11:55+00:00
 url: /2012/03/09/student-patrol-officers-will-not-report-aods/

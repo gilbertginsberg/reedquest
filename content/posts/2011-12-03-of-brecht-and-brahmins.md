@@ -1,6 +1,6 @@
 ---
 title: Of Brecht and Brahmins
-author: Shabab Mirza
+authors: Shabab Mirza
 type: post
 date: 2011-12-03T22:08:18+00:00
 url: /2011/12/03/of-brecht-and-brahmins/

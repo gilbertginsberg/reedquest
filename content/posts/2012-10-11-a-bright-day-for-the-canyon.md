@@ -1,6 +1,7 @@
 ---
 title: A Bright Day for the Canyon
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2012-10-11T23:33:40+00:00
 url: /2012/10/11/a-bright-day-for-the-canyon/

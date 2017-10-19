@@ -1,6 +1,7 @@
 ---
 title: 'Op-Ed: A Letter to the Reed Community'
-author: Elizabeth Martin
+authors: 
+  - "Elizabeth Martin"
 type: post
 date: 2012-02-24T21:56:08+00:00
 url: /2012/02/24/op-ed-a-letter-to-the-reed-community/

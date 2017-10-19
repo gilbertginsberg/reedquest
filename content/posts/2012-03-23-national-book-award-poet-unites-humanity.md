@@ -1,6 +1,7 @@
 ---
 title: National Book Award Poet Unites Humanity
-author: Brent Bailey
+authors: 
+  - "Brent Bailey"
 type: post
 date: 2012-03-23T23:08:02+00:00
 url: /2012/03/23/national-book-award-poet-unites-humanity/

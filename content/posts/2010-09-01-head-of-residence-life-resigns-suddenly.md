@@ -1,6 +1,6 @@
 ---
 title: Head of Residence Life Resigns Suddenly
-author: Katy Joseph
+authors: Katy Joseph
 type: post
 date: 2010-09-01T02:38:09+00:00
 url: /2010/09/01/head-of-residence-life-resigns-suddenly/

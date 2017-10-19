@@ -1,6 +1,7 @@
 ---
 title: President Diver Reflects on His Decade at Reed
-author: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2012-04-13T21:36:30+00:00
 url: /2012/04/13/president-diver-reflects-on-his-decade-at-reed/

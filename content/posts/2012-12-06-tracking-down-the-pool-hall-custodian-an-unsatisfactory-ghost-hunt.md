@@ -1,6 +1,7 @@
 ---
 title: 'Tracking Down the Pool Hall Custodian: An Unsatisfactory Ghost Hunt'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-12-06T19:45:00+00:00
 excerpt: "The pool hall is a different place at in the early morning hours. This is the first conclusion I reached at 4:30 AM on Thursday, Nov. 29, after I'd volunteered to write an article on a late-night custodian who plays pool in the pool hall with students on his break. "

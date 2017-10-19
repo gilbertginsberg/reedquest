@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: An Evaluation of Court-Ordered Prison Reform'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-02-10T20:28:10+00:00
 url: /2012/02/10/cool-thesis-of-the-week-an-evaluation-of-court-ordered-prison-reform/

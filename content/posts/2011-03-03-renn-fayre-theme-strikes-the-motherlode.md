@@ -1,6 +1,6 @@
 ---
 title: Renn Fayre Theme Strikes the Motherlode
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2011-03-03T20:41:25+00:00
 url: /2011/03/03/renn-fayre-theme-strikes-the-motherlode/

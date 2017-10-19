@@ -1,6 +1,7 @@
 ---
 title: Ideals High, Policies Low in 20-Year-Old’s Portland Mayoral Bid
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-03-02T23:15:32+00:00
 url: /2012/03/02/ideals-high-policies-low-in-20-year-olds-portland-mayoral-bid/

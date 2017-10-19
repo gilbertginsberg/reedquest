@@ -1,6 +1,7 @@
 ---
 title: Student Arrest Sparks Outrage
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-02-18T05:20:51+00:00
 url: /2012/02/17/student-arrest-sparks-outrage/

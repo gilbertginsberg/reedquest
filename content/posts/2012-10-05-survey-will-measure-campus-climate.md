@@ -1,6 +1,7 @@
 ---
 title: Survey Will Measure Campus Climate
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-10-05T19:31:26+00:00
 url: /2012/10/05/survey-will-measure-campus-climate/

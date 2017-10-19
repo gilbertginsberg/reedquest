@@ -1,6 +1,6 @@
 ---
 title: 'Madness and Terror:  A Former Treasurer’s Recollection of Funding Hell'
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-09-08T04:19:53+00:00
 url: /2010/09/08/madness-and-terror-a-former-treasurers-recollection-of-funding-hell/

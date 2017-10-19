@@ -1,6 +1,6 @@
 ---
 title: 'Dispatches from Paris: A Reedie Abroad'
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-14T17:48:46+00:00
 excerpt: |

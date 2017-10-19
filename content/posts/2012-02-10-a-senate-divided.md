@@ -1,6 +1,7 @@
 ---
 title: 'Op-Ed: A Senate Divided?'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-02-10T18:00:36+00:00
 url: /2012/02/10/a-senate-divided/

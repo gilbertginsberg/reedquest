@@ -1,6 +1,6 @@
 ---
 title: 'Fulbright Scholarships and Reedies: Why You Should Apply'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2011-03-31T19:52:32+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: 'Byzantine Story Told in Tongues: Horror or Her Mirror Reviewed'
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2011-03-03T20:14:41+00:00
 url: /2011/03/03/byzantine-story-told-in-tongues-horror-or-her-mirror-reviewed/

@@ -1,6 +1,7 @@
 ---
 title: 'Chez Commons: Stripadillas in the Void'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-12-06T19:31:46+00:00
 url: /2012/12/06/chez-commons-stripadillas-in-the-void/

@@ -1,6 +1,7 @@
 ---
 title: Kroger Discusses Portland, Curriculum, and Drugs
-author: Anthony Leong
+authors: 
+  - "Anthony Leong"
 type: post
 date: 2012-09-28T16:58:18+00:00
 url: /2012/09/28/kroger-discusses-portland-curriculum-and-drugs/

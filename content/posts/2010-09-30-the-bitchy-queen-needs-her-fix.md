@@ -1,6 +1,6 @@
 ---
 title: The Bitchy Queen Needs Her Fix!
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-30T17:59:06+00:00
 url: /2010/09/30/the-bitchy-queen-needs-her-fix/

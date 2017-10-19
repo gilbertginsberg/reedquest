@@ -1,6 +1,6 @@
 ---
 title: An Open Letter to the Reed Community
-author: questadmin
+authors: questadmin
 type: post
 date: 2011-02-11T20:52:24+00:00
 url: /2011/02/11/an-open-letter-to-the-reed-community/

@@ -1,6 +1,7 @@
 ---
 title: 'Safety on Demand: Rent-a-Cops on Campus'
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-02-03T20:47:49+00:00
 url: /2012/02/03/safety-on-demand-rent-a-cops-on-campus/

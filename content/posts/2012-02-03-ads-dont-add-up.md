@@ -1,6 +1,7 @@
 ---
 title: Ads Don’t Add Up
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-02-03T22:22:11+00:00
 url: /2012/02/03/ads-dont-add-up/

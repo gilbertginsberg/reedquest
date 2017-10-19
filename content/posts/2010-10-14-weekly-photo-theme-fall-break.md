@@ -1,6 +1,6 @@
 ---
 title: 'Weekly Photo Theme: Fall Break'
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-14T18:19:51+00:00
 url: /2010/10/14/weekly-photo-theme-fall-break/

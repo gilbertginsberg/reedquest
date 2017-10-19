@@ -1,6 +1,7 @@
 ---
 title: A New Focus for PHAs
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-10-05T19:29:07+00:00
 url: /2012/10/05/a-new-focus-for-phas/

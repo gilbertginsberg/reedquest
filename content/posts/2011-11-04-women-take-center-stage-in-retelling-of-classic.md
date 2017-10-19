@@ -1,6 +1,6 @@
 ---
 title: Women Take Center Stage in Retelling of Classic
-author: Shabab Mirza
+authors: Shabab Mirza
 type: post
 date: 2011-11-04T20:59:03+00:00
 url: /2011/11/04/women-take-center-stage-in-retelling-of-classic/

@@ -1,6 +1,6 @@
 ---
 title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: An Ode to Going Down'
-author: Tristan Nieto
+authors: Tristan Nieto
 type: post
 date: 2011-02-18T20:00:31+00:00
 url: /2011/02/18/the-sexual-intellectual-aka-the-fucking-know-it-all-an-ode-to-going-down/

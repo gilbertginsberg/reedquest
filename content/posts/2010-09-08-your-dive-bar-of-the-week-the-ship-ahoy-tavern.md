@@ -1,6 +1,6 @@
 ---
 title: 'Your Dive Bar of the Week: The Ship Ahoy Tavern'
-author: Alice Newton
+authors: Alice Newton
 type: post
 date: 2010-09-08T04:31:20+00:00
 url: /2010/09/08/your-dive-bar-of-the-week-the-ship-ahoy-tavern/

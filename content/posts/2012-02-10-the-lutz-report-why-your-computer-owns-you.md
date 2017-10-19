@@ -1,6 +1,7 @@
 ---
 title: 'The Lutz Report: Why Your Computer OWNS You'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-02-10T20:10:21+00:00
 url: /2012/02/10/the-lutz-report-why-your-computer-owns-you/

@@ -1,6 +1,7 @@
 ---
 title: Admissions Office Codifies Dress Code
-author: Lauren Nelson
+authors: 
+  - "Lauren Nelson"
 type: post
 date: 2012-09-21T20:30:11+00:00
 url: /2012/09/21/admissions-office-codifies-dress-code/

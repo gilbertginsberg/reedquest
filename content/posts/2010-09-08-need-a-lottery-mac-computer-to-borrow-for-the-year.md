@@ -1,6 +1,6 @@
 ---
 title: Need a Lottery Mac computer to borrow for the year?
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-08T04:38:47+00:00
 url: /2010/09/08/need-a-lottery-mac-computer-to-borrow-for-the-year/

@@ -1,6 +1,6 @@
 ---
 title: CSO Directives Questioned by Students
-author: Staff
+authors: Staff
 type: post
 date: 2011-02-11T20:51:58+00:00
 url: /2011/02/11/cso-directives-questioned-by-students/

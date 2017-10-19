@@ -1,6 +1,7 @@
 ---
 title: 'Labors of (Free?) Love: A look a student body wages, continued'
-author: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2012-03-02T22:53:21+00:00
 url: /2012/03/02/labors-of-free-love-a-look-a-student-body-wages-continued/

@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Claire Thomforde-Garner'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-01-28T06:34:39+00:00
 url: /2012/01/27/cool-thesis-of-the-week-claire-thomforde-garner/

@@ -1,6 +1,6 @@
 ---
 title: 'Dr. Brainlove or: How I Learned to Stop Worrying and Love Zombies'
-author: Johnny Flores
+authors: Johnny Flores
 type: post
 date: 2010-10-28T17:48:01+00:00
 url: /2010/10/28/dr-brainlove-or-how-i-learned-to-stop-worrying-and-love-zombies/

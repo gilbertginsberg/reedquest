@@ -1,6 +1,7 @@
 ---
 title: 'Reedies: The Fulbright Program Awaits You!'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-04-20T15:48:28+00:00
 url: /2012/04/20/reedies-the-fulbright-program-awaits-you/

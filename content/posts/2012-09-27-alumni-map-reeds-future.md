@@ -1,6 +1,7 @@
 ---
 title: Alumni Map Reed’s Future
-author: Elisa Cibils
+authors: 
+  - "Elisa Cibils"
 type: post
 date: 2012-09-27T19:29:21+00:00
 url: /2012/09/27/alumni-map-reeds-future/

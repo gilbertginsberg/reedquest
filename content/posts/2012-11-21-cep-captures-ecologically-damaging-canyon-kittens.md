@@ -1,6 +1,7 @@
 ---
 title: CEP Captures Ecologically Damaging Canyon Kittens
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-21T09:40:29+00:00
 url: /2012/11/21/cep-captures-ecologically-damaging-canyon-kittens/

@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Free Speech a Necessity in Comedy Controversy'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-21T21:44:37+00:00
 excerpt: "For many, I think, last Saturday's comedy performance in the SU was a reminder that free speech is not always an easy freedom to affirm. I'm referring specifically to Sal Rodriguez's performance, which outraged a good portion of the audience and ended with one audience member coming up on stage, taking the microphone, and confronting him."

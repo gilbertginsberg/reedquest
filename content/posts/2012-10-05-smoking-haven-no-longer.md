@@ -1,6 +1,7 @@
 ---
 title: Smoking Haven No Longer
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-10-05T17:01:54+00:00
 url: /2012/10/05/smoking-haven-no-longer/

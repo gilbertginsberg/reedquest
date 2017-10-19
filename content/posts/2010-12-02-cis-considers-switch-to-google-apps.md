@@ -1,6 +1,6 @@
 ---
 title: CIS Considers Switch to Google Apps
-author: Shruti Korada
+authors: Shruti Korada
 type: post
 date: 2010-12-02T19:12:20+00:00
 url: /2010/12/02/cis-considers-switch-to-google-apps/

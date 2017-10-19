@@ -1,6 +1,7 @@
 ---
 title: Student Patrol Officers to Report AOD Violations
-author: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2012-02-18T22:30:01+00:00
 url: /2012/02/18/student-patrol-officers-to-report-aod-violations/

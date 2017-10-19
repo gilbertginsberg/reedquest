@@ -1,6 +1,7 @@
 ---
 title: Gray Squirrel Lives the Life of the Mind
-author: James Curry
+authors: 
+  - "James Curry"
 type: post
 date: 2012-09-28T17:02:30+00:00
 url: /2012/09/28/gray-squirrel-lives-the-life-of-the-mind/

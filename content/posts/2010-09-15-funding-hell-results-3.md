@@ -1,6 +1,6 @@
 ---
 title: Funding Hell Results
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-15T18:31:11+00:00
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: 'Subgenre(s) of the Week: Nintendocore (feat. Holiday Pop)'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-12-09T22:29:29+00:00
 url: /2010/12/09/subgenres-of-the-week-nintendocore-feat-holiday-pop/

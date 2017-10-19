@@ -1,6 +1,6 @@
 ---
 title: Postcard from Thesis Hell
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2011-02-25T22:24:37+00:00
 url: /2011/02/25/postcard-from-thesis-hell/

@@ -1,6 +1,6 @@
 ---
 title: Additional Suggestions for Institutional Improvements from Reed Survivors
-author: Staff
+authors: Staff
 type: post
 date: 2011-02-26T01:07:35+00:00
 url: /2011/02/25/additional-suggestions-for-institutional-improvements-from-reed-survivors/

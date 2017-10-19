@@ -1,6 +1,7 @@
 ---
 title: Residence Life Refuses Chicken Coop Proposal
-author: Chloe Truong-Jones
+authors: 
+  - "Chloe Truong-Jones"
 type: post
 date: 2012-11-01T20:49:41+00:00
 url: /2012/11/01/residence-life-refuses-chicken-coop-proposal/

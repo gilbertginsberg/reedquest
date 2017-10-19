@@ -1,6 +1,7 @@
 ---
 title: Stalk up on some Tarkovsky
-author: Sammie Massey
+authors: 
+  - "Sammie Massey"
 type: post
 date: 2012-04-06T20:12:40+00:00
 url: /2012/04/06/stalk-up-on-some-tarkovsky/

@@ -1,6 +1,7 @@
 ---
 title: Students to Vote on Constitutional Changes
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-29T10:32:12+00:00
 excerpt: |

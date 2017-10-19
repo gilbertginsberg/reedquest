@@ -1,6 +1,6 @@
 ---
 title: Crossword
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:20:54+00:00
 excerpt: |

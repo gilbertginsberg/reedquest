@@ -1,6 +1,6 @@
 ---
 title: 'This Week’s General Assembly: What You Missed'
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-22T02:07:50+00:00
 url: /2011/04/21/this-weeks-general-assembly-what-you-missed/

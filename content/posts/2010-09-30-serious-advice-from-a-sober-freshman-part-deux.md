@@ -1,6 +1,6 @@
 ---
 title: Serious Advice from a Sober Freshman, Part Deux
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-30T17:57:03+00:00
 url: /2010/09/30/serious-advice-from-a-sober-freshman-part-deux/

@@ -1,6 +1,6 @@
 ---
 title: 'Ruck Maul Pillage and Burn, Ruck Maul Pillage and Burn: Eat the Babies!'
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-04T20:13:50+00:00
 excerpt: |

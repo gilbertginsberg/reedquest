@@ -1,6 +1,7 @@
 ---
 title: The Class of 2016 Rises
-author: Meagan Harris
+authors: 
+  - "Meagan Harris"
 type: post
 date: 2012-09-07T17:59:35+00:00
 url: /2012/09/07/the-class-of-2016-rises/

@@ -1,6 +1,6 @@
 ---
 title: Robert “Schwartz” Khan’s How to Be Cool at Reed
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-07T17:49:12+00:00
 url: /2010/10/07/robert-schwartz-khans-how-to-be-cool-at-reed/

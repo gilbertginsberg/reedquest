@@ -1,6 +1,7 @@
 ---
 title: Machinist Preserves Reed’s Nostalgic Past
-author: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2012-03-23T23:41:57+00:00
 url: /2012/03/23/machinist-preserves-reeds-nostalgic-past/

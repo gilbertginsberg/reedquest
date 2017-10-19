@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Quantum Mechanics and General Relativity'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-02-24T22:37:30+00:00
 url: /2012/02/24/cool-thesis-of-the-week-quantum-mechanics-and-general-relativity/

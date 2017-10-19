@@ -1,6 +1,7 @@
 ---
 title: Trustee John Gray Passes Away at 93
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-10-25T20:59:20+00:00
 url: /2012/10/25/ex-trustee-john-gray-passes-away-at-93/

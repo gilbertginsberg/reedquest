@@ -1,6 +1,6 @@
 ---
 title: 'Cool Thesis of the Week: Lucy Bellwood Creativity and Comics'
-author: Alex Blum
+authors: Alex Blum
 type: post
 date: 2011-11-10T19:08:04+00:00
 url: /2011/11/10/cool-thesis-of-the-week-lucy-bellwood-creativity-and-comics/

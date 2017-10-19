@@ -1,6 +1,7 @@
 ---
 title: Reed Senior Runs 27 Hours, Breaks Record
-author: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2012-10-12T00:40:47+00:00
 url: /2012/10/11/reed-senior-runs-27-hours-breaks-record/

@@ -1,6 +1,7 @@
 ---
 title: The Lutz Report
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-01-28T08:19:03+00:00
 url: /2012/01/28/the-lutz-report/

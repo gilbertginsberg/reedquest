@@ -1,6 +1,6 @@
 ---
 title: TriMet Fare Jumps 5 Cents
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-09-15T04:43:17+00:00
 url: /2010/09/15/trimet-fare-jumps-5-cents/

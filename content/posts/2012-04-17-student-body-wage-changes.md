@@ -1,6 +1,7 @@
 ---
 title: Student Body Wage Changes
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-04-17T17:53:50+00:00
 url: /2012/04/17/student-body-wage-changes/

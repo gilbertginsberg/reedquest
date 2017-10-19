@@ -1,6 +1,7 @@
 ---
 title: Senate Discusses Bike Theft
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-11-08T09:04:18+00:00
 url: /2012/11/08/senate-discusses-bike-theft/

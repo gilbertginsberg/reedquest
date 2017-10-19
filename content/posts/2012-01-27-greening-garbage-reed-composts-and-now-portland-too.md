@@ -1,6 +1,7 @@
 ---
 title: 'Greening Garbage: Reed Composts, And Now Portland Too'
-author: Blake Rosenthal
+authors: 
+  - "Blake Rosenthal"
 type: post
 date: 2012-01-28T06:10:35+00:00
 url: /2012/01/27/greening-garbage-reed-composts-and-now-portland-too/

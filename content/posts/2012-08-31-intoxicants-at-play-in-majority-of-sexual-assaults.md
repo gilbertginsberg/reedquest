@@ -1,6 +1,7 @@
 ---
 title: Intoxicants at Play in Majority of Sexual Assaults
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-08-31T17:00:35+00:00
 url: /2012/08/31/intoxicants-at-play-in-majority-of-sexual-assaults/

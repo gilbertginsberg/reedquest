@@ -1,6 +1,6 @@
 ---
 title: The Paradox Stabilizes, Has Options Available
-author: Jacob Canter
+authors: Jacob Canter
 type: post
 date: 2010-10-28T17:55:34+00:00
 url: /2010/10/28/the-paradox-stabalizes-has-options-available/

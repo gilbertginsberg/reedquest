@@ -1,6 +1,7 @@
 ---
 title: 'The Lutz Report: Queditor’s Lament'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-03-23T23:03:49+00:00
 url: /2012/03/23/the-lutz-report-queditors-lament/

@@ -1,6 +1,7 @@
 ---
 title: Letter to The Pamphlette
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-01T20:26:30+00:00
 url: /2012/11/01/letter-to-the-pamphlette/

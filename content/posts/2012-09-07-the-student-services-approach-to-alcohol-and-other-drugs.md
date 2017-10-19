@@ -1,6 +1,7 @@
 ---
 title: The Student Services Approach to Alcohol and Other Drugs
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-09-07T18:00:33+00:00
 excerpt: 'We approach to the illegal use of alcohol and other drugs (AOD) within our community’s as a health issue. Punitive responses, while they have their place in discussions about AOD use in the community, are not our first response. The Student Services response starts with education through dialogue, discussion, debate, and a variety of programming modes. As our approach places community health and wellbeing at its core, we feel that it is necessary to engage the community in meaningful encounters that allow for a collaborative construction of community norms and expectations. '

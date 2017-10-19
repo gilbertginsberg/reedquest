@@ -1,6 +1,6 @@
 ---
 title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: “Confessions of a Premature Ejaculator”'
-author: Tristan Nieto
+authors: Tristan Nieto
 type: post
 date: 2011-03-03T20:01:44+00:00
 url: /2011/03/03/the-sexual-intellectual-aka-the-fucking-know-it-all-confessions-of-a-premature-ejaculator/

@@ -1,6 +1,7 @@
 ---
 title: Samhita Mukhopadhyay on “Why Feminism Still Matters”
-author: Brent Bailey
+authors: 
+  - "Brent Bailey"
 type: post
 date: 2012-03-30T22:13:04+00:00
 url: /2012/03/30/author-on-why-feminism-still-matters/

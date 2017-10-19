@@ -1,6 +1,7 @@
 ---
 title: Fracas in Foster is Reminder of Proper Guest-Host Relationship
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2012-09-14T17:00:29+00:00
 excerpt: Residents of Foster I woke up on Labor Day to a nasty surprise. Chicken and refried beans were smeared on the walls, bleach powder was coated on the floor, and various uncouth phrases, including “Where da crack at?,” were sharpied on the refrigerator.

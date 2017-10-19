@@ -1,6 +1,6 @@
 ---
 title: Two Seniors Say, “Thanks!”
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:32:10+00:00
 url: /2011/04/28/two-seniors-say-thanks/

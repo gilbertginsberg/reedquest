@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Marie Perez'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-09-07T18:37:56+00:00
 url: /2012/09/07/cool-thesis-of-the-week-a-cost-benefit-analysis-of-portlands-composting-program/

@@ -1,6 +1,6 @@
 ---
 title: 'Sexy Desperate Senior: Katy Joseph'
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-07T17:43:26+00:00
 url: /2010/10/07/sexy-desperate-senior-katy-joseph/

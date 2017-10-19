@@ -1,6 +1,6 @@
 ---
 title: Vote, Reedies! Polls close tonight!
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-08T04:20:40+00:00
 excerpt: |

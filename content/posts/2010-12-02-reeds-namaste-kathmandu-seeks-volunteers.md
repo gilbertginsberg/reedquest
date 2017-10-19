@@ -1,6 +1,6 @@
 ---
 title: Reed’s Namaste Kathmandu Seeks Volunteers
-author: Staff
+authors: Staff
 type: post
 date: 2010-12-02T19:20:08+00:00
 excerpt: |

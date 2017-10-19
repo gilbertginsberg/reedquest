@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: “Suburban Paradise or ‘Sprawlsville, Washington’?”'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-03-23T23:45:24+00:00
 url: /2012/03/23/cool-thesis-of-the-weeksuburban-paradise-or-sprawlsville-washington/

@@ -1,6 +1,7 @@
 ---
 title: 'Senate: Sustainable, Kommunal, Social'
-author: Michael Zhao
+authors: 
+  - "Michael Zhao"
 type: post
 date: 2012-03-23T23:11:27+00:00
 url: /2012/03/23/senate-sustainable-kommunal-social/

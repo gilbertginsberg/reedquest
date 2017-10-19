@@ -1,6 +1,6 @@
 ---
 title: 'Senate Beat: Back with a Vengence'
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-30T18:00:21+00:00
 excerpt: |

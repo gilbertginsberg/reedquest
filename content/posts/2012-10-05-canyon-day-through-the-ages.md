@@ -1,6 +1,7 @@
 ---
 title: Canyon Day Through the Ages
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-10-05T19:14:24+00:00
 excerpt: In a school where traditions go extinct in a week and the ways of last term are dismissed as "Olde Reed," the continuing existence of Canyon Day is something akin to a miracle.

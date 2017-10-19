@@ -1,6 +1,6 @@
 ---
 title: An Open Letter Concerning Foul Fowl
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-31T19:33:11+00:00
 url: /2011/03/31/an-open-letter-concerning-foul-fowl/

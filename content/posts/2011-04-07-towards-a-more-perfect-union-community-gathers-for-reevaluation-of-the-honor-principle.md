@@ -1,6 +1,6 @@
 ---
 title: 'Towards a More Perfect Union: Community Gathers for Reevaluation of the Honor Principle'
-author: Katy Joseph
+authors: Katy Joseph
 type: post
 date: 2011-04-07T19:31:23+00:00
 excerpt: |

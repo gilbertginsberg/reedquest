@@ -1,6 +1,7 @@
 ---
 title: A History of the Honor Principle
-author: Brian Moore
+authors: 
+  - "Brian Moore"
 type: post
 date: 2012-08-31T16:59:02+00:00
 url: /2012/08/31/a-history-of-the-honor-principle/

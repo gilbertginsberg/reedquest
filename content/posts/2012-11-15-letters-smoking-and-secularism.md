@@ -1,6 +1,7 @@
 ---
 title: 'Letters: Smoking and Secularism'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-15T20:20:39+00:00
 excerpt: "The subject of smoking on campus in closed rooms can’t be a new subject, as I observed nonchalant smoking and flipping the live butts to the floor in the pool hall during the recent's parent weekend at Reed. Then, sure enough, speaking with current students, I found that smoking there is common."

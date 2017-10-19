@@ -1,6 +1,6 @@
 ---
 title: Canter on the AOD Debate
-author: Jacob Canter
+authors: Jacob Canter
 type: post
 date: 2011-03-31T19:28:30+00:00
 excerpt: |

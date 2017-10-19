@@ -1,6 +1,7 @@
 ---
 title: Thieves Go High Tech in Bike Arms Race
-author: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2012-09-14T16:58:51+00:00
 url: /2012/09/14/thieves-go-high-tech-in-bike-arms-race/

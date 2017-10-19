@@ -1,6 +1,7 @@
 ---
 title: 'The Success of the Centennial Campaign: What it means for Reedies'
-author: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2012-02-24T22:44:20+00:00
 url: /2012/02/24/the-success-of-the-centennial-campaign-what-it-means-for-reedies/

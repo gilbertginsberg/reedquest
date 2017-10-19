@@ -1,6 +1,7 @@
 ---
 title: Thesis Comic to Run on Crowd Power
-author: Lucy B
+authors: 
+  - "Lucy B"
 type: post
 date: 2012-04-24T02:46:57+00:00
 url: /2012/04/23/thesis-comic-to-run-on-crowd-power/

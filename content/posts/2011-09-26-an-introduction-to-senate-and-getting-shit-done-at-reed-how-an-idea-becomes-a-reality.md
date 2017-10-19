@@ -1,6 +1,6 @@
 ---
 title: 'An Introduction to Senate and Getting Shit Done at Reed: How an Idea Becomes a Reality'
-author: Rob Shryock
+authors: Rob Shryock
 type: post
 date: 2011-09-26T22:39:04+00:00
 url: /2011/09/26/an-introduction-to-senate-and-getting-shit-done-at-reed-how-an-idea-becomes-a-reality/

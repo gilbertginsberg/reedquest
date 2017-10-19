@@ -1,6 +1,6 @@
 ---
 title: 'An Ultimate Loss: Freshman Frisby Boys Reflect'
-author: Sammie Massey
+authors: Sammie Massey
 type: post
 date: 2011-11-12T03:50:27+00:00
 url: /2011/11/11/an-ultimate-loss-freshman-frisby-boys-reflect/

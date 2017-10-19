@@ -1,6 +1,6 @@
 ---
 title: 'How to Date: A Handy Guide for Inept Reedies'
-author: questadmin
+authors: questadmin
 type: post
 date: 2010-09-22T18:30:45+00:00
 excerpt: |

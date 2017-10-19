@@ -1,6 +1,7 @@
 ---
 title: Proposal for the Repurposing of the Ministry of Propaganda
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-10-25T20:36:40+00:00
 url: /2012/10/25/proposal-for-the-repurposing-of-the-ministry-of-propaganda/

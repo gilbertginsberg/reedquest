@@ -1,6 +1,6 @@
 ---
 title: 'Reed College Sports Update: New Year Edition'
-author: Jeffrey Blum
+authors: Jeffrey Blum
 type: post
 date: 2011-09-28T22:38:36+00:00
 url: /2011/09/28/reed-college-sports-update-new-year-edition/

@@ -1,6 +1,6 @@
 ---
 title: J-Board Case Summaries – 2010
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-31T18:46:21+00:00
 url: /2011/03/31/j-board-case-summaries-for-2010/

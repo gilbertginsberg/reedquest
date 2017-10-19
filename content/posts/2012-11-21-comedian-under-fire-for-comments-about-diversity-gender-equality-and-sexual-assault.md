@@ -1,6 +1,7 @@
 ---
 title: Comedian Under Fire for “misogynistic, racist, and homophobic” Comments
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-11-21T21:29:56+00:00
 excerpt: |

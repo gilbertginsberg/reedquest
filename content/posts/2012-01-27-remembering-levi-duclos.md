@@ -1,6 +1,7 @@
 ---
 title: Remembering Levi Duclos
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-01-28T06:47:17+00:00
 url: /2012/01/27/remembering-levi-duclos/

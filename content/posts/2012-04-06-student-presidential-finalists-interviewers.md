@@ -1,6 +1,7 @@
 ---
 title: Student Presidential Finalists Interviewers
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-04-06T20:17:12+00:00
 url: /2012/04/06/student-presidential-finalists-interviewers/

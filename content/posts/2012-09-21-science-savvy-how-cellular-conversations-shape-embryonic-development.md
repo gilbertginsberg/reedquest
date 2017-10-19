@@ -1,6 +1,7 @@
 ---
 title: 'Science Savvy: How Cellular Conversations Shape Embryonic Development'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-09-21T17:20:34+00:00
 excerpt: 'Have you ever wondered why you don’t have more than two eyes or why they’re on your face instead of the top of your head? During early embryonic development, the cells destined to be your eyes are indistinguishable from other cells in the developing brain. Then, in response to specific changes in their environment, the future eye cells start to express different genes than their neighbors and even start to move differently. '

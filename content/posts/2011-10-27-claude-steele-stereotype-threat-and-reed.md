@@ -1,6 +1,6 @@
 ---
 title: Claude Steele, Stereotype Threat, and Reed
-author: Nora McConnell-Johnson
+authors: Nora McConnell-Johnson
 type: post
 date: 2011-10-27T23:26:17+00:00
 url: /2011/10/27/claude-steele-stereotype-threat-and-reed/

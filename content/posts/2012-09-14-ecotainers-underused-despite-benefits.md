@@ -1,6 +1,7 @@
 ---
 title: Ecotainers Underused, Despite Benefits
-author: Cristina Cambianica
+authors: 
+  - "Cristina Cambianica"
 type: post
 date: 2012-09-14T17:01:53+00:00
 excerpt: Although $32,00 in Commons dishes were replaced last year, and many Reedies consider themselves environmentally conscious, the eco-tainers that were developed to address these issues are rarely used. Bon Appétit introduced eco-tainers as an alternative to plates, but last year approximately only 180 students bought eco-tainers.

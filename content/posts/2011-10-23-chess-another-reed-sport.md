@@ -1,6 +1,6 @@
 ---
 title: 'Chess: Another Reed “Sport”?'
-author: Julia Selker
+authors: Julia Selker
 type: post
 date: 2011-10-23T20:52:19+00:00
 url: /2011/10/23/chess-another-reed-sport/

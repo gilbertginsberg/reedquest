@@ -1,6 +1,6 @@
 ---
 title: 'CSO Of The Week: Cheyne Morton-Carnahan'
-author: Rob Shryock
+authors: Rob Shryock
 type: post
 date: 2011-09-29T04:11:42+00:00
 url: /2011/09/28/cso-of-the-week-cheyne-morton-carnahan/

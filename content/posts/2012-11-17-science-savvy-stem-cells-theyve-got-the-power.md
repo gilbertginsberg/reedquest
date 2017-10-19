@@ -1,6 +1,7 @@
 ---
 title: 'Science Savvy: Stem Cells: They’ve Got the Power'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-17T21:23:50+00:00
 url: /2012/11/17/science-savvy-stem-cells-theyve-got-the-power/

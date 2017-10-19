@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Fantastical Genderfuck Circus'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-03-09T09:54:28+00:00
 url: /2012/03/09/cool-thesis-of-the-week-the-fantastical-genderfuck-circus/

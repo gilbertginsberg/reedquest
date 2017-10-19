@@ -1,6 +1,6 @@
 ---
 title: 'Tech Watch: iPads and Chemistry Clickers at Reed'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-09-08T04:19:09+00:00
 url: /2010/09/08/tech-watch-ipads-and-chemistry-clickers-at-reed/

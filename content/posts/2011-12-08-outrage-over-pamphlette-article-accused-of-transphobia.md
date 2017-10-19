@@ -1,6 +1,6 @@
 ---
 title: 'Outrage over Pamphlette: Article accused of transphobia'
-author: Alex Walker
+authors: Alex Walker
 type: post
 date: 2011-12-09T06:36:32+00:00
 url: /2011/12/08/outrage-over-pamphlette-article-accused-of-transphobia/

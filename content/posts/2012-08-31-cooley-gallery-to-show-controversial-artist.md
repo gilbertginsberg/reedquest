@@ -1,6 +1,7 @@
 ---
 title: Cooley Gallery to Show Controversial Artist
-author: Drew Garcia
+authors: 
+  - "Drew Garcia"
 type: post
 date: 2012-08-31T17:00:47+00:00
 url: /2012/08/31/cooley-gallery-to-show-controversial-artist/

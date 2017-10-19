@@ -1,6 +1,7 @@
 ---
 title: House Advisers to be Dismissed After Multiple AODs
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-03-09T22:25:17+00:00
 url: /2012/03/09/house-advisers-can-be-dismissed-after-multiple-aods/

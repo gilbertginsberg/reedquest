@@ -1,6 +1,6 @@
 ---
 title: An Optimist’s Response To ‘At A Crossroad’
-author: Michael Turvey
+authors: Michael Turvey
 type: post
 date: 2011-11-18T22:24:39+00:00
 url: /2011/11/18/an-optimists-response-to-at-a-crossroads/

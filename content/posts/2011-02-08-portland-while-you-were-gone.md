@@ -1,6 +1,6 @@
 ---
 title: Portland While You Were Gone
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2011-02-08T20:26:51+00:00
 url: /2011/02/08/portland-while-you-were-gone/

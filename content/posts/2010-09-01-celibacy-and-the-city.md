@@ -1,6 +1,6 @@
 ---
 title: Celibacy and the City
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-01T00:01:37+00:00
 excerpt: |

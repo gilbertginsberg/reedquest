@@ -1,6 +1,7 @@
 ---
 title: The Sound Attendance
-author: Dorothy Howard
+authors: 
+  - "Dorothy Howard"
 type: post
 date: 2012-08-31T17:00:15+00:00
 url: /2012/08/31/the-sound-attendance/

@@ -1,6 +1,7 @@
 ---
 title: Senate Moves Against Bottled Water
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-03-23T23:52:43+00:00
 url: /2012/03/23/senate-moves-against-bottled-water/

@@ -1,6 +1,6 @@
 ---
 title: Sea Creature of the Week
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-07T17:38:30+00:00
 url: /2010/10/07/sea-creature-of-the-week/

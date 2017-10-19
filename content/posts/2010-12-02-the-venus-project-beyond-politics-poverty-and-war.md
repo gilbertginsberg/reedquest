@@ -1,6 +1,6 @@
 ---
 title: 'The Venus Project: Beyond Politics, Poverty, and War'
-author: Staff
+authors: Staff
 type: post
 date: 2010-12-02T19:04:44+00:00
 url: /2010/12/02/the-venus-project-beyond-politics-poverty-and-war/

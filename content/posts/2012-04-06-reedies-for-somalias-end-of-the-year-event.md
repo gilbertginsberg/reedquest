@@ -1,6 +1,7 @@
 ---
 title: The Reedies for Somalia End of the Year Event
-author: Jeremy Melloul
+authors: 
+  - "Jeremy Melloul"
 type: post
 date: 2012-04-06T20:51:39+00:00
 url: /2012/04/06/reedies-for-somalias-end-of-the-year-event/

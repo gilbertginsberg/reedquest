@@ -1,6 +1,7 @@
 ---
 title: Responding to Rape Jokes at Reed
-author: Dean Schmeltz
+authors: 
+  - "Dean Schmeltz"
 type: post
 date: 2012-03-23T23:35:31+00:00
 url: /2012/03/23/responding-to-rape-jokes-at-reed/

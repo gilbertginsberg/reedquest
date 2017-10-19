@@ -1,6 +1,6 @@
 ---
 title: Prospie Profs Battle for Tenure-Track Positions
-author: questadmin
+authors: questadmin
 type: post
 date: 2010-11-11T19:27:12+00:00
 url: /2010/11/11/prospie-profs-battle-for-tenure-track-positions/

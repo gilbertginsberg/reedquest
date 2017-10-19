@@ -1,6 +1,7 @@
 ---
 title: 'Communism, Bureaucracy, and Tough Love: The Suede Jacket Premieres'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-29T06:57:02+00:00
 url: /2012/11/28/communism-bureaucracy-and-tough-love-the-suede-jacket-premieres/

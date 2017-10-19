@@ -1,6 +1,7 @@
 ---
 title: Presidential Finalists to Visit Reed
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-03-08T18:01:07+00:00
 url: /2012/03/08/presidential-finalists-to-visit-reed/

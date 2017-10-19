@@ -1,6 +1,6 @@
 ---
 title: Poetry Night Keeps Reed’s Beat Poetry Legacy Alive
-author: Johnny Flores
+authors: Johnny Flores
 type: post
 date: 2010-09-08T04:33:35+00:00
 url: /2010/09/08/poetry-night-keeps-reeds-beat-poetry-legacy-alive/

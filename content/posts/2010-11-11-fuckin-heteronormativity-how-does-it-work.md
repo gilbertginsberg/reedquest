@@ -1,6 +1,6 @@
 ---
 title: 'Fuckin’ Heteronormativity: How Does It Work?'
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-11T18:52:02+00:00
 excerpt: |

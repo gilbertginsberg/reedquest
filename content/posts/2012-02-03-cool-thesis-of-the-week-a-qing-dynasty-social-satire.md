@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: A Qing Dynasty Social Satire'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-02-03T21:06:49+00:00
 url: /2012/02/03/cool-thesis-of-the-week-a-qing-dynasty-social-satire/

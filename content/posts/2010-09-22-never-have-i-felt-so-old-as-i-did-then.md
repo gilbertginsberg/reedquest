@@ -1,6 +1,6 @@
 ---
 title: Never Have I Felt So Old as I Did Then
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-09-22T18:17:48+00:00
 url: /2010/09/22/never-have-i-felt-so-old-as-i-did-then/

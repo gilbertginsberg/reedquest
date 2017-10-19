@@ -1,6 +1,7 @@
 ---
 title: Committee Slow on Gender Neutral Bathrooms
-author: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2012-02-10T20:47:22+00:00
 url: /2012/02/10/committee-slow-on-gender-neutral-bathrooms/

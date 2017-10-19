@@ -1,6 +1,6 @@
 ---
 title: 'Some Student Groups Suffer From Funding Poll Glitch: Senate will “let it ride”'
-author: Alex Walker
+authors: Alex Walker
 type: post
 date: 2011-09-29T03:20:02+00:00
 url: /2011/09/28/some-student-groups-suffer-from-funding-poll-glitch-senate-will-let-it-ride/

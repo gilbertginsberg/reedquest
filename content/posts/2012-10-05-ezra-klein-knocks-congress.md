@@ -1,6 +1,7 @@
 ---
 title: Ezra Klein Knocks Congress
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2012-10-05T16:58:21+00:00
 url: /2012/10/05/ezra-klein-knocks-congress/

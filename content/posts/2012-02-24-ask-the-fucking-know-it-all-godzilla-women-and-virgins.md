@@ -1,6 +1,7 @@
 ---
 title: 'Ask The Fucking Know-It-All: Godzilla-Women and Virgins'
-author: Tristan Nieto
+authors: 
+  - "Tristan Nieto"
 type: post
 date: 2012-02-24T18:55:36+00:00
 url: /2012/02/24/ask-the-fucking-know-it-all-godzilla-women-and-virgins/

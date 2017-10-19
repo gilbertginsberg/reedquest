@@ -1,6 +1,7 @@
 ---
 title: Community Safety to Unveil Pool Hall Smoking Sign
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-11-28T07:17:58+00:00
 url: /2012/11/27/community-safety-to-unveil-pool-hall-smoking-sign/

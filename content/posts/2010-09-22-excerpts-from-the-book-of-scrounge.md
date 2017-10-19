@@ -1,6 +1,6 @@
 ---
 title: Excerpts from the Book of Scrounge
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-22T18:25:05+00:00
 excerpt: |

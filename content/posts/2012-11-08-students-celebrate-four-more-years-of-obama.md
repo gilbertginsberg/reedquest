@@ -1,6 +1,7 @@
 ---
 title: Students Celebrate Four More Years of Obama
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2012-11-08T11:51:10+00:00
 url: /2012/11/08/students-celebrate-four-more-years-of-obama/

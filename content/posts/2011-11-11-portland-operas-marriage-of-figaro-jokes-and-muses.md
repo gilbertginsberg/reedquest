@@ -1,6 +1,6 @@
 ---
 title: Portland Opera’s “Marriage of Figaro” Jokes And Muses
-author: Julia Selker
+authors: Julia Selker
 type: post
 date: 2011-11-12T03:43:07+00:00
 url: /2011/11/11/portland-operas-marriage-of-figaro-jokes-and-muses/

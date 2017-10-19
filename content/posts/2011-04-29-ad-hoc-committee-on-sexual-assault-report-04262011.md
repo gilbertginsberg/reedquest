@@ -1,6 +1,6 @@
 ---
 title: Ad-hoc Committee on Sexual Assault Report, 04/26/2011
-author: questadmin
+authors: questadmin
 type: post
 date: 2011-04-29T19:23:10+00:00
 url: /2011/04/29/ad-hoc-committee-on-sexual-assault-report-04262011/

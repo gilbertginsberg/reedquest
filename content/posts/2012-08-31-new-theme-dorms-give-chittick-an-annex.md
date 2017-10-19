@@ -1,6 +1,7 @@
 ---
 title: New Theme Dorms Give Chittick an Annex
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-08-31T17:00:45+00:00
 url: /2012/08/31/new-theme-dorms-give-chittick-an-annex/

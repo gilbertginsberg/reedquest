@@ -1,6 +1,6 @@
 ---
 title: Keith Todd Joins Reed as Dean of Admissions
-author: Martha Janicki
+authors: Martha Janicki
 type: post
 date: 2010-11-04T20:27:39+00:00
 url: /2010/11/04/keith-todd-joins-reed-as-dean-of-admissions/

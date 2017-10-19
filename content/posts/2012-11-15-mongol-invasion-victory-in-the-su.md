@@ -1,6 +1,7 @@
 ---
 title: Mongol Invasion Victory in the SU
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-15T20:09:10+00:00
 url: /2012/11/15/mongol-invasion-victory-in-the-su/

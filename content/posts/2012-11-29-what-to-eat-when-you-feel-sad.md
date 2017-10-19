@@ -1,6 +1,7 @@
 ---
 title: What to Eat When You Feel Sad
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-29T08:02:21+00:00
 url: /2012/11/29/what-to-eat-when-you-feel-sad/

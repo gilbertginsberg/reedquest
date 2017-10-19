@@ -1,6 +1,7 @@
 ---
 title: 'Science Savvy: The Retinal Ganglion Cell’s Journey'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-12-06T20:08:55+00:00
 excerpt: A full-color illustrated trip through the visual system.

@@ -1,6 +1,6 @@
 ---
 title: A Public Apology from Nora Mullman and Dillon Nye
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-08T04:13:48+00:00
 url: /2010/09/08/a-public-apology-from-nora-mullman-and-dillon-nye/

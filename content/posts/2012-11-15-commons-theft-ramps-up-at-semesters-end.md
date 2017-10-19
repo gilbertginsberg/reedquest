@@ -1,6 +1,7 @@
 ---
 title: Commons Theft Ramps up at Semester’s End
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-15T20:26:42+00:00
 url: /2012/11/15/commons-theft-ramps-up-at-semesters-end/

@@ -1,6 +1,6 @@
 ---
 title: 'Being on Quest Board: Reflections from a Queditor'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-11-04T20:32:48+00:00
 url: /2010/11/04/being-on-quest-board-reflections-from-a-queditor/

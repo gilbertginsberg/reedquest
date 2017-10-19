@@ -1,6 +1,6 @@
 ---
 title: 'A Theism at Reed: Oh For Christ’s Sake'
-author: Sammie Massey
+authors: Sammie Massey
 type: post
 date: 2011-10-20T03:42:22+00:00
 url: /2011/10/19/a-theism-at-reed-oh-for-christs-sake/

@@ -1,6 +1,7 @@
 ---
 title: 'The Lutz Report: Genesis'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-02-18T05:18:31+00:00
 url: /2012/02/17/the-lutz-report-genesis/

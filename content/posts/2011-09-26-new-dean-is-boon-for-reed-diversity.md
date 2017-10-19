@@ -1,6 +1,6 @@
 ---
 title: New Dean is Boon for Reed Diversity
-author: Aaron Smith
+authors: Aaron Smith
 type: post
 date: 2011-09-26T21:15:18+00:00
 url: /2011/09/26/new-dean-is-boon-for-reed-diversity/

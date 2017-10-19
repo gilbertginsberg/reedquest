@@ -1,6 +1,7 @@
 ---
 title: 'Letter to the Editor: Don’t Waste Free Tickets'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-10-12T00:27:51+00:00
 url: /2012/10/11/letter-to-the-editor-dont-waste-free-tickets/

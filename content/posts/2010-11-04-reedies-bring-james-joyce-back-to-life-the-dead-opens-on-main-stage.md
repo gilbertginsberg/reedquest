@@ -1,6 +1,6 @@
 ---
 title: 'Reedies Bring James Joyce Back to Life: THE DEAD Opens on Main Stage'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-11-04T20:21:01+00:00
 url: /2010/11/04/reedies-bring-james-joyce-back-to-life-the-dead-opens-on-main-stage/

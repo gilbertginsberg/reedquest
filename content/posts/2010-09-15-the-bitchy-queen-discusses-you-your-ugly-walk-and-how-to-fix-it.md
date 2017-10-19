@@ -1,6 +1,6 @@
 ---
 title: The Bitchy Queen Discusses You, Your Ugly Walk, and How to Fix It
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-15T04:16:22+00:00
 url: /2010/09/15/the-bitchy-queen-discusses-you-your-ugly-walk-and-how-to-fix-it/

@@ -1,6 +1,6 @@
 ---
 title: New Performing Arts Building Eagerly Anticipated
-author: Shabab Mirza
+authors: Shabab Mirza
 type: post
 date: 2011-10-06T08:57:34+00:00
 url: /2011/10/06/new-performing-arts-building-eagerly-anticipated/

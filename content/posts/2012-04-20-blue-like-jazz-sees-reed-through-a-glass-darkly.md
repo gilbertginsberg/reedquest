@@ -1,6 +1,7 @@
 ---
 title: Blue Like Jazz Sees Reed Through a Glass, Darkly
-author: Meagan Harris
+authors: 
+  - "Meagan Harris"
 type: post
 date: 2012-04-20T16:00:27+00:00
 url: /2012/04/20/blue-like-jazz-sees-reed-through-a-glass-darkly/

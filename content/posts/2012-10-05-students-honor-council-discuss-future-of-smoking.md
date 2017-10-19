@@ -1,6 +1,7 @@
 ---
 title: Students, Honor Council Discuss Future of Smoking
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-10-06T04:44:14+00:00
 url: /2012/10/05/students-honor-council-discuss-future-of-smoking/

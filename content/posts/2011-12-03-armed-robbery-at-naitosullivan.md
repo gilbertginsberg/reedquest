@@ -1,6 +1,6 @@
 ---
 title: Armed Robbery at Naito/Sullivan
-author: Rob Shryock
+authors: Rob Shryock
 type: post
 date: 2011-12-03T22:01:23+00:00
 url: /2011/12/03/armed-robbery-at-naitosullivan/

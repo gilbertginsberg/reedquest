@@ -1,6 +1,7 @@
 ---
 title: 'Letter: In Addressing Controversy, Keep Reed a Safe Space'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-11-29T21:44:52+00:00
 url: /2012/11/29/letter-in-addressing-controversy-keep-reed-a-safe-space/

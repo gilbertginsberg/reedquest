@@ -1,6 +1,7 @@
 ---
 title: '“Salvation is just words too”: A Reading of As I Lay Dying'
-author: Lauren Cooper
+authors: 
+  - "Lauren Cooper"
 type: post
 date: 2012-11-11T21:06:41+00:00
 url: /2012/11/11/salvation-is-just-words-too-a-reading-of-as-i-lay-dying/

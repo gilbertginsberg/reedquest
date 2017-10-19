@@ -1,6 +1,6 @@
 ---
 title: Events and Announcements
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-07T18:13:46+00:00
 url: /2010/10/07/events-and-announcements-2/

@@ -1,6 +1,7 @@
 ---
 title: Olde TriMet Is Dead
-author: Jorge Rodriguez
+authors: 
+  - "Jorge Rodriguez"
 type: post
 date: 2012-09-14T17:00:54+00:00
 excerpt: "“40 cents is no small amount,” says Zain Alattar ’14, philosophy major and off-campus student. That's how much he'll have to pay to ride the bus since TriMet increased fare to $2.50 for a two-hour adult pass."

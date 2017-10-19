@@ -1,6 +1,6 @@
 ---
 title: Performance Suggests Das Racist Might Not Be Joking
-author: Kieran Hanrahan
+authors: Kieran Hanrahan
 type: post
 date: 2011-09-29T00:25:02+00:00
 url: /2011/09/28/performance-suggests-das-racist-might-not-be-joking/

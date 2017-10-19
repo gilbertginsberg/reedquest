@@ -1,6 +1,7 @@
 ---
 title: Canyon Escapes Near Brush with Fire Unscathed
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-08-31T17:00:06+00:00
 url: /2012/08/31/canyon-escapes-near-brush-with-fire-unscathed/

@@ -1,6 +1,7 @@
 ---
 title: Historic Opera Comes to Portland
-author: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2012-02-10T16:01:52+00:00
 url: /2012/02/10/historic-opera-comes-to-portland/

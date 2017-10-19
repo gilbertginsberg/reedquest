@@ -1,6 +1,6 @@
 ---
 title: Salt Shakers of Privilege And Waste
-author: Rachel Fox
+authors: Rachel Fox
 type: post
 date: 2011-11-12T03:31:29+00:00
 url: /2011/11/11/salt-shakers-of-privilege-and-waste/

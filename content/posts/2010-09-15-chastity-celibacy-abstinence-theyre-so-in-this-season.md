@@ -1,6 +1,6 @@
 ---
 title: 'Chastity, Celibacy, Abstinence: They’re So In This Season!'
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-15T18:10:54+00:00
 url: /2010/09/15/chastity-celibacy-abstinence-theyre-so-in-this-season/

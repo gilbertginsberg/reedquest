@@ -1,6 +1,6 @@
 ---
 title: Portland Occupied
-author: Sasha Peters
+authors: Sasha Peters
 type: post
 date: 2011-10-20T23:28:20+00:00
 url: /2011/10/20/portland-occupied/

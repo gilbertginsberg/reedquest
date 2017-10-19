@@ -1,6 +1,7 @@
 ---
 title: 'Opinion: Migrant Farm Workers Suffer in Oregon'
-author: Sammie Massey
+authors: 
+  - "Sammie Massey"
 type: post
 date: 2012-03-30T18:45:32+00:00
 url: /2012/03/30/opinion-migrant-farm-workers-suffer-in-oregon/

@@ -1,6 +1,7 @@
 ---
 title: Senate Beat, with Love and Squalor
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-02-27T06:33:48+00:00
 url: /2012/02/26/senate-beat-with-love-and-squalor/

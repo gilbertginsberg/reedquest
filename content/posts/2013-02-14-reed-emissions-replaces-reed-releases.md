@@ -1,6 +1,6 @@
 ---
 title: Reed Emissions Replaces Reed Releases
-author: Cristina Cambianica
+authors: Cristina Cambianica
 type: post
 date: 2013-02-15T07:57:47+00:00
 url: /2013/02/14/reed-emissions-replaces-reed-releases/

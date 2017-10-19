@@ -1,6 +1,7 @@
 ---
 title: “Truth to Power” Graffito Fake; Administration Reconsidering Graffiti Policy
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-10-12T00:46:28+00:00
 excerpt: 'A piece of graffiti in the Gray Campus Center that claims to have been made by controversial artist Kara Walker is a forgery. '

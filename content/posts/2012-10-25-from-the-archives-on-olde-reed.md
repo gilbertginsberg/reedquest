@@ -1,6 +1,7 @@
 ---
 title: 'From the Archives: On Olde Reed'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-10-25T21:01:38+00:00
 url: /2012/10/25/from-the-archives-on-olde-reed/

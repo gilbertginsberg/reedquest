@@ -1,6 +1,7 @@
 ---
 title: Meet Your Candidates
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-12-02T18:46:32+00:00
 excerpt: "Get ready to vote. Read the profiles of this semester's candidates for President, Vice President, Senate, and Quest Board."

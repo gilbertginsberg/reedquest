@@ -1,6 +1,7 @@
 ---
 title: Senate Beat; or, The Whale
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-02-04T23:54:35+00:00
 url: /2012/02/04/senate-beat-or-the-whale/

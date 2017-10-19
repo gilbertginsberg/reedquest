@@ -1,6 +1,6 @@
 ---
 title: 'Black Friday 2010: A Recap'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-12-02T18:43:22+00:00
 url: /2010/12/02/black-friday-2010-a-recap/

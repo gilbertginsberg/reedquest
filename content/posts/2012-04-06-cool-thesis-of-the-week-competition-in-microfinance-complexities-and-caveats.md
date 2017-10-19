@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: The Complexities and Caveats of Microfinance'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-04-06T20:36:11+00:00
 url: /2012/04/06/cool-thesis-of-the-week-competition-in-microfinance-complexities-and-caveats/

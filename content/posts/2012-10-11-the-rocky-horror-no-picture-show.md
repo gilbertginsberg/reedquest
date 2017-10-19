@@ -1,6 +1,7 @@
 ---
 title: The Rocky Horror No Picture Show
-author: Lauren Nelson
+authors: 
+  - "Lauren Nelson"
 type: post
 date: 2012-10-12T00:53:19+00:00
 url: /2012/10/11/the-rocky-horror-no-picture-show/

@@ -1,6 +1,6 @@
 ---
 title: Reed Commemorates First Century in Style
-author: Rob Shryock
+authors: Rob Shryock
 type: post
 date: 2011-10-20T03:26:36+00:00
 url: /2011/10/19/reed-commemorates-first-century-in-style/

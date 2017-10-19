@@ -1,6 +1,6 @@
 ---
 title: Common Inspires, Evangelizes
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2011-02-18T20:18:34+00:00
 url: /2011/02/18/common-inspires-evangelizes/

@@ -1,6 +1,7 @@
 ---
 title: 'Senate Beat: A New Hope'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-09-06T16:52:48+00:00
 excerpt: "There is a shadowy body that regulates your Student Body funds, appointments, and general goings-on. What is this mysterious group? It's the Reed College Student Body Senate. Coverage of their first meeting this year can be found in approximately exactly five paragraphs."

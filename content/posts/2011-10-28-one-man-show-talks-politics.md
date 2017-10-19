@@ -1,6 +1,6 @@
 ---
 title: One-Man Show Talks Politics
-author: Julia Selker
+authors: Julia Selker
 type: post
 date: 2011-10-28T20:24:04+00:00
 url: /2011/10/28/one-man-show-talks-politics/

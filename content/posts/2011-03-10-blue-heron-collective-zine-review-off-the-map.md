@@ -1,6 +1,6 @@
 ---
 title: 'Blue Heron Collective Zine Review: Off the Map'
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-10T20:08:39+00:00
 url: /2011/03/10/blue-heron-collective-zine-review-off-the-map/

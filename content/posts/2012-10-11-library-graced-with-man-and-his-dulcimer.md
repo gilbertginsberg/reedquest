@@ -1,6 +1,7 @@
 ---
 title: Library Graced with Man and His Dulcimer
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2012-10-11T23:27:53+00:00
 excerpt: Melodic tunes waft through the air near the library, these days, courtesy of Portland resident John Harkwood playing his dulcimer. His large white poodle, Elvis Voltaire d’Artagnan, keeps him company. Although he mostly plays the guitar, as well as the mandolin, Harkwood picked up the dulcimer a few months ago, and has been coming to Reed this year to play. “It’s a research project to see how young people interact with old instruments,” Harkwood says.

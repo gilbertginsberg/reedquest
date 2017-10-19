@@ -1,6 +1,6 @@
 ---
 title: SEEDS Reaches Out to PDX Homeless Students
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-07T19:19:32+00:00
 url: /2011/04/07/seeds-reaches-out-to-pdx-homeless-students/

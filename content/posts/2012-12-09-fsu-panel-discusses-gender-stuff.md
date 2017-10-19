@@ -1,6 +1,7 @@
 ---
 title: FSU Panel Discusses Gender, Stuff
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-12-09T22:46:30+00:00
 url: /2012/12/09/fsu-panel-discusses-gender-stuff/

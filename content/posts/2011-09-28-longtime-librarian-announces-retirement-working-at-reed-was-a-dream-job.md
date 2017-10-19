@@ -1,6 +1,6 @@
 ---
 title: 'Longtime Librarian Announces Retirement: Working at Reed Was “a Dream Job”'
-author: Katelyn Best
+authors: Katelyn Best
 type: post
 date: 2011-09-29T00:27:59+00:00
 url: /2011/09/28/longtime-librarian-announces-retirement-working-at-reed-was-a-dream-job/

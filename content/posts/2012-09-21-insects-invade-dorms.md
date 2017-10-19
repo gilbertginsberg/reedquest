@@ -1,6 +1,7 @@
 ---
 title: Insects Invade Dorms
-author: Jorge Rodriguez
+authors: 
+  - "Jorge Rodriguez"
 type: post
 date: 2012-09-21T17:30:29+00:00
 url: /2012/09/21/insects-invade-dorms/

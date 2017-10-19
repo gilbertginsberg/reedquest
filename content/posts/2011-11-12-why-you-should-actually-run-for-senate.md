@@ -1,6 +1,6 @@
 ---
 title: Why You Should (Actually) Run for Senate
-author: Nora McConnell-Johnson
+authors: Nora McConnell-Johnson
 type: post
 date: 2011-11-12T19:51:50+00:00
 url: /2011/11/12/why-you-should-actually-run-for-senate/

@@ -1,6 +1,7 @@
 ---
 title: Mexican Showdown
-author: Katelyn Best
+authors: 
+  - "Katelyn Best"
 type: post
 date: 2012-09-21T17:30:36+00:00
 url: /2012/09/21/mexican-showdown/

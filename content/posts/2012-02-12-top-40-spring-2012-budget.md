@@ -1,6 +1,7 @@
 ---
 title: Top 40 Spring 2012 Budget
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-02-12T21:58:50+00:00
 url: /2012/02/12/top-40-spring-2012-budget/

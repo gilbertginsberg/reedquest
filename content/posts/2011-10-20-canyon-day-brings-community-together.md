@@ -1,6 +1,6 @@
 ---
 title: Canyon Day Brings Community Together
-author: Kieran Hanrahan
+authors: Kieran Hanrahan
 type: post
 date: 2011-10-20T23:23:32+00:00
 url: /2011/10/20/canyon-day-brings-community-together/

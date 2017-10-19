@@ -1,6 +1,7 @@
 ---
 title: Exactly Five Minutes With Math Professor Joe Roberts (a.k.a. Joe Bob)
-author: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2012-03-09T22:50:16+00:00
 url: /2012/03/09/exactly-five-minutes-with-math-professor-joe-roberts-a-k-a-joe-bob/

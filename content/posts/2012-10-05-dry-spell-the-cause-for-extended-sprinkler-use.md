@@ -1,6 +1,7 @@
 ---
 title: Dry Spell the Cause for Extended Sprinkler Use
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2012-10-05T17:01:53+00:00
 url: /2012/10/05/dry-spell-the-cause-for-extended-sprinkler-use/

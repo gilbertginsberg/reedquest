@@ -1,6 +1,7 @@
 ---
 title: Youngest-Ever MacArthur “Genius” Fills Vollum
-author: Elisa Cibils
+authors: 
+  - "Elisa Cibils"
 type: post
 date: 2012-10-12T00:24:27+00:00
 excerpt: Vollum was bursting at the seams on Tuesday, October 2 as both Reed students and other Portland community members crammed into the lecture hall for artist Kara Walker’s highly-anticipated lecture as a guest for the Stephen E. Ostrow Distinguished Visitors in the Arts series. Walker graduated with an MFA from the Rhode Island School of Design in 1994 and became the youngest person ever to receive the MacArthur “Genius” Grant in 1997 at the age of 28. Both the lecture hall and the Vollum Lounge were so full that many were away due to lack of available seating.

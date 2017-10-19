@@ -1,6 +1,6 @@
 ---
 title: Bylaw Revision Vote Fails
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-10-28T18:17:32+00:00
 excerpt: |

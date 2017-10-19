@@ -1,6 +1,7 @@
 ---
 title: Is Secularism an Obstacle in the Search for Truth?
-author: Isabel Meigs
+authors: 
+  - "Isabel Meigs"
 type: post
 date: 2012-11-08T09:28:25+00:00
 url: /2012/11/08/secularism-as-an-obstacle-in-the-search-for-truth/

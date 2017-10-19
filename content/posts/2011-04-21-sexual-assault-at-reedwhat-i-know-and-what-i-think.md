@@ -1,6 +1,6 @@
 ---
 title: Sexual Assault at Reed:What I know and what I think
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-22T02:22:05+00:00
 url: /2011/04/21/sexual-assault-at-reedwhat-i-know-and-what-i-think/

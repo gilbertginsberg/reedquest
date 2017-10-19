@@ -1,6 +1,7 @@
 ---
 title: 'The Sexual Intellectual: Dating Nomenclature'
-author: Tristan Nieto
+authors: 
+  - "Tristan Nieto"
 type: post
 date: 2012-02-03T20:52:54+00:00
 url: /2012/02/03/the-sexual-intellectual-dating-nomenclature/

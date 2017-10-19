@@ -1,6 +1,7 @@
 ---
 title: Pool Hall Smokers Respond to Crackdown
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-12-06T08:18:02+00:00
 url: /2012/12/06/pool-hall-smokers-respond-to-crackdown/

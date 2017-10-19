@@ -1,6 +1,7 @@
 ---
 title: Statement from the Creators of the “surveillance posters”
-author: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2012-03-06T19:10:11+00:00
 url: /2012/03/06/statement-from-the-creators-of-the-surveillance-posters/

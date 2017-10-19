@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: LiLu Sexton'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-08-31T17:03:12+00:00
 url: /2012/08/31/cool-thesis-of-the-week-lilu-sexton/

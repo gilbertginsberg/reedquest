@@ -1,6 +1,6 @@
 ---
 title: Reedies Vie For Watson Fellowship
-author: Lyle Daniel
+authors: Lyle Daniel
 type: post
 date: 2011-11-18T21:39:23+00:00
 url: /2011/11/18/reedies-vie-for-watson-fellowship/

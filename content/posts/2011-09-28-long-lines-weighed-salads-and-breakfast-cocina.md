@@ -1,6 +1,6 @@
 ---
 title: Long Lines, Weighed Salads, and Breakfast Cocina
-author: Rob Shryock
+authors: Rob Shryock
 type: post
 date: 2011-09-29T03:12:26+00:00
 url: /2011/09/28/long-lines-weighed-salads-and-breakfast-cocina/

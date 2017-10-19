@@ -1,6 +1,6 @@
 ---
 title: 'Sweat, Panic, Write, Repeat: Reflections on Thesis Parades Past'
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-12-02T18:45:59+00:00
 url: /2010/12/02/sweat-panic-write-repeat-reflections-on-thesis-parades-past/

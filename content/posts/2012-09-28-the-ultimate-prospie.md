@@ -1,6 +1,7 @@
 ---
 title: “The Ultimate Prospie”
-author: Clara Rice
+authors: 
+  - "Clara Rice"
 type: post
 date: 2012-09-28T17:03:33+00:00
 url: /2012/09/28/the-ultimate-prospie/

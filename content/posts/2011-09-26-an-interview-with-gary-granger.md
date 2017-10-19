@@ -1,6 +1,6 @@
 ---
 title: An Interview with Gary Granger
-author: Alex Walker
+authors: Alex Walker
 type: post
 date: 2011-09-26T21:21:18+00:00
 url: /2011/09/26/an-interview-with-gary-granger/

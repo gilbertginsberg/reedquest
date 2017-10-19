@@ -1,6 +1,6 @@
 ---
 title: An Open Letter from “Your Friendly Indian Alum”
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-31T19:34:45+00:00
 url: /2011/03/31/an-open-letter-from-your-friendly-indian-alum/

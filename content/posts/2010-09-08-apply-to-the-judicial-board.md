@@ -1,6 +1,6 @@
 ---
 title: Apply to the Judicial Board
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-08T04:38:11+00:00
 url: /2010/09/08/apply-to-the-judicial-board/

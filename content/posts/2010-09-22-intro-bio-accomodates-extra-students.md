@@ -1,6 +1,6 @@
 ---
 title: Intro Bio Accomodates Extra Students
-author: questadmin
+authors: questadmin
 type: post
 date: 2010-09-22T19:46:22+00:00
 url: /2010/09/22/intro-bio-accomodates-extra-students/

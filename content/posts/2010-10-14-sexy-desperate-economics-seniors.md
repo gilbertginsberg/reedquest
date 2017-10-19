@@ -1,6 +1,6 @@
 ---
 title: Sexy Desperate (Economics) Senior(s)
-author: Staff
+authors: Staff
 type: post
 date: 2010-10-14T17:36:53+00:00
 url: /2010/10/14/sexy-desperate-economics-seniors/

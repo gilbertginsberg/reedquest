@@ -1,6 +1,7 @@
 ---
 title: 'Letter: Consent & Substance Use'
-author: Tristan Nieto
+authors: 
+  - "Tristan Nieto"
 type: post
 date: 2012-11-08T08:07:02+00:00
 url: /2012/11/08/letter-consent-substance-use/

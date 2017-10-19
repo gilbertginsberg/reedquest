@@ -1,6 +1,7 @@
 ---
 title: 'The Lutz Report: Down the Rabbit Hole'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-08-31T17:00:09+00:00
 url: /2012/08/31/the-lutz-report-down-the-rabbit-hole/

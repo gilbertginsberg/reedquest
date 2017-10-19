@@ -1,6 +1,6 @@
 ---
 title: 'Heroin, Honor & Reed’s Relationship with Portland'
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-07T19:13:35+00:00
 url: /2011/04/07/heroin-honor-reeds-relationship-with-portland/

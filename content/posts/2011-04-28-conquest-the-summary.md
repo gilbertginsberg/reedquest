@@ -1,6 +1,6 @@
 ---
 title: 'ConQuest: The Summary'
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:24:56+00:00
 url: /2011/04/28/conquest-the-summary/

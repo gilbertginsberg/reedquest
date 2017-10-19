@@ -1,6 +1,7 @@
 ---
 title: Title IX Investigation Absolves Sports Center, Rugby Still Not Satisfied
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-04-13T21:07:03+00:00
 url: /2012/04/13/title-ix-investigation-absolves-sports-center-rugby-still-not-satisfied/

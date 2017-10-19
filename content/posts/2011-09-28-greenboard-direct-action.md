@@ -1,6 +1,6 @@
 ---
 title: Greenboard Direct Action
-author: Mathilde Mouw
+authors: Mathilde Mouw
 type: post
 date: 2011-09-28T22:30:20+00:00
 url: /2011/09/28/greenboard-direct-action/

@@ -1,6 +1,6 @@
 ---
 title: 'Letter from a Queditor: Tell Someone They’re Beautiful'
-author: En-Szu Hu-Van Wright
+authors: En-Szu Hu-Van Wright
 type: post
 date: 2010-12-02T19:06:32+00:00
 url: /2010/12/02/letter-from-a-queditor-tell-someone-theyre-beautiful/

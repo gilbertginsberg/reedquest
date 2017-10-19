@@ -1,6 +1,6 @@
 ---
 title: Richmond Clinic Offers Lowest-Cost Healthcare
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-04T20:25:12+00:00
 excerpt: |

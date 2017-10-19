@@ -1,6 +1,6 @@
 ---
 title: A Look at Armisen, Brownstein, IFC’s Portlandia
-author: Staff
+authors: Staff
 type: post
 date: 2011-02-26T01:14:16+00:00
 url: /2011/02/25/a-look-at-armisen-brownstein-ifcs-portlandia/

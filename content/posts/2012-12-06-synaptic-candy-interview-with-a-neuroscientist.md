@@ -1,6 +1,7 @@
 ---
 title: 'Synaptic Candy: Interview with a Neuroscientist'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-12-06T19:53:14+00:00
 url: /2012/12/06/synaptic-candy-interview-with-a-neuroscientist/

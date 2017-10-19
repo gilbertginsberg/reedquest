@@ -1,6 +1,6 @@
 ---
 title: “So you know what sucks more than your thesis?”
-author: Staff
+authors: Staff
 type: post
 date: 2011-02-08T20:11:49+00:00
 excerpt: |

@@ -1,6 +1,7 @@
 ---
 title: Big Black Butterflies
-author: Sax M. Cassenter
+authors: 
+  - "Sax M. Cassenter"
 type: post
 date: 2012-02-18T05:01:58+00:00
 url: /2012/02/17/big-black-butterflies/

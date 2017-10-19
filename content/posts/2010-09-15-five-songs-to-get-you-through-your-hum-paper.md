@@ -1,6 +1,6 @@
 ---
 title: 5 Songs to Get You Through Your Hum Paper
-author: Katy Joseph
+authors: Katy Joseph
 type: post
 date: 2010-09-15T04:24:55+00:00
 url: /2010/09/15/five-songs-to-get-you-through-your-hum-paper/

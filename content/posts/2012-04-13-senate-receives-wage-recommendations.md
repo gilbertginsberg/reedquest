@@ -1,6 +1,7 @@
 ---
 title: Senate Receives Wage Recommendations
-author: Alex Walker
+authors: 
+  - "Alex Walker"
 type: post
 date: 2012-04-13T21:20:19+00:00
 url: /2012/04/13/senate-receives-wage-recommendations/

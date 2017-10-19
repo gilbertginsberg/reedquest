@@ -1,6 +1,7 @@
 ---
 title: Judicial Board Case Summaries – 2011–2012
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-09-29T03:49:03+00:00
 url: /2012/09/28/judicial-board-2011-2012-case-summaries/

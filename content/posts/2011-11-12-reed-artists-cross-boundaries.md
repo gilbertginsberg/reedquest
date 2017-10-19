@@ -1,6 +1,6 @@
 ---
 title: Reed Artists Cross Boundaries
-author: Katelyn Best
+authors: Katelyn Best
 type: post
 date: 2011-11-12T19:40:47+00:00
 url: /2011/11/12/reed-artists-cross-boundaries/

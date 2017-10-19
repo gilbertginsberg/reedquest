@@ -1,6 +1,7 @@
 ---
 title: Linguist Traces Development of Spanish
-author: Jorge Rodriguez
+authors: 
+  - "Jorge Rodriguez"
 type: post
 date: 2012-10-04T21:23:42+00:00
 url: /2012/10/04/linguist-traces-development-of-spanish/

@@ -1,6 +1,7 @@
 ---
 title: Students and Administration Talk Graffiti
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-15T20:32:45+00:00
 url: /2012/11/15/students-and-administration-talk-graffiti/

@@ -1,6 +1,7 @@
 ---
 title: 'Senate Beat: Breaking Dawn'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-01-26T06:14:32+00:00
 url: /2012/01/25/senate-beat-breaking-dawn/

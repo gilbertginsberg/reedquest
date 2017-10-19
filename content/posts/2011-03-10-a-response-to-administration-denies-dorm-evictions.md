@@ -1,6 +1,6 @@
 ---
 title: A response to “Administration Denies Dorm Evictions”
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-10T20:27:52+00:00
 url: /2011/03/10/a-response-to-administration-denies-dorm-evictions/

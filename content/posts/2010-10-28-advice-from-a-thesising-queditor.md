@@ -1,6 +1,6 @@
 ---
 title: Advice from a Thesising Queditor
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-10-28T18:15:11+00:00
 url: /2010/10/28/advice-from-a-thesising-queditor/

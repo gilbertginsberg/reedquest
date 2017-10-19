@@ -1,6 +1,6 @@
 ---
 title: Emeritus Discusses Olde Reed, Buckley
-author: Aaron Smith
+authors: Aaron Smith
 type: post
 date: 2011-10-23T20:50:07+00:00
 url: /2011/10/23/emeritus-discusses-olde-reed-buckley/

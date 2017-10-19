@@ -1,6 +1,6 @@
 ---
 title: 'Queditorial: Don’t Shoot the Messenger!'
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-10T20:14:28+00:00
 url: /2011/03/10/queditorial-dont-shoot-the-messenger/

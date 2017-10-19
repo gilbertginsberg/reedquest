@@ -1,6 +1,7 @@
 ---
 title: 'Reedies Root Through Garbage: This Time, It’s for the Environment'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-29T06:33:56+00:00
 url: /2012/11/28/reedies-root-through-garbage-this-time-its-for-the-environment/

@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Alan Montecillo'
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-09-28T17:00:21+00:00
 url: /2012/09/28/cool-thesis-of-the-week-alan-montecillo/

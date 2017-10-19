@@ -1,6 +1,7 @@
 ---
 title: 'Science Savvy: Experimental Hiccups'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-10-11T05:11:09+00:00
 excerpt: Science often appears to be a singular entity, united by a methodological paradigm and totally consistent in its depiction of reality. But science is an active process, full of hiccups.

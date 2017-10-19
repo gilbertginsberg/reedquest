@@ -1,6 +1,6 @@
 ---
 title: On-Campus Events
-author: Staff
+authors: Staff
 type: post
 date: 2010-11-04T20:30:37+00:00
 url: /2010/11/04/on-campus-events/

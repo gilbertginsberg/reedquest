@@ -1,6 +1,6 @@
 ---
 title: Administration Denies Dorm Evictions
-author: Jacob Canter
+authors: Jacob Canter
 type: post
 date: 2011-03-03T20:37:54+00:00
 url: /2011/03/03/administration-denies-dorm-evictions/

@@ -1,6 +1,7 @@
 ---
 title: Hands, Feet, and Mouths Ravaged by Coxsackie
-author: Drew Garcia
+authors: 
+  - "Drew Garcia"
 type: post
 date: 2012-04-13T21:03:07+00:00
 excerpt: Reed’s Health and Counseling Center issued an advisory last week that there had been an outbreak of hand, foot, and mouth disease among the student body.

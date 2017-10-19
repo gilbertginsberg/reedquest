@@ -1,6 +1,7 @@
 ---
 title: Title IX Investigation as Women’s Rugby Loses Coach, Funding
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-02-10T20:49:01+00:00
 url: /2012/02/10/title-ix-investigation-as-womens-rugby-loses-coach-funding/

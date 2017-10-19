@@ -1,6 +1,7 @@
 ---
 title: Women’s Basketball Wins, in Spirit
-author: Lauren Nelson
+authors: 
+  - "Lauren Nelson"
 type: post
 date: 2012-11-09T00:59:38+00:00
 url: /2012/11/08/womens-basketball-wins-in-spirit/

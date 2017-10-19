@@ -1,6 +1,6 @@
 ---
 title: Bike Co-op Promotes Teaching, Community, Empowerment
-author: Johnny Flores
+authors: Johnny Flores
 type: post
 date: 2010-09-15T18:33:38+00:00
 url: /2010/09/15/bike-co-op-promotes-teaching-community-empowerment/

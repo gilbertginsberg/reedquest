@@ -1,6 +1,6 @@
 ---
 title: Missing Pieces Completely Enjoyable Production
-author: Johnny Flores
+authors: Johnny Flores
 type: post
 date: 2011-02-08T20:19:32+00:00
 url: /2011/02/08/missing-pieces-completely-enjoyable-production/

@@ -1,6 +1,6 @@
 ---
 title: Juggling Fest PDX Comes to Reed
-author: questadmin
+authors: questadmin
 type: post
 date: 2010-09-30T18:08:38+00:00
 url: /2010/09/30/juggling-fest-pdx-comes-to-reed/

@@ -1,6 +1,6 @@
 ---
 title: BYE, BITCHES
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:23:48+00:00
 url: /2011/04/28/bye-bitches/

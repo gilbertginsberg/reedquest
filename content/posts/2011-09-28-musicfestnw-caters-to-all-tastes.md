@@ -1,6 +1,6 @@
 ---
 title: MusicfestNW Caters to All Tastes
-author: Alex Krafcik
+authors: Alex Krafcik
 type: post
 date: 2011-09-29T00:30:56+00:00
 url: /2011/09/28/musicfestnw-caters-to-all-tastes/

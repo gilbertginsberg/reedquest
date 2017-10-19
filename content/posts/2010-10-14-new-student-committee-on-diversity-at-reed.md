@@ -1,6 +1,6 @@
 ---
 title: New Student Committee on Diversity at Reed
-author: Ethan Knudson
+authors: Ethan Knudson
 type: post
 date: 2010-10-14T18:25:34+00:00
 url: /2010/10/14/new-student-committee-on-diversity-at-reed/

@@ -1,6 +1,6 @@
 ---
 title: 'Cool Thesis of the Week: Suraj Pant and “The Impact of Tourism on Poverty and Inequality”'
-author: Alex Blum
+authors: Alex Blum
 type: post
 date: 2011-09-26T22:31:18+00:00
 url: /2011/09/26/cool-thesis-of-the-week-suraj-pant-and-the-impact-of-tourism-on-poverty-and-inequality/

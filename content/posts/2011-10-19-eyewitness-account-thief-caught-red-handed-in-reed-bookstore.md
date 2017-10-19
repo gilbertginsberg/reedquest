@@ -1,6 +1,6 @@
 ---
 title: 'Eyewitness Account: Thief Caught Red-Handed in Reed Bookstore'
-author: Jacob Canter
+authors: Jacob Canter
 type: post
 date: 2011-10-20T03:34:01+00:00
 url: /2011/10/19/eyewitness-account-thief-caught-red-handed-in-reed-bookstore/

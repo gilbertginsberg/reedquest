@@ -1,6 +1,6 @@
 ---
 title: Ave Incitatus! Getting to Know Your New Senator
-author: Staff
+authors: Staff
 type: post
 date: 2011-04-28T18:41:07+00:00
 url: /2011/04/28/ave-incitatus-getting-to-know-your-new-senator/

@@ -1,6 +1,6 @@
 ---
 title: Activists Prepare to Occupy Portland
-author: Alex Walker
+authors: Alex Walker
 type: post
 date: 2011-10-13T22:22:21+00:00
 url: /2011/10/13/activists-prepare-to-occupy-portland/

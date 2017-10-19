@@ -1,6 +1,7 @@
 ---
 title: Reed Signs $5.4 Million Energy Efficiency Contract
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-08T11:29:23+00:00
 url: /2012/11/08/reed-signs-5-4-million-energy-efficiency-contract/

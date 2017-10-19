@@ -1,6 +1,6 @@
 ---
 title: 'Bursting the Bubble: Debriefing on Libya'
-author: Jacob Canter
+authors: Jacob Canter
 type: post
 date: 2011-03-31T19:49:40+00:00
 url: /2011/03/31/bursting-the-bubble-debriefing-on-lybia/

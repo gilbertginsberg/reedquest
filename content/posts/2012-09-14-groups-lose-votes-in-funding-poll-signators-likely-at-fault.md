@@ -1,6 +1,7 @@
 ---
 title: Groups Lose Votes in Funding Poll, Signators Likely at Fault
-author: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2012-09-14T19:03:25+00:00
 excerpt: "Some student groups may have missed the chance to receive votes. An unknown number of groups were not included in funding poll for the poll's first few days, due to confusion on the part of signators as to how to register their groups for the poll."

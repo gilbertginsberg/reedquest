@@ -1,6 +1,6 @@
 ---
 title: At A Crossroad
-author: Lev Navarre
+authors: Lev Navarre
 type: post
 date: 2011-11-30T00:43:38+00:00
 url: /2011/11/29/at-a-crossroad/

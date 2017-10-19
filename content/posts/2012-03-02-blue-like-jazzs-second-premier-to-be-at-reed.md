@@ -1,6 +1,7 @@
 ---
 title: Blue Like Jazz’s Second Premier to be at Reed
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-03-02T23:06:39+00:00
 url: /2012/03/02/blue-like-jazzs-second-premier-to-be-at-reed/

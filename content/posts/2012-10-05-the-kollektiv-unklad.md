@@ -1,6 +1,7 @@
 ---
 title: The Kollektiv Unklad
-author: Rebecca Turley
+authors: 
+  - "Rebecca Turley"
 type: post
 date: 2012-10-05T19:10:23+00:00
 url: /2012/10/05/the-kollektiv-unklad/

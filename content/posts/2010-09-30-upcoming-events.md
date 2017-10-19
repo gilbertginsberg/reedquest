@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-author: Staff
+authors: Staff
 type: post
 date: 2010-09-30T18:16:39+00:00
 url: /2010/09/30/upcoming-events/

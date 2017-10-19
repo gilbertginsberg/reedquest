@@ -1,6 +1,7 @@
 ---
 title: 'From the Archives: Student Sip Near-Beer for Sociology'
-author: Staff
+authors: 
+  - Staff
 type: post
 date: 2012-03-30T22:08:04+00:00
 url: /2012/03/30/from-the-archives-student-sip-near-beer-for-sociology/

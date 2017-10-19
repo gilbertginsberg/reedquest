@@ -1,6 +1,6 @@
 ---
 title: -ism Plans Feminist Bakesale
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-31T19:53:48+00:00
 url: /2011/03/31/ism-plans-feminist-bakesale/

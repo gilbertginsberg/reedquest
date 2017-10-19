@@ -1,6 +1,6 @@
 ---
 title: Turning a Progressively Critical Eye to The Vagina Monologues
-author: Staff
+authors: Staff
 type: post
 date: 2011-03-31T19:31:44+00:00
 url: /2011/03/31/turning-a-progressively-critical-eye-to-the-vagina-monologues/

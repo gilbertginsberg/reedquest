@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Katelyn Best'
-author: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2012-11-29T06:50:10+00:00
 url: /2012/11/28/cool-thesis-of-the-week-katelyn-best/

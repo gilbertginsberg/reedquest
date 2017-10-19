@@ -1,6 +1,6 @@
 ---
 title: The Five Songs You Need to Survive Being Sexiled
-author: Johnny Flores
+authors: Johnny Flores
 type: post
 date: 2010-09-22T18:39:39+00:00
 url: /2010/09/22/the-five-songs-you-need-to-survive-being-sexiled/

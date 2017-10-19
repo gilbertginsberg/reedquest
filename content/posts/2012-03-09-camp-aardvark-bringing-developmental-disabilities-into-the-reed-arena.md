@@ -1,6 +1,7 @@
 ---
 title: 'Camp Aardvark: Bringing Developmental Disabilities into the Reed Arena'
-author: Sammie Massey
+authors: 
+  - "Sammie Massey"
 type: post
 date: 2012-03-09T11:47:30+00:00
 url: /2012/03/09/camp-aardvark-bringing-developmental-disabilities-into-the-reed-arena/

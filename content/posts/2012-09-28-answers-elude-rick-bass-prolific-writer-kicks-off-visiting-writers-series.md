@@ -1,6 +1,7 @@
 ---
 title: 'Answers Elude Rick Bass: Prolific Writer Kicks Off Visiting Writers Series'
-author: Charlie Wilcox
+authors: 
+  - "Charlie Wilcox"
 type: post
 date: 2012-09-28T16:50:42+00:00
 url: /2012/09/28/answers-elude-rick-bass-prolific-writer-kicks-off-visiting-writers-series/
