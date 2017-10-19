@@ -1,6 +1,7 @@
 ---
 title: Reedie Bequeaths Economics Post
-authors: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2011-11-04T21:16:01+00:00
 url: /2011/11/04/reedie-bequeaths-economics-post/

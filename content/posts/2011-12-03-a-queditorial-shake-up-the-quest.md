@@ -1,6 +1,7 @@
 ---
 title: 'A Queditorial: Shake Up The Quest'
-authors: Katelyn Best
+authors: 
+  - "Katelyn Best"
 type: post
 date: 2011-12-03T22:11:36+00:00
 url: /2011/12/03/a-queditorial-shake-up-the-quest/

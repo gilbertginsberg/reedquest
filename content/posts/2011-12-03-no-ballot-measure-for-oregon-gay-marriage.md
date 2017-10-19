@@ -1,6 +1,7 @@
 ---
 title: No Ballot Measure for Oregon Gay Marriage
-authors: questadmin
+authors: 
+  - "questadmin"
 type: post
 date: 2011-12-03T22:49:00+00:00
 url: /2011/12/03/no-ballot-measure-for-oregon-gay-marriage/

@@ -1,6 +1,7 @@
 ---
 title: Mike’s Rebuttal
-authors: Mike Brody
+authors: 
+  - "Mike Brody"
 type: post
 date: 2011-11-18T01:32:24+00:00
 url: /2011/11/17/mikes-rebuttal/

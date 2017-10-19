@@ -1,6 +1,7 @@
 ---
 title: Multiculuralism and the Search for the Perfect T-shirt
-authors: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2011-11-18T22:04:04+00:00
 url: /2011/11/18/multiculuralism-and-the-search-for-the-perfect-t-shirt/

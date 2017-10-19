@@ -1,6 +1,7 @@
 ---
 title: Captured! Doyle Owl Changes Hands, Four Injured In Struggle
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-11-12T03:24:23+00:00
 url: /2011/11/11/captured-doyle-owl-changes-hands-four-injured-in-struggle/

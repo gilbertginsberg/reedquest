@@ -1,6 +1,7 @@
 ---
 title: Defenders of the Universe, Adversaries of the Ordinary
-authors: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2011-12-03T22:18:41+00:00
 url: /2011/12/03/defenders-of-the-universe-adversaries-of-the-ordinary/

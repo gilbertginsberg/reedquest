@@ -1,6 +1,7 @@
 ---
 title: Renn Fayre Czar Choice Disputed
-authors: Rob Shryock
+authors: 
+  - "Rob Shryock"
 type: post
 date: 2011-11-04T21:23:08+00:00
 url: /2011/11/04/renn-fayre-czar-choice-disputed/

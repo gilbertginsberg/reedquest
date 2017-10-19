@@ -1,6 +1,7 @@
 ---
 title: A Mission for the New Senate
-authors: Heather Chan
+authors: 
+  - "Heather Chan"
 type: post
 date: 2011-12-08T08:00:31+00:00
 url: /2011/12/08/a-mission-for-the-new-senate/

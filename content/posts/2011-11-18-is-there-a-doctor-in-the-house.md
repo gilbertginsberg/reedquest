@@ -1,6 +1,7 @@
 ---
 title: Is There A Doctor In The House?
-authors: Shabab Mirza
+authors: 
+  - "Shabab Mirza"
 type: post
 date: 2011-11-18T21:32:12+00:00
 url: /2011/11/18/is-there-a-doctor-in-the-house/

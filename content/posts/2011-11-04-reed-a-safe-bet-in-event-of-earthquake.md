@@ -1,6 +1,7 @@
 ---
 title: Reed a Safe Bet in Event of Earthquake
-authors: Colleen Sprat
+authors: 
+  - "Colleen Sprat"
 type: post
 date: 2011-11-04T22:03:49+00:00
 url: /2011/11/04/reed-a-safe-bet-in-event-of-earthquake/

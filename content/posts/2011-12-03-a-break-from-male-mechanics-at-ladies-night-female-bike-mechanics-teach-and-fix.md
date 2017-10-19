@@ -1,6 +1,7 @@
 ---
 title: A Break From Male Mechanics
-authors: Sasha Peters
+authors: 
+  - "Sasha Peters"
 type: post
 date: 2011-12-03T22:14:15+00:00
 url: /2011/12/03/a-break-from-male-mechanics-at-ladies-night-female-bike-mechanics-teach-and-fix/

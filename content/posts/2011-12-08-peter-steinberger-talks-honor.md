@@ -1,6 +1,7 @@
 ---
 title: Peter Steinberger Talks Honor
-authors: Julia Selker
+authors: 
+  - "Julia Selker"
 type: post
 date: 2011-12-08T08:00:04+00:00
 url: /2011/12/08/peter-steinberger-talks-honor/

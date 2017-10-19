@@ -1,6 +1,7 @@
 ---
 title: Gray Fund and the Honor Principle
-authors: Lauren Cary
+authors: 
+  - "Lauren Cary"
 type: post
 date: 2011-12-08T08:00:13+00:00
 url: /2011/12/08/gray-fund-and-the-honor-principle/

@@ -1,6 +1,7 @@
 ---
 title: Response to “Ask Mike”
-authors: Jacob Canter
+authors: 
+  - "Jacob Canter"
 type: post
 date: 2011-11-18T01:26:33+00:00
 url: /2011/11/17/response-to-ask-mike/

@@ -1,6 +1,7 @@
 ---
 title: Lev Responds to “An Optimist’s Response”
-authors: Lev Navarre
+authors: 
+  - "Lev Navarre"
 type: post
 date: 2011-12-08T08:00:05+00:00
 url: /2011/12/08/lev-responds-to-an-optimists-response/

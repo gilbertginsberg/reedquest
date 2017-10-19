@@ -1,6 +1,7 @@
 ---
 title: Aerialists Fly Into View
-authors: Alex Krafcik
+authors: 
+  - "Alex Krafcik"
 type: post
 date: 2011-11-18T21:56:12+00:00
 url: /2011/11/18/aerialists-fly-into-view/

@@ -1,6 +1,7 @@
 ---
 title: Engagement in the Community? What Community? Senate, Students Fail to Cure Collective Apathy
-authors: Kieran Hanrahan
+authors: 
+  - "Kieran Hanrahan"
 type: post
 date: 2011-12-03T22:03:38+00:00
 url: /2011/12/03/engagement-in-the-community-what-community-senate-students-fail-to-cure-collective-apathy/

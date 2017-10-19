@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Melissa Aslo Islam in a Superhero Comic'
-authors: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2011-11-17T18:55:00+00:00
 url: /2011/11/17/cool-thesis-of-the-week-melissa-aslo-islam-in-a-superhero-comic/

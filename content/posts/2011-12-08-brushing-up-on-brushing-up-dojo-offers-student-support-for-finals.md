@@ -1,6 +1,7 @@
 ---
 title: 'Brushing Up on Brushing Up: DoJo offers student support for finals'
-authors: Jeremy Melloul
+authors: 
+  - "Jeremy Melloul"
 type: post
 date: 2011-12-08T08:00:24+00:00
 url: /2011/12/08/brushing-up-on-brushing-up-dojo-offers-student-support-for-finals/

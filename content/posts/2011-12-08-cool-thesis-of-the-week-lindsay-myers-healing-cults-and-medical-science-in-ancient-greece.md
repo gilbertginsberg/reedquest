@@ -1,6 +1,7 @@
 ---
 title: 'Cool Thesis of the Week: Healing Cults in Ancient Greece'
-authors: Alex Blum
+authors: 
+  - "Alex Blum"
 type: post
 date: 2011-12-09T06:16:39+00:00
 url: /2011/12/08/cool-thesis-of-the-week-lindsay-myers-healing-cults-and-medical-science-in-ancient-greece/
