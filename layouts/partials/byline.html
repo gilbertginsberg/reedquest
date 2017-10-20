@@ -1,0 +1,16 @@
+
+{{ with .Params.authors }}
+<div class="post-metadeta">
+  By:
+  {{ $len := len . }}
+  {{ if eq $len 1 }}
+    {{ partial "byline-link" (index . 0) }}
+  {{ else }}
+    {{ $last := sub $len 1 }}
+    {{ range first $last . }}
+      {{ partial "byline-link" . }},
+    {{ end }}
+    and {{ partial "byline-link" (index . $last) }}
+  {{ end }}
+</div>
+{{ end }}

@@ -1,12 +1,9 @@
 <div>
     <a href="{{.URL}}">{{.Title}}</a>
   </div>
-  <div class="post-metadata">
-			{{ if .Params.authors }}
-			<strong>By:</strong> {{range .Params.authors}}<a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
-			{{end}}
-			{{end}}
-	</div>
+  
+  {{ partial "byline.html" . }}
+  
   <div>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
     <article>
       {{.Content}}
