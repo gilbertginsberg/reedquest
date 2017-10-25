@@ -1,6 +1,9 @@
 {{ define "main" }}
     This is the default single template.
+
     {{ if eq .Type "post" }}
         {{ partial "post.html" . }}
+    {{ else }}
+        {{ .Content }}
     {{ end }}
 {{ end }}
