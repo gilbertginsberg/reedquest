@@ -1,3 +1,12 @@
+<!-- 
+  If there are multiple authors, this partial formats author bylines so they appear as, for example:
+  If 1 author: John Doe
+  If 2 authors: John Doe and Jane Doe 
+  If >=3 authors: John Doe, Jane Doe and Mary Po
+
+  See: https://gohugo.io/functions/apply/ and https://gohugo.io/functions/delimit/ for details on these functions
+  See: https://tour.golang.org/basics/8 to learn about Go variables
+-->
 
 {{ with .Params.authors }}
 <div class="post-metadeta">
@@ -5,12 +14,13 @@
   {{ $len := len . }}
   {{ if eq $len 1 }}
     {{ partial "byline-link" (index . 0) }}
+  {{ else if eq $len 2 }}
+    {{ partial "byline-link" (index . 0) }} and {{ partial "byline-link" (index . 1) }}
   {{ else }}
-    {{ $last := sub $len 1 }}
-    {{ range first $last . }}
-      {{ partial "byline-link" . }},
-    {{ end }}
-    and {{ partial "byline-link" (index . $last) }}
+    {{ $links := apply . "partial" "byline-link" "." }}
+    {{ $clean := apply $links "chomp" "." }}
+    {{ delimit $clean ", " " and " }}
   {{ end }}
 </div>
 {{ end }}
+
