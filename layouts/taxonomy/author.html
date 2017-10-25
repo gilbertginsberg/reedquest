@@ -1,7 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-  <h2>Story Archive</h2>
+  {{ .Content }}
 
+  <h2>Story Archive</h2>
+ 
   {{ partial "posts.html" . }}
 {{ end }}
