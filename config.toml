@@ -2,7 +2,10 @@ baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "The Reed College Quest"
 twitter = "reedquest"
-shortDescription = "The Reed College Quest is the independently run student newspaper of Reed College."
+
+[params]
+    description = "The Reed College Quest is the independently run student newspaper of Reed College."
+
 [taxonomies]
     tag = "tags"
     category = "categories"
