@@ -12,7 +12,7 @@
 
  3: `cd` into your repo's directory
 
- 4: Run `hugo server` 
+ 4: Run `hugo server` from the command line
  
- 5: And navigate to your the site at http://localhost:1313/
+ 5: And navigate to the site at http://localhost:1313/
 
