@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://www.reedquest.org/"
 languageCode = "en-us"
 title = "The Reed College Quest"
 twitter = "reedquest"
