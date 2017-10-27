@@ -9,11 +9,8 @@
 			The Reed College Quest - {{ .Title }}
 		{{ end }}
 	</title>
-	<meta name="description" content="{{ if eq .Type "post" }}
-																			{{ .Summary | plainify }}
-																		{{ else }} 
-																			{{ $.Site.Params.description }}
-																		{{end}}">
+	<meta name="description" content="{{ if eq .Type "post" }}{{ .Summary | plainify }}{{ else }}{{ $.Site.Params.description }}{{end}}">
+
 	<!-- favicon start -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
@@ -21,6 +18,26 @@
 	<link rel="manifest" href="/images/favicons/manifest.json">
 	<meta name="theme-color" content="#ffffff">
 	<!-- favicon end -->
+
+	<!-- facebook open graph start -->
+  <meta property="og:type" content="{{ if eq .Type "post" }}article{{ else }}website{{end}}">
+  <meta property="og:url" content="{{ strings.TrimRight "/" .Site.BaseURL }}{{ .URL }}">
+  <meta property="og:title" content="{{ .Params.Title }}">
+  <meta property="og:image" content="{{ .Params.image }}">
+  <meta property="og:description" content="{{ if eq .Type "post" }}{{ .Summary | plainify }}{{ else }}{{ $.Site.Params.description }}{{ end }}">
+  <meta property="og:site_name" content="The Reed College Quest">
+  <meta property="og:locale" content="en_US">
+  <!-- facebook open graph end-->
+
+  <!-- twitter card start -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ $.Site.Params.twitter }}">
+  <meta name="twitter:creator" content="{{ $.Site.Params.twitter }}">
+  <meta name="twitter:url" content="{{ strings.TrimRight "/" .Site.BaseURL }}{{ .URL }}">
+  <meta name="twitter:title" content="{{ .Params.Title }}">
+  <meta name="twitter:description" content="{{ if eq .Type "post" }}{{ .Summary | plainify }}{{ else }}{{ $.Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ .Params.image }}">
+  <!-- twitter card end -->
 
 	<link rel="stylesheet" href="/css/base.css">
 	<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
